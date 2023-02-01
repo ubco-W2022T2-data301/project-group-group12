@@ -12,7 +12,7 @@ Given the increasing advocacy towards mental health and mental health support, w
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+Our dataset analyzes the influence of music on mental health by collecting a magnitude of variables from 736 individuals. The variables include each individual’s age, primary streaming service used, hours of day spent listening to music, whether music is listened to during work, and whether they play an instrument or a composer. It also analyzes the type of music as well, such as the favourite genre, whether the respondent explores a variety of genres or listen to music in foreign languages, the beats per minute (BPM) of the music, and how frequently predetermined genres of music are listened to. These genres include classical, country, EDM, folk, gospel, hip hop, jazz, K pop, Latin, lofi, metal, pop, R&B, rap, pop,  and video game music.  Finally, the dataset analyzes the respondents’ mental health with factors inlcuding amount of anxiety, depression, insomina, OCD, based on a rating from 0-10 with 0 being the lowest and 10 being the highest. the respondents’ personal opinion on whether music improves their mental health.
 
 ## Team Members
 
