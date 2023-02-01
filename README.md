@@ -16,7 +16,7 @@ Given the increasing advocacy towards mental health and mental health support, w
 
 ## Team Members
 
-- Person 1: one sentence about you!
+- Alyssa : I am a third year in microbiology. I like to play the flute, longboard and play Valorant!
 - Person 2: one sentence about you!
 - Person 3: one sentence about you!
 
