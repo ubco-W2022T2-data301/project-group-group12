@@ -17,7 +17,7 @@ Given the increasing advocacy towards mental health and mental health support, w
 ## Team Members
 
 - Alyssa : I am a third year in microbiology. I like to play the flute, longboard and play Valorant!
-- Person 2: one sentence about you!
+- Haider Mohammad: As a 4th year Management student with an interest in the CPA program, I am currently focused on finance and accounting courses.
 - Zainab Mohammad: I am a 4th year Biochemistry and Molecular Biology student, with a profound interest in the field of computer science.  
 
 ## Images
