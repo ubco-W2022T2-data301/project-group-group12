@@ -1,4 +1,4 @@
-# Group YY - {Short snappy Title of your project}
+# Group 12 - Music Therapy And Mental Health
 
 - Your title can change over time.
 
@@ -8,7 +8,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+Given the increasing advocacy towards mental health and mental health support, we aim to explore how music may impact mental wellbeing, considering the perspectives of diverse age groups and how influential music has been in their daily lifestyle. Utilizing our findings, we hope to produce detailed, thoroughly developed, and comprehensive data visualizations that can aid the general public in understanding the influence of music on their mental health. As a dedicated team of students who have experienced our own mental hurdles, our team intends to use this project to provide a greater understanding of mental health with respect to music. 
 
 ## Describe your dataset in about 150-200 words
 
@@ -16,7 +16,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Team Members
 
-- Person 1: one sentence about you!
+- Alyssa : I am a third year in microbiology. I like to play the flute, longboard and play Valorant!
 - Person 2: one sentence about you!
 - Zainab Mohammad: I am a 4th year Biochemistry and Molecular Biology student, with a profound interest in the field of computer science.  
 

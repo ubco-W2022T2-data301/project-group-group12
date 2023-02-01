@@ -1,3 +1,3 @@
 # Processed Data Folder
 
-- `processed` - You can place cleaned up, and processed data files in this directory.
+This directory contains the processed dataset file (Music Therapy and Mental Health Survey Results).

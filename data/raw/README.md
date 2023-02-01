@@ -1,3 +1,3 @@
 # Raw Data Folder
 
-- `raw` - raw data should go in this directory; you should add the original source file here. Always keep the original data file without editing.
+This directory contains the raw, unedited dataset file (Music Therapy and Mental Health Survey Results).
