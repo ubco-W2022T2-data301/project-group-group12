@@ -2,7 +2,25 @@ import pandas as pd
 
 def load_and_process(url_or_path_to_csv_file):
 
-    # Method Chain 1 (Load data and deal with missing data)
+    
+    def Primarystreamingservice(x):
+        '''
+        This function analyzes the given primary streaming service type, and assigns it a numerical value accordingly (numbers are easier to work with).
+        '''
+        if x['Primary streaming service']=="Spotify":
+            return "1"
+        elif x['Primary streaming service']=="Pandora": 
+            return "2"  
+        elif x['Primary streaming service']=="YouTube Music":
+            return "3"
+        elif x['Primary streaming service']=="Apple Music": 
+            return "4"  
+        elif x['Primary streaming service']=="I do not use a streaming service.":
+            return "5"
+        else: 
+            return "6"  
+
+        # Method Chain 1 (Load data and deal with missing data)
 
     datasetchain1 = (
                 pd.read_csv('../data/raw/music_therapy_and_mental_health_survey_results (1).csv') \
@@ -22,6 +40,7 @@ def load_and_process(url_or_path_to_csv_file):
     
     )
 
+    
     # Make sure to return the latest dataframe
 
     return datasetchain2 
