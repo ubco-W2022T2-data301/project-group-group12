@@ -1,726 +1,617 @@
-,Instrumentalist,Composer,Anxiety,Depression,Insomnia,OCD,Music effects
-2,No,No,7.0,7.0,10.0,2.0,No effect
-3,No,Yes,9.0,7.0,3.0,3.0,Improve
-4,No,No,7.0,2.0,5.0,9.0,Improve
-5,Yes,Yes,8.0,8.0,7.0,7.0,Improve
-6,Yes,No,4.0,8.0,6.0,0.0,Improve
-7,No,No,5.0,3.0,5.0,3.0,Improve
-8,No,No,2.0,0.0,0.0,0.0,Improve
-9,No,No,2.0,2.0,5.0,1.0,Improve
-10,Yes,No,7.0,7.0,4.0,7.0,No effect
-11,No,No,1.0,0.0,0.0,1.0,Improve
-12,No,No,9.0,3.0,2.0,7.0,Improve
-13,No,No,2.0,1.0,2.0,0.0,Improve
-14,Yes,No,6.0,4.0,7.0,0.0,Improve
-15,No,No,7.0,5.0,4.0,1.0,Worsen
-16,No,No,8.0,8.0,4.0,3.0,Improve
-17,No,Yes,5.0,7.0,10.0,0.0,Improve
-18,No,No,7.0,5.0,0.0,3.0,Improve
-19,No,No,7.0,3.0,0.0,2.0,Improve
-20,No,No,6.0,9.0,3.0,0.0,Improve
-21,No,No,10.0,10.0,2.0,4.0,Improve
-22,No,No,6.0,7.0,5.0,4.0,Improve
-23,No,No,3.0,3.0,8.0,6.0,No effect
-24,Yes,Yes,10.0,6.0,8.0,10.0,Improve
-25,No,No,7.0,4.0,2.0,5.0,Improve
-26,Yes,Yes,8.0,6.0,10.0,5.0,Improve
-27,Yes,Yes,3.0,2.0,1.0,2.0,Improve
-28,Yes,No,6.0,6.0,4.0,5.0,Improve
-29,No,No,8.0,2.0,1.0,5.0,Improve
-30,Yes,No,7.0,7.0,2.0,0.0,Improve
-31,No,No,4.0,4.0,4.0,3.0,No effect
-32,Yes,No,9.0,8.0,2.0,3.0,Improve
-33,No,No,5.0,6.0,6.0,1.0,Improve
-34,No,No,0.0,0.0,0.0,0.0,No effect
-35,Yes,No,3.0,2.0,1.0,1.0,Improve
-36,No,No,6.0,8.0,0.0,2.0,Improve
-37,No,No,2.0,0.0,4.0,0.0,No effect
-38,No,No,9.0,8.0,1.0,0.0,No effect
-39,No,No,7.0,2.0,8.0,6.0,Improve
-40,Yes,Yes,4.0,2.0,3.0,4.0,Improve
-41,Yes,No,7.0,6.0,5.0,0.0,Improve
-42,No,No,3.0,2.0,10.0,0.0,No effect
-43,No,No,6.0,6.0,8.0,2.0,Improve
-44,No,No,1.0,0.0,8.0,2.0,No effect
-45,Yes,Yes,7.0,3.0,1.0,5.0,Improve
-46,Yes,Yes,8.0,9.0,3.0,0.0,No effect
-47,No,No,9.0,6.0,4.0,3.0,Improve
-48,No,Yes,7.0,9.0,5.0,0.0,Improve
-49,No,No,7.0,4.0,2.0,4.0,No effect
-50,Yes,No,0.0,0.0,0.0,0.0,Improve
-51,No,No,7.0,8.0,7.0,5.0,Improve
-52,No,No,10.0,6.0,3.0,10.0,No effect
-53,No,No,3.0,7.0,5.0,5.0,No effect
-54,No,Yes,8.0,7.0,4.0,3.0,Improve
-55,Yes,No,0.0,0.0,1.0,3.0,Improve
-56,No,No,8.0,6.0,2.0,10.0,No effect
-57,No,No,9.0,0.0,10.0,0.0,No effect
-58,No,No,6.0,4.0,2.0,3.0,Improve
-59,Yes,No,7.0,0.0,0.0,2.0,Improve
-60,Yes,No,10.0,1.0,0.0,0.0,Improve
-61,Yes,No,8.0,7.0,0.0,5.0,Improve
-62,Yes,No,3.0,2.0,6.0,7.0,Improve
-63,No,No,5.0,5.0,3.0,1.0,No effect
-64,No,No,10.0,10.0,3.0,1.0,Worsen
-65,No,No,5.0,4.0,10.0,2.0,Improve
-66,No,No,0.0,0.0,8.0,0.0,No effect
-67,No,No,8.0,8.0,5.0,10.0,Improve
-68,Yes,Yes,10.0,7.0,8.0,0.0,Improve
-69,Yes,Yes,7.0,3.0,1.0,1.0,Improve
-70,No,No,8.0,7.0,4.0,0.0,Improve
-71,No,No,10.0,2.0,0.0,5.0,No effect
-72,No,No,9.0,8.0,1.0,2.0,Improve
-73,Yes,Yes,6.0,3.0,1.0,1.0,Improve
-74,No,No,7.0,7.0,0.0,1.0,No effect
-75,Yes,Yes,7.0,7.0,8.0,4.0,Improve
-76,No,No,4.0,1.0,0.0,0.0,Improve
-77,No,No,7.0,2.0,1.0,5.0,Improve
-78,No,No,9.0,0.0,5.0,10.0,Improve
-79,No,No,2.0,7.0,1.0,1.0,Improve
-80,Yes,Yes,10.0,8.0,7.0,0.0,Improve
-81,No,No,3.0,0.0,0.0,0.0,Improve
-82,No,No,7.0,8.0,5.0,1.0,No effect
-83,Yes,Yes,2.0,1.0,0.0,0.0,Improve
-84,No,No,5.0,4.0,0.0,1.0,Improve
-85,No,No,9.0,10.0,6.0,10.0,No effect
-86,Yes,No,2.0,0.0,0.0,0.0,Improve
-87,No,No,5.0,2.0,5.0,1.0,Improve
-88,No,No,3.0,2.0,0.0,0.0,No effect
-89,No,No,2.0,0.0,7.0,0.0,No effect
-90,Yes,No,7.0,6.0,6.0,2.0,No effect
-91,Yes,Yes,5.0,4.0,8.0,3.0,No effect
-92,No,No,4.0,6.0,5.0,3.0,Improve
-93,No,No,6.0,2.0,3.0,1.0,Improve
-94,No,No,8.0,2.0,1.0,6.0,Improve
-95,No,No,9.0,6.0,0.0,6.0,Improve
-96,No,Yes,0.0,3.0,7.0,0.0,Improve
-97,No,No,8.0,9.0,6.0,2.0,Improve
-98,No,No,4.0,1.0,1.0,1.0,Improve
-99,No,No,8.0,7.0,5.0,0.0,Improve
-100,Yes,Yes,3.0,4.0,6.0,1.0,Improve
-101,Yes,No,1.0,1.0,3.0,1.0,Improve
-102,No,No,10.0,8.0,6.0,7.0,No effect
-103,No,No,6.0,6.0,2.0,0.0,No effect
-104,No,No,6.0,7.0,0.0,0.0,Improve
-105,Yes,No,8.0,4.0,10.0,0.0,No effect
-106,No,No,9.0,7.0,6.0,2.0,No effect
-107,Yes,No,7.0,4.0,6.0,5.0,Improve
-108,No,No,6.0,7.0,0.0,0.0,No effect
-109,No,Yes,10.0,0.0,10.0,10.0,Improve
-110,No,No,6.0,3.0,0.0,1.0,Improve
-111,No,No,7.0,5.0,5.0,3.0,Improve
-112,No,No,7.0,10.0,5.0,0.0,Improve
-113,Yes,No,8.0,6.0,0.0,0.0,Improve
-114,No,No,4.0,3.0,0.0,0.0,Improve
-115,No,No,7.0,6.0,7.0,5.0,Improve
-116,Yes,No,7.0,3.0,2.0,3.0,Improve
-117,No,Yes,2.0,7.0,5.0,0.0,Improve
-118,No,No,7.0,8.0,6.0,5.0,Improve
-119,No,No,4.0,7.0,1.0,0.0,Improve
-120,No,No,7.0,8.0,5.0,1.0,No effect
-121,No,No,5.0,2.0,8.0,6.0,Improve
-122,Yes,Yes,10.0,7.0,4.0,2.0,Improve
-123,No,No,6.0,5.0,0.0,0.0,No effect
-124,No,No,7.0,2.0,3.0,1.0,Improve
-125,Yes,Yes,4.0,7.0,7.0,3.0,Improve
-126,Yes,Yes,4.0,5.0,6.0,5.0,Improve
-127,Yes,Yes,7.0,10.0,5.0,6.0,Worsen
-128,No,No,6.0,4.0,5.0,0.0,Improve
-129,No,No,4.0,1.0,3.0,1.0,No effect
-130,Yes,No,6.0,6.0,1.0,2.0,Improve
-131,No,No,10.0,8.0,7.0,1.0,Improve
-132,No,No,10.0,8.0,2.0,8.0,Improve
-133,No,No,3.0,6.0,2.0,0.0,No effect
-134,Yes,No,8.0,9.0,2.0,0.0,Improve
-135,Yes,No,8.0,3.0,8.0,7.0,Improve
-136,Yes,No,3.0,3.0,1.0,2.0,Improve
-137,Yes,No,6.0,5.0,2.0,0.0,Improve
-138,No,Yes,0.0,0.0,4.0,0.0,No effect
-139,No,No,6.0,5.0,0.0,2.0,Improve
-140,No,No,3.0,8.0,0.0,0.0,Improve
-141,No,No,1.0,8.0,0.0,0.0,No effect
-142,No,No,5.0,6.0,6.0,3.0,Improve
-143,No,No,0.0,0.0,0.0,0.0,Improve
-144,No,No,0.0,8.0,0.0,0.0,Improve
-145,No,No,3.0,7.0,0.0,0.0,Improve
-146,Yes,Yes,8.0,8.0,8.0,5.0,Improve
-147,Yes,Yes,5.0,2.0,3.0,4.0,Improve
-148,Yes,No,8.0,8.0,3.0,0.0,Improve
-149,No,No,6.0,8.0,8.0,0.0,Improve
-150,No,No,6.0,8.0,6.0,0.0,Worsen
-151,Yes,Yes,6.0,6.0,7.0,5.0,Improve
-152,No,No,9.0,10.0,3.0,0.0,No effect
-153,Yes,No,7.0,7.0,5.0,0.0,Improve
-154,No,No,10.0,7.0,2.0,8.0,No effect
-155,Yes,No,1.0,3.0,0.0,6.0,No effect
-156,Yes,No,5.0,3.0,2.0,1.0,Improve
-157,No,No,6.0,8.0,1.0,6.0,Improve
-158,No,No,7.0,2.0,0.0,7.0,Improve
-159,Yes,No,6.0,9.0,9.0,0.0,Improve
-160,No,No,1.0,1.0,4.0,1.0,No effect
-162,No,No,8.0,8.0,2.0,0.0,Improve
-163,Yes,Yes,3.0,3.0,7.0,0.0,No effect
-164,No,No,8.0,8.0,3.0,0.0,Improve
-165,No,Yes,6.0,4.0,0.0,3.0,No effect
-166,No,No,1.0,0.0,0.0,0.0,Improve
-167,No,No,5.0,5.0,4.0,4.0,Improve
-169,Yes,No,8.0,8.0,7.0,6.0,Improve
-170,No,No,3.0,0.0,2.0,0.0,Improve
-171,No,No,0.0,5.0,1.0,0.0,No effect
-172,No,No,6.0,3.0,0.0,0.0,Improve
-173,No,Yes,1.0,7.0,5.0,1.0,Improve
-174,Yes,Yes,4.0,2.0,1.0,1.0,No effect
-175,No,No,5.0,6.0,0.0,1.0,No effect
-176,No,No,1.0,0.0,0.0,0.0,No effect
-177,No,No,8.0,6.0,5.0,2.0,Improve
-178,Yes,Yes,9.0,4.0,0.0,3.0,Improve
-179,No,No,4.0,6.0,6.0,4.0,Improve
-180,No,No,7.0,3.0,1.0,5.0,Improve
-181,No,No,10.0,3.0,1.0,0.0,No effect
-182,No,No,8.0,8.0,3.0,0.0,Improve
-183,No,No,7.0,6.0,5.0,4.0,Improve
-184,Yes,No,7.0,2.0,3.0,5.0,Improve
-185,No,No,10.0,3.5,5.0,10.0,Improve
-186,No,No,7.0,5.0,1.0,2.0,Improve
-187,Yes,No,6.0,8.0,9.0,5.0,Improve
-188,No,No,2.0,9.0,2.0,1.0,No effect
-189,Yes,Yes,7.0,4.0,10.0,2.0,Improve
-190,Yes,No,7.0,5.0,6.0,0.0,Improve
-191,No,No,6.0,1.0,0.0,0.0,Improve
-192,Yes,No,3.0,6.0,1.0,1.0,Improve
-193,No,No,9.0,10.0,3.0,0.0,Improve
-194,Yes,No,8.0,5.0,8.0,9.0,Improve
-195,No,No,8.0,7.0,7.0,3.0,Improve
-196,No,No,9.0,9.0,9.0,3.0,No effect
-197,No,No,9.0,8.0,9.0,7.0,Improve
-198,No,No,9.0,3.0,7.0,8.0,Improve
-199,No,No,10.0,8.0,6.0,2.0,Improve
-200,No,No,9.0,6.0,3.0,0.0,Improve
-201,No,No,7.0,7.0,8.0,3.0,Improve
-202,No,Yes,9.0,10.0,4.0,0.0,Improve
-203,No,No,9.0,9.0,8.0,2.0,Improve
-204,No,No,9.0,10.0,3.0,9.0,Improve
-205,Yes,Yes,10.0,9.0,8.0,8.0,Improve
-206,No,Yes,6.0,5.0,6.0,8.0,Improve
-207,No,No,8.0,6.0,10.0,3.0,Improve
-208,No,No,8.0,3.0,6.0,4.0,Improve
-209,Yes,No,4.0,2.0,1.0,3.0,Improve
-210,No,No,2.0,1.0,1.0,1.0,No effect
-211,No,No,10.0,10.0,7.0,3.0,Improve
-212,No,No,8.0,9.0,0.0,0.0,Improve
-213,No,No,4.0,9.0,6.0,2.0,No effect
-214,No,No,4.0,2.0,0.0,0.0,Improve
-215,No,No,9.0,2.0,7.0,7.0,Improve
-216,No,No,8.0,6.0,7.0,5.0,Improve
-217,Yes,No,6.0,5.0,4.0,2.0,Improve
-218,No,No,8.0,5.0,2.0,3.0,Improve
-219,Yes,Yes,7.0,6.0,6.0,1.0,No effect
-220,Yes,No,10.0,2.0,0.0,0.0,Improve
-221,No,No,6.0,0.0,0.0,0.0,Improve
-222,No,No,2.0,0.0,1.0,0.0,Improve
-224,No,No,9.0,0.0,2.0,0.0,Improve
-225,No,No,5.0,4.0,1.0,1.0,Improve
-226,No,No,8.0,4.0,0.0,1.0,Improve
-227,No,No,8.0,10.0,2.0,0.0,Improve
-228,No,No,3.0,6.0,2.0,1.0,No effect
-229,No,No,4.0,4.0,2.0,1.0,Improve
-230,Yes,No,7.0,5.0,2.0,6.0,Improve
-231,No,No,3.0,2.0,0.0,0.0,No effect
-232,Yes,Yes,9.0,9.0,5.0,1.0,Improve
-233,No,No,3.0,10.0,4.0,1.0,No effect
-234,No,No,9.0,0.0,5.0,0.0,No effect
-235,Yes,No,7.0,6.0,6.0,5.0,Improve
-236,No,Yes,0.0,9.0,4.0,0.0,Improve
-237,No,No,2.0,2.0,2.0,1.0,No effect
-238,Yes,Yes,6.0,9.0,2.0,1.0,Improve
-239,No,Yes,6.0,4.0,1.0,0.0,Improve
-240,Yes,No,8.0,9.0,4.0,0.0,Improve
-241,Yes,Yes,6.0,7.0,4.0,3.0,Improve
-242,Yes,Yes,7.0,2.0,2.0,0.0,Improve
-243,No,No,8.0,6.0,5.0,6.0,No effect
-244,No,No,3.0,10.0,0.0,0.0,Worsen
-245,Yes,No,9.0,4.0,9.0,7.0,Improve
-246,Yes,No,7.0,9.0,2.0,8.0,Worsen
-247,No,No,10.0,3.0,1.0,4.0,Improve
-248,Yes,Yes,0.0,0.0,0.0,1.0,No effect
-249,No,No,9.0,6.0,1.0,7.0,No effect
-250,No,Yes,7.0,1.0,3.0,5.0,Improve
-251,Yes,No,9.0,7.0,5.0,7.0,Improve
-252,No,No,3.0,1.0,2.0,7.0,Improve
-253,No,No,6.0,6.0,8.0,0.0,Improve
-254,No,No,10.0,6.0,0.0,4.0,Improve
-255,Yes,No,6.0,3.0,1.0,1.0,Improve
-256,No,No,3.0,3.0,0.0,7.0,No effect
-257,No,No,9.0,10.0,2.0,2.0,No effect
-258,No,No,7.0,5.0,0.0,2.0,No effect
-259,No,No,3.0,0.0,4.0,4.0,No effect
-260,No,No,9.0,9.0,6.0,4.0,Improve
-261,Yes,No,5.0,7.0,7.0,2.0,Improve
-262,No,No,0.0,8.0,0.0,5.0,Improve
-263,No,No,8.0,4.0,3.0,4.0,Improve
-264,No,No,7.0,2.0,0.0,7.0,No effect
-265,No,No,9.0,9.0,6.0,9.0,No effect
-266,Yes,No,5.0,7.0,5.0,4.0,Improve
-267,Yes,No,5.0,1.0,0.0,0.0,Improve
-268,No,Yes,4.0,1.0,3.0,0.0,Improve
-269,No,No,3.0,5.0,3.0,0.0,Improve
-270,Yes,No,2.0,2.0,0.0,6.0,Improve
-271,No,No,0.0,1.0,3.0,5.0,Improve
-272,No,No,7.0,8.0,6.0,2.0,Improve
-273,No,Yes,6.0,4.0,8.0,8.0,Improve
-274,No,No,5.0,6.0,8.0,2.0,Improve
-275,No,No,6.0,6.0,2.0,6.0,No effect
-276,No,No,8.0,9.0,3.0,4.0,Improve
-277,Yes,Yes,8.0,4.0,3.0,3.0,Worsen
-278,Yes,Yes,8.0,6.0,5.0,7.0,Improve
-279,No,No,8.0,8.0,7.0,7.0,Improve
-280,No,Yes,5.0,2.0,5.0,0.0,Improve
-281,Yes,Yes,6.0,8.0,4.0,2.0,No effect
-282,No,No,7.0,5.0,2.0,1.0,No effect
-283,No,No,8.0,8.0,7.0,1.0,Improve
-284,Yes,No,10.0,2.0,0.0,0.0,Improve
-285,Yes,Yes,8.0,7.0,7.0,5.0,Improve
-286,No,No,8.0,8.0,8.0,6.0,Improve
-287,Yes,Yes,8.0,10.0,9.0,2.0,Improve
-288,No,No,6.0,1.0,8.0,4.0,No effect
-289,No,No,0.0,4.0,4.0,0.0,Improve
-290,No,No,8.0,10.0,10.0,8.0,No effect
-291,No,No,3.0,2.0,0.0,1.0,No effect
-292,Yes,Yes,5.0,3.0,3.0,1.0,Improve
-293,No,No,8.0,9.0,6.0,1.0,Improve
-294,Yes,No,10.0,3.0,0.0,10.0,No effect
-295,Yes,No,6.0,7.0,8.0,2.0,Improve
-296,Yes,No,7.0,4.0,7.0,0.0,Improve
-297,Yes,No,9.0,8.0,6.0,2.0,Improve
-298,No,No,8.0,0.0,0.0,0.0,Improve
-299,Yes,Yes,8.0,9.0,2.0,5.0,No effect
-300,No,No,7.0,2.0,3.0,0.0,Improve
-301,Yes,Yes,10.0,10.0,4.0,0.0,Improve
-302,No,No,8.0,8.0,3.0,3.0,Improve
-303,Yes,No,8.0,7.0,7.0,4.0,Improve
-304,No,Yes,8.0,7.0,1.0,2.0,Improve
-305,No,No,6.0,5.0,10.0,2.0,No effect
-306,Yes,No,7.0,6.0,0.0,4.0,Improve
-307,No,No,7.0,4.0,0.0,0.0,Improve
-308,No,No,8.0,7.0,2.0,10.0,No effect
-309,No,No,4.0,4.0,4.0,0.0,Improve
-310,No,No,0.0,0.0,2.0,0.0,No effect
-311,Yes,Yes,6.0,4.0,0.0,1.0,Improve
-312,No,No,4.0,7.0,0.0,0.0,Improve
-313,No,No,8.0,4.0,3.0,0.0,No effect
-314,No,No,5.0,5.0,3.0,3.0,Improve
-315,No,No,0.0,8.0,0.0,0.0,Improve
-316,Yes,No,7.0,4.0,6.0,1.0,Improve
-317,No,No,8.0,7.0,7.0,3.0,No effect
-318,No,No,9.0,8.0,6.0,2.0,Improve
-319,No,Yes,8.0,6.0,4.0,0.0,Improve
-320,No,No,7.0,2.0,0.0,8.0,Improve
-321,No,No,6.0,7.0,7.0,7.0,No effect
-322,No,No,7.0,6.0,4.0,2.0,Improve
-323,No,No,1.0,1.0,1.0,0.0,Improve
-324,No,No,1.0,1.0,3.0,0.0,Improve
-325,Yes,Yes,2.0,7.0,1.0,2.0,Improve
-326,No,No,6.0,2.0,3.0,1.0,No effect
-327,No,No,7.0,7.0,3.0,2.0,No effect
-328,Yes,No,8.0,7.0,0.0,3.0,No effect
-329,No,No,8.0,3.0,5.0,2.0,Improve
-330,Yes,Yes,5.0,4.0,2.0,0.0,Improve
-331,No,No,7.0,10.0,10.0,1.0,Improve
-332,No,No,7.0,6.0,8.0,4.0,Improve
-333,No,No,8.0,7.0,0.0,9.0,Improve
-334,No,No,10.0,7.0,3.0,3.0,No effect
-335,No,No,6.0,5.0,5.0,3.0,Improve
-336,No,No,8.0,7.0,6.0,8.0,No effect
-337,No,No,10.0,7.0,7.0,3.0,Worsen
-339,Yes,No,8.0,2.0,2.0,8.0,No effect
-340,No,No,3.0,7.0,4.0,0.0,Improve
-341,No,No,9.0,7.0,5.0,5.0,Improve
-342,No,No,5.0,3.0,0.0,0.0,Improve
-343,Yes,Yes,10.0,7.0,0.0,10.0,Improve
-344,No,No,8.0,0.0,0.0,3.0,Improve
-345,No,No,6.0,0.0,3.0,0.0,Improve
-346,Yes,No,7.0,9.0,4.0,6.0,Improve
-347,No,Yes,3.0,2.0,5.0,6.0,Improve
-348,Yes,No,4.0,2.0,0.0,0.0,Improve
-349,No,No,4.0,2.0,0.0,0.0,Improve
-350,No,No,5.0,3.0,1.0,0.0,No effect
-351,No,No,4.0,2.0,2.0,1.0,Improve
-352,Yes,No,4.0,0.0,6.0,5.0,No effect
-353,No,No,7.0,6.0,3.0,1.0,Improve
-354,No,No,7.0,8.0,6.0,2.0,Improve
-355,No,No,3.0,4.0,1.0,1.0,Improve
-356,Yes,No,9.0,7.0,2.0,1.0,Improve
-357,Yes,No,10.0,9.0,3.0,2.0,Improve
-358,No,No,9.0,9.0,7.0,3.0,Improve
-359,Yes,Yes,8.0,10.0,9.0,2.0,Improve
-360,No,No,8.0,9.0,6.0,4.0,Improve
-361,No,No,5.0,6.0,9.0,9.0,Improve
-362,No,No,9.0,3.0,7.0,2.0,Improve
-363,No,No,3.0,2.0,1.0,6.0,Improve
-364,No,No,7.0,7.0,4.0,0.0,Improve
-365,No,No,7.0,9.0,1.0,2.0,Improve
-366,No,No,5.0,1.0,9.0,1.0,Improve
-367,No,No,3.0,3.0,0.0,0.0,Improve
-368,Yes,No,8.0,7.0,5.0,4.0,Improve
-369,Yes,No,8.0,2.0,1.0,1.0,Improve
-370,No,No,4.0,0.0,0.0,0.0,Improve
-371,Yes,No,9.0,6.0,1.0,1.0,Improve
-372,No,No,10.0,7.0,2.0,0.0,Improve
-373,No,No,8.0,7.0,7.0,4.0,Improve
-374,No,No,1.0,0.0,0.0,0.0,Improve
-375,No,No,5.0,7.0,1.0,4.0,Improve
-376,No,Yes,7.0,6.0,9.0,2.0,Improve
-377,Yes,Yes,8.0,8.0,2.0,2.0,Improve
-378,Yes,No,2.0,2.0,8.0,0.0,No effect
-379,Yes,No,6.0,0.0,0.0,2.0,Improve
-380,No,No,2.0,0.0,1.0,0.0,Improve
-381,No,No,6.0,2.0,6.0,7.0,No effect
-382,No,No,6.0,1.0,0.0,5.0,Improve
-383,Yes,No,7.0,6.0,4.0,0.0,Improve
-384,Yes,Yes,0.0,0.0,3.0,0.0,Improve
-385,Yes,Yes,9.0,7.0,10.0,6.0,No effect
-386,No,No,10.0,0.0,0.0,0.0,No effect
-387,Yes,No,6.0,6.0,3.0,0.0,Improve
-388,No,No,4.0,3.0,1.0,6.0,Improve
-389,Yes,No,6.0,2.0,2.0,1.0,No effect
-390,No,No,2.0,2.0,3.0,2.0,Improve
-391,No,No,7.0,4.0,5.0,6.0,Improve
-392,Yes,No,7.0,5.0,3.0,2.0,Improve
-393,Yes,Yes,8.0,5.0,10.0,3.0,Improve
-394,No,Yes,7.0,5.0,6.0,5.0,Improve
-395,Yes,No,6.0,8.0,8.0,2.0,Improve
-396,Yes,No,1.0,2.0,4.0,3.0,Improve
-397,Yes,No,3.0,2.0,0.0,2.0,Improve
-398,No,No,6.0,7.0,7.0,4.0,Improve
-399,Yes,No,6.0,7.0,2.0,0.0,No effect
-400,No,No,9.0,8.0,4.0,8.0,Improve
-401,No,No,7.0,7.0,2.0,1.0,Improve
-402,Yes,No,1.0,0.0,1.0,0.0,Improve
-403,No,No,4.0,3.0,4.0,5.0,Improve
-404,No,No,2.0,0.0,0.0,0.0,Improve
-405,Yes,No,0.0,5.0,7.0,0.0,No effect
-406,Yes,No,8.0,7.0,7.0,0.0,Improve
-407,No,No,5.0,10.0,8.0,0.0,No effect
-409,Yes,Yes,9.0,6.0,8.0,5.0,Improve
-410,Yes,Yes,2.0,2.0,7.0,0.0,No effect
-411,Yes,Yes,7.0,8.0,6.0,2.0,Improve
-412,No,No,10.0,10.0,8.0,2.0,No effect
-413,Yes,No,8.0,5.0,2.0,3.0,Improve
-414,Yes,No,7.0,8.0,2.0,5.0,Improve
-415,Yes,Yes,1.0,1.0,2.0,0.0,Improve
-416,Yes,Yes,9.0,10.0,10.0,3.0,No effect
-417,Yes,Yes,9.0,4.0,4.0,4.0,Improve
-418,Yes,No,8.0,2.0,4.0,0.0,No effect
-419,No,No,1.0,1.0,5.0,1.0,Improve
-420,No,No,10.0,9.0,9.0,8.0,Improve
-421,Yes,No,3.0,0.0,2.0,3.0,Improve
-422,Yes,No,4.0,0.0,4.0,0.0,Improve
-423,Yes,Yes,2.0,3.0,5.0,2.0,Improve
-424,Yes,Yes,2.0,3.0,3.0,0.0,Improve
-425,No,No,8.0,4.0,3.0,0.0,Improve
-426,No,No,10.0,10.0,10.0,7.0,Improve
-427,Yes,No,8.0,8.0,9.0,3.0,Improve
-428,Yes,Yes,0.0,1.0,0.0,2.0,Improve
-429,No,No,5.0,4.0,0.0,1.0,Improve
-430,No,No,7.5,5.0,7.0,8.5,Improve
-431,Yes,No,3.0,3.0,0.0,0.0,Improve
-432,Yes,No,7.0,5.0,3.0,1.0,Improve
-433,Yes,Yes,8.0,0.0,1.0,6.0,Improve
-434,No,No,6.0,4.0,1.0,1.0,Improve
-435,Yes,No,8.0,8.0,7.0,10.0,No effect
-436,No,No,10.0,8.0,9.0,5.0,Improve
-437,No,No,3.0,0.0,2.0,0.0,Improve
-438,No,No,5.0,5.0,7.0,1.0,Worsen
-439,No,Yes,7.0,7.0,6.0,5.0,Improve
-440,No,No,7.0,4.0,6.0,3.0,Improve
-442,No,No,4.0,0.0,0.0,2.0,Worsen
-443,No,No,3.0,0.0,6.0,9.0,Improve
-444,No,Yes,5.0,1.0,6.0,0.0,Improve
-445,No,No,10.0,6.0,8.0,0.0,Improve
-446,No,No,7.0,5.0,1.0,2.0,No effect
-447,No,No,7.0,7.0,0.0,4.0,No effect
-448,No,No,6.0,0.0,0.0,0.0,Improve
-449,No,No,6.0,2.0,3.0,2.0,Improve
-450,No,No,7.0,6.0,7.0,9.0,Improve
-451,No,No,5.0,7.0,7.0,0.0,No effect
-452,No,No,7.0,6.0,4.0,3.0,Improve
-453,No,No,2.0,2.0,2.0,0.0,Improve
-454,No,No,9.0,5.0,0.0,7.0,Improve
-455,Yes,No,3.0,7.0,8.0,0.0,Worsen
-456,No,No,4.0,5.0,9.0,1.0,Improve
-457,Yes,No,1.0,0.0,7.0,0.0,Improve
-458,Yes,Yes,3.0,2.0,0.0,2.0,No effect
-459,No,No,1.0,6.0,1.0,2.0,Improve
-460,No,No,8.0,10.0,4.0,0.0,No effect
-461,No,No,8.0,10.0,10.0,0.0,No effect
-462,No,No,3.0,0.0,8.0,1.0,No effect
-463,No,No,3.0,4.0,1.0,0.0,Improve
-464,No,No,2.0,1.0,2.0,2.0,Improve
-465,No,No,0.0,0.0,0.0,0.0,No effect
-466,No,No,8.0,8.0,5.0,0.0,Improve
-467,No,No,1.0,1.0,1.0,0.0,No effect
-468,No,No,8.0,7.0,6.0,2.0,Improve
-469,No,No,6.0,5.0,4.0,0.0,No effect
-470,No,No,5.0,4.0,6.0,2.0,Improve
-471,Yes,No,3.0,1.0,0.0,2.0,No effect
-472,Yes,No,4.0,8.0,2.0,2.0,Improve
-473,No,No,5.0,6.0,3.0,1.0,Improve
-474,Yes,Yes,0.0,0.0,2.0,1.0,Improve
-475,No,No,7.0,6.0,7.0,4.0,Improve
-476,No,No,8.0,5.0,6.0,1.0,Improve
-477,No,No,4.0,4.0,2.0,0.0,Improve
-478,Yes,Yes,9.0,8.0,10.0,9.0,Improve
-479,No,No,5.0,5.0,7.0,0.0,Improve
-480,No,No,4.0,6.0,8.0,1.0,Improve
-481,No,No,4.0,8.0,5.0,0.0,Improve
-482,Yes,No,9.0,10.0,6.0,7.0,Improve
-483,No,No,3.0,2.0,2.0,2.0,Improve
-484,No,No,6.0,2.0,2.0,1.0,Improve
-485,No,No,2.0,0.0,3.0,0.0,No effect
-486,Yes,No,10.0,8.0,0.0,4.0,Improve
-487,Yes,No,4.0,4.0,2.0,2.0,Improve
-488,Yes,No,7.0,8.0,6.0,2.0,Improve
-489,No,No,7.0,6.0,5.0,5.0,Improve
-490,No,No,1.0,0.0,0.0,0.0,Improve
-491,Yes,Yes,6.0,2.0,8.0,0.0,Improve
-492,No,Yes,4.0,5.0,7.0,0.0,No effect
-493,No,No,10.0,7.0,0.0,0.0,Improve
-494,No,No,4.0,2.0,1.0,0.0,Improve
-495,No,No,7.0,6.0,2.0,3.0,Improve
-496,No,No,3.0,2.0,8.0,0.0,Improve
-497,Yes,Yes,10.0,7.0,4.0,3.0,Improve
-498,No,No,4.0,0.0,0.0,0.0,No effect
-499,No,No,7.0,7.0,0.0,0.0,Improve
-500,No,No,6.0,7.0,4.0,1.0,Improve
-501,No,No,7.0,6.0,2.0,7.0,Improve
-502,No,No,6.0,5.0,8.0,0.0,Improve
-503,No,No,10.0,10.0,2.0,3.0,Improve
-504,No,No,7.0,6.0,5.0,1.0,Improve
-505,No,No,3.0,0.0,0.0,0.0,Improve
-506,No,No,8.0,2.0,1.0,0.0,No effect
-507,No,No,7.0,6.0,6.0,5.0,Improve
-508,No,No,3.0,2.0,5.0,0.0,No effect
-509,No,No,8.0,2.0,1.0,0.0,Improve
-510,No,No,7.0,7.0,2.0,4.0,Improve
-511,No,No,5.0,1.0,1.0,1.0,Improve
-512,No,No,1.0,2.0,1.0,0.0,No effect
-513,No,No,2.0,1.0,2.0,2.0,Improve
-514,No,No,5.0,2.0,4.0,0.0,Improve
-515,No,No,7.0,2.0,1.0,0.0,Improve
-516,No,No,10.0,10.0,7.0,8.0,Improve
-517,No,No,7.0,2.0,1.0,6.0,Improve
-518,No,No,6.0,4.0,1.0,0.0,Improve
-519,No,No,5.0,9.0,6.0,1.0,Improve
-520,Yes,No,7.0,5.0,7.0,0.0,Improve
-521,No,No,7.0,6.0,7.0,4.0,Improve
-522,No,No,0.0,0.0,0.0,0.0,Improve
-523,No,No,3.0,5.0,0.0,2.0,No effect
-524,Yes,Yes,8.0,8.0,5.0,2.0,Improve
-525,Yes,No,8.0,7.0,10.0,6.0,Improve
-526,No,No,2.0,4.0,5.0,2.0,Improve
-527,Yes,No,7.0,3.0,9.0,2.0,Improve
-528,No,Yes,8.0,7.0,4.0,4.0,Improve
-529,No,No,0.0,0.0,0.0,5.0,No effect
-530,No,No,8.0,6.0,9.0,8.0,Improve
-531,No,No,4.0,2.0,3.0,2.0,Improve
-533,Yes,No,6.0,4.0,10.0,0.0,Improve
-534,No,No,8.0,8.0,10.0,0.0,Improve
-535,No,No,5.0,5.0,5.0,5.0,Improve
-536,No,No,10.0,8.0,6.0,2.0,No effect
-537,No,No,0.0,0.0,7.0,0.0,Improve
-538,Yes,Yes,8.0,8.0,10.0,0.0,Improve
-539,No,No,8.0,2.0,0.0,0.0,No effect
-540,Yes,Yes,7.0,8.0,4.0,10.0,Improve
-541,No,No,0.0,2.0,0.0,1.0,Improve
-542,Yes,No,3.0,5.0,4.0,0.0,Improve
-543,Yes,No,5.0,2.0,3.0,1.0,Improve
-544,No,No,6.0,1.0,0.0,0.0,Improve
-545,No,No,6.0,3.0,4.0,2.0,Improve
-546,Yes,Yes,5.0,6.0,8.0,2.0,Improve
-547,No,No,8.0,4.0,7.0,5.0,Improve
-548,No,No,1.0,1.0,2.0,3.0,Improve
-549,Yes,No,8.0,3.0,1.0,3.0,Improve
-550,No,Yes,3.0,3.0,0.0,0.0,Improve
-551,No,No,0.0,0.0,0.0,0.0,No effect
-552,No,No,5.0,4.0,2.0,0.0,No effect
-553,No,No,2.0,4.0,0.0,0.0,Improve
-554,No,No,4.0,6.0,0.0,2.0,Improve
-555,No,Yes,5.0,7.0,2.0,0.0,Improve
-556,No,No,4.0,0.0,7.0,0.0,No effect
-557,No,No,10.0,8.0,6.0,2.0,No effect
-558,Yes,Yes,3.0,3.0,1.0,0.0,Improve
-559,Yes,No,8.0,7.0,2.0,1.0,Improve
-560,No,No,3.0,3.0,0.0,3.0,Improve
-562,No,No,10.0,10.0,8.0,10.0,Improve
-563,Yes,No,10.0,2.0,7.0,8.0,Improve
-564,Yes,Yes,9.0,6.0,8.0,5.0,Improve
-565,No,No,6.0,4.0,1.0,6.0,Improve
-566,No,No,3.0,4.0,6.0,8.0,Improve
-567,No,No,10.0,10.0,10.0,0.0,Improve
-568,No,No,4.0,8.0,8.0,4.0,No effect
-569,No,No,3.0,0.0,0.0,0.0,Improve
-570,No,No,1.0,0.0,0.0,0.0,Improve
-571,No,No,5.0,6.0,7.0,7.0,No effect
-573,No,No,10.0,8.0,8.0,9.0,Improve
-574,Yes,No,3.0,0.0,3.0,4.0,Improve
-575,No,No,1.0,0.0,0.0,1.0,No effect
-576,No,No,6.0,6.0,0.0,0.0,Improve
-577,No,No,4.0,3.0,4.0,0.0,Improve
-578,No,No,6.0,4.0,0.0,0.0,Improve
-579,No,No,2.0,6.0,3.0,0.0,Worsen
-580,No,No,8.0,3.0,3.0,3.0,Improve
-581,No,No,8.0,10.0,7.0,3.0,No effect
-582,Yes,No,1.0,0.0,0.0,1.0,Improve
-583,Yes,Yes,8.0,6.0,6.0,8.0,Improve
-584,No,No,6.0,3.0,1.0,7.0,Improve
-585,Yes,No,2.0,0.0,3.0,0.0,Improve
-586,Yes,Yes,0.0,0.0,0.0,0.0,No effect
-587,Yes,Yes,10.0,10.0,6.0,6.0,Improve
-588,No,No,3.0,0.0,0.0,1.0,Improve
-589,No,No,7.0,9.0,10.0,0.0,Improve
-590,Yes,No,8.0,7.0,6.0,2.0,Improve
-591,No,No,2.0,0.0,10.0,10.0,Improve
-592,No,No,10.0,7.0,9.0,3.0,No effect
-593,No,No,6.0,0.0,0.0,0.0,Improve
-594,Yes,Yes,3.0,0.0,2.0,2.0,Improve
-595,No,No,6.0,5.0,9.0,8.0,Improve
-596,No,No,7.0,6.0,5.0,8.0,Improve
-597,Yes,No,10.0,7.0,8.0,6.0,Improve
-598,Yes,No,0.0,3.0,9.0,5.0,No effect
-599,No,No,0.0,2.0,1.0,5.0,Improve
-600,Yes,No,2.0,0.0,0.0,0.0,No effect
-601,No,No,2.0,2.0,4.0,0.0,No effect
-602,No,No,5.0,6.0,3.0,4.0,No effect
-603,No,No,0.0,0.0,1.0,0.0,No effect
-604,Yes,No,5.0,4.0,3.0,7.0,Improve
-605,Yes,No,2.0,7.0,0.0,0.0,Improve
-606,No,No,0.0,6.0,0.0,4.0,Improve
-607,No,No,0.0,0.0,0.0,0.0,Improve
-608,Yes,Yes,7.0,5.0,1.0,3.0,Improve
-609,Yes,No,7.0,5.0,3.0,1.0,No effect
-610,No,No,3.0,3.0,1.0,8.0,No effect
-611,No,No,7.0,10.0,4.0,7.0,Worsen
-612,No,No,3.0,2.0,3.0,0.0,Improve
-613,No,No,5.0,1.0,1.0,9.0,Improve
-614,No,No,8.0,9.0,4.0,10.0,Improve
-615,No,No,4.0,8.0,0.0,0.0,Improve
-616,No,No,7.0,9.0,7.0,0.0,Improve
-617,Yes,No,1.0,5.0,6.0,4.0,No effect
-618,No,No,3.0,2.0,1.0,0.0,No effect
-619,Yes,Yes,6.0,8.0,0.0,0.0,Improve
-620,No,No,6.0,3.0,6.0,0.0,Improve
-621,Yes,Yes,7.0,4.0,8.0,0.0,Improve
-622,No,No,2.0,6.0,9.0,1.0,No effect
-623,No,No,8.0,5.0,3.0,8.0,Improve
-624,No,Yes,3.0,3.0,0.0,0.0,Improve
-625,No,No,7.0,5.0,3.0,3.0,Improve
-626,No,No,4.0,8.0,2.0,3.0,Improve
-627,Yes,No,3.0,0.0,0.0,5.0,Improve
-628,No,No,10.0,7.0,3.0,2.0,Improve
-629,No,No,10.0,4.0,8.0,0.0,Improve
-630,Yes,No,2.0,2.0,0.0,0.0,Improve
-631,No,No,8.0,7.0,7.0,3.0,Improve
-632,No,No,10.0,5.0,2.0,8.0,Improve
-633,No,No,9.0,10.0,10.0,6.0,No effect
-634,Yes,No,5.0,2.0,1.0,6.0,Improve
-635,Yes,Yes,4.0,8.0,9.0,1.0,Improve
-636,No,No,7.0,8.0,5.0,3.0,Improve
-637,No,No,2.0,2.0,0.0,3.0,No effect
-638,No,Yes,10.0,3.0,0.0,4.0,Improve
-639,No,No,10.0,10.0,10.0,9.0,Improve
-640,No,No,3.0,7.0,7.0,4.0,No effect
-641,No,No,7.0,5.0,7.0,7.0,Improve
-642,No,No,7.0,4.0,8.0,8.0,Improve
-643,Yes,No,7.0,9.0,4.0,5.0,Improve
-644,No,No,4.0,7.0,1.0,3.0,Improve
-645,No,No,5.0,9.0,9.0,6.0,Improve
-646,No,No,5.0,4.0,10.0,7.0,No effect
-647,No,No,7.0,2.0,0.0,1.0,Improve
-648,No,No,8.0,6.0,0.0,2.0,Improve
-649,No,No,1.0,3.0,10.0,0.0,No effect
-650,No,No,8.0,10.0,10.0,2.0,Worsen
-651,Yes,No,4.0,7.0,6.0,0.0,No effect
-652,No,No,9.0,6.0,3.0,0.0,No effect
-653,No,No,10.0,7.0,4.0,4.0,Improve
-654,No,No,1.0,2.0,2.0,0.0,No effect
-655,Yes,Yes,7.0,10.0,0.0,8.0,Improve
-656,No,No,10.0,2.0,1.0,10.0,Worsen
-657,No,No,2.0,1.0,2.0,2.0,Improve
-658,No,No,3.0,10.0,0.0,0.0,No effect
-659,No,No,7.0,10.0,2.0,0.0,Improve
-660,Yes,Yes,4.0,2.0,0.0,0.0,Improve
-661,No,No,4.0,2.0,5.0,3.0,Improve
-662,No,No,6.0,8.0,7.0,0.0,Improve
-663,No,No,8.0,6.0,4.0,0.0,Improve
-664,Yes,Yes,2.0,2.0,0.0,0.0,No effect
-665,No,No,8.0,7.0,9.0,3.0,Improve
-666,Yes,No,4.0,3.0,5.0,0.0,No effect
-667,No,No,6.0,1.0,0.0,4.0,No effect
-668,No,No,6.0,6.0,3.0,6.0,Improve
-669,No,No,8.0,7.0,1.0,1.0,No effect
-670,No,No,5.0,3.0,4.0,1.0,Improve
-671,No,No,6.0,2.0,4.0,3.0,Improve
-672,Yes,Yes,5.0,6.0,6.0,0.0,Improve
-673,Yes,Yes,6.0,10.0,8.0,1.0,Improve
-674,Yes,No,7.0,3.0,9.0,7.0,Improve
-675,Yes,No,4.0,6.0,0.0,0.0,No effect
-676,No,No,9.0,4.0,0.0,1.0,Improve
-677,No,No,9.0,7.0,7.0,5.0,Improve
-678,No,Yes,5.0,10.0,2.0,7.0,No effect
-679,No,No,1.0,0.0,1.0,0.0,Improve
-680,No,No,8.0,7.0,2.0,6.0,Improve
-681,No,No,5.0,1.0,4.0,0.0,Improve
-682,Yes,No,10.0,6.0,0.0,0.0,Improve
-683,No,No,7.0,5.0,5.0,5.0,Improve
-684,No,No,3.0,1.0,0.0,3.0,Improve
-685,No,No,5.0,8.0,7.0,4.0,Improve
-686,No,No,2.0,0.0,0.0,5.0,No effect
-687,Yes,No,7.0,0.0,0.0,0.0,No effect
-688,No,No,8.0,0.0,0.0,2.0,No effect
-689,No,No,4.0,1.0,1.0,0.0,Improve
-690,No,No,3.0,8.0,0.0,2.0,Improve
-691,No,No,7.0,0.0,2.0,2.0,Improve
-692,No,No,10.0,8.0,10.0,0.0,Improve
-693,Yes,Yes,7.0,1.0,1.0,1.0,Improve
-694,Yes,No,5.0,9.0,1.0,7.0,No effect
-695,Yes,Yes,0.0,0.0,0.0,0.0,No effect
-696,Yes,Yes,10.0,6.0,3.0,8.0,Improve
-697,Yes,No,7.0,3.5,3.5,5.5,Improve
-698,Yes,Yes,2.0,0.0,0.0,2.0,Improve
-699,No,No,10.0,10.0,10.0,8.0,Improve
-700,No,No,8.0,9.0,6.0,5.0,Worsen
-701,Yes,No,9.0,7.0,8.0,4.0,Improve
-702,No,No,6.0,4.0,5.0,0.0,Improve
-703,No,No,8.0,5.0,9.0,4.0,Improve
-704,Yes,No,3.0,7.0,0.0,0.0,Improve
-705,Yes,No,9.0,1.0,0.0,9.0,Improve
-706,Yes,No,8.0,6.0,1.0,4.0,Improve
-707,No,No,4.0,1.0,1.0,6.0,Improve
-708,No,No,6.0,5.0,3.0,1.0,No effect
-709,Yes,Yes,7.0,8.0,6.0,5.0,Improve
-710,Yes,Yes,8.0,9.0,5.0,10.0,Improve
-711,No,No,8.0,6.0,7.0,0.0,Improve
-712,No,No,10.0,5.0,2.0,0.0,Improve
-713,No,No,5.0,2.0,4.0,7.0,No effect
-714,No,No,9.0,3.0,2.0,0.0,No effect
-715,Yes,Yes,4.0,6.0,3.0,4.0,Improve
-716,No,No,9.0,8.0,4.0,0.0,Improve
-717,No,No,5.0,7.0,10.0,2.0,No effect
-718,Yes,No,8.0,3.0,9.0,2.0,No effect
-719,No,No,10.0,10.0,6.0,8.0,Improve
-720,No,No,7.0,7.0,5.0,5.0,Improve
-721,Yes,No,10.0,8.0,1.0,0.0,Improve
-722,No,No,8.0,6.0,2.0,0.0,Improve
-723,No,No,10.0,7.0,6.0,10.0,Improve
-724,No,No,6.0,6.0,8.0,0.0,Improve
-725,No,No,10.0,10.0,8.0,4.0,Worsen
-726,No,No,9.0,8.0,5.0,10.0,Improve
-727,No,No,0.0,0.0,0.0,0.0,No effect
-728,Yes,No,7.0,3.0,1.0,2.0,Improve
-729,No,No,6.0,2.0,2.0,0.0,Improve
-730,No,No,7.0,6.0,4.0,6.0,Improve
-731,Yes,No,7.0,6.0,0.0,9.0,Improve
-732,Yes,No,3.0,2.0,2.0,5.0,Improve
-733,No,Yes,2.0,2.0,2.0,2.0,Improve
-734,Yes,No,2.0,3.0,2.0,1.0,Improve
-735,No,No,2.0,2.0,2.0,5.0,Improve
+,Instrumentalist,Composer,Hours_per_day_Percentage,Anxiety,Depression,Insomnia,OCD,Music effects,Music_Participation,Overall_mental_health
+0,No,No,13.521207387905987,7.0,7.0,10.0,2.0,No effect,Neither,7.1
+1,No,Yes,7.035297941998937,9.0,7.0,3.0,3.0,Improve,Composer,6.499999999999999
+2,No,No,13.521207387905987,7.0,2.0,5.0,9.0,Improve,Neither,5.05
+3,Yes,Yes,17.84514701851069,8.0,8.0,7.0,7.0,Improve,Both,7.7
+4,Yes,No,9.197267757301288,4.0,8.0,6.0,0.0,Improve,Instrumentalist,5.3999999999999995
+5,No,No,0.5493884960918851,5.0,3.0,5.0,3.0,Improve,Neither,4.1
+6,No,No,22.16908664911539,2.0,0.0,0.0,0.0,Improve,Neither,0.7
+7,No,No,0.5493884960918851,2.0,2.0,5.0,1.0,Improve,Neither,2.5
+8,No,No,30.816965910324797,1.0,0.0,0.0,1.0,Improve,Neither,0.44999999999999996
+9,No,No,4.8733281266965855,2.0,1.0,2.0,0.0,Improve,Neither,1.4499999999999997
+10,Yes,No,13.521207387905987,6.0,4.0,7.0,0.0,Improve,Instrumentalist,4.8999999999999995
+11,No,No,30.816965910324797,8.0,8.0,4.0,3.0,Improve,Neither,6.699999999999999
+12,No,Yes,48.1127244327436,5.0,7.0,10.0,0.0,Improve,Composer,6.199999999999999
+13,No,No,100.0,7.0,5.0,0.0,3.0,Improve,Neither,4.499999999999999
+14,No,No,9.197267757301288,7.0,3.0,0.0,2.0,Improve,Neither,3.6999999999999997
+15,No,No,30.816965910324797,6.0,9.0,3.0,0.0,Improve,Neither,5.85
+16,No,No,13.521207387905987,10.0,10.0,2.0,4.0,Improve,Neither,7.800000000000001
+17,No,No,17.84514701851069,6.0,7.0,5.0,4.0,Improve,Neither,5.949999999999999
+18,No,No,4.8733281266965855,3.0,3.0,8.0,6.0,No effect,Neither,4.3
+19,Yes,Yes,9.197267757301288,10.0,6.0,8.0,10.0,Improve,Both,8.2
+20,No,No,4.8733281266965855,7.0,4.0,2.0,5.0,Improve,Neither,4.75
+21,Yes,Yes,48.1127244327436,8.0,6.0,10.0,5.0,Improve,Both,7.3999999999999995
+22,Yes,Yes,22.16908664911539,3.0,2.0,1.0,2.0,Improve,Both,2.15
+23,Yes,No,4.8733281266965855,6.0,6.0,4.0,5.0,Improve,Instrumentalist,5.499999999999999
+24,No,No,0.5493884960918851,8.0,2.0,1.0,5.0,Improve,Neither,4.2
+25,No,No,4.8733281266965855,4.0,4.0,4.0,3.0,No effect,Neither,3.8999999999999995
+26,No,No,13.521207387905987,5.0,6.0,6.0,1.0,Improve,Neither,5.1499999999999995
+27,No,No,0.5493884960918851,0.0,0.0,0.0,0.0,No effect,Neither,0.0
+28,Yes,No,17.84514701851069,3.0,2.0,1.0,1.0,Improve,Instrumentalist,2.05
+29,No,No,13.521207387905987,6.0,8.0,0.0,2.0,Improve,Neither,5.1
+30,No,No,-1.6125813192104659,9.0,8.0,1.0,0.0,No effect,Neither,6.1499999999999995
+31,No,No,13.521207387905987,7.0,2.0,8.0,6.0,Improve,Neither,5.35
+32,Yes,Yes,4.8733281266965855,4.0,2.0,3.0,4.0,Improve,Both,3.0999999999999996
+33,Yes,No,17.84514701851069,7.0,6.0,5.0,0.0,Improve,Instrumentalist,5.549999999999999
+34,No,No,-2.6935662268616407,3.0,2.0,10.0,0.0,No effect,Neither,3.75
+35,No,No,9.197267757301288,6.0,6.0,8.0,2.0,Improve,Neither,5.999999999999999
+36,No,No,13.521207387905987,1.0,0.0,8.0,2.0,No effect,Neither,2.1500000000000004
+37,Yes,Yes,0.5493884960918851,7.0,3.0,1.0,5.0,Improve,Both,4.199999999999999
+38,Yes,Yes,0.5493884960918851,8.0,9.0,3.0,0.0,No effect,Both,6.549999999999999
+39,No,No,9.197267757301288,9.0,6.0,4.0,3.0,Improve,Neither,6.35
+40,No,Yes,17.84514701851069,7.0,9.0,5.0,0.0,Improve,Composer,6.6
+41,No,No,9.197267757301288,7.0,4.0,2.0,4.0,No effect,Neither,4.65
+42,Yes,No,4.8733281266965855,0.0,0.0,0.0,0.0,Improve,Instrumentalist,0.0
+43,No,No,22.16908664911539,7.0,8.0,7.0,5.0,Improve,Neither,7.15
+44,No,No,0.5493884960918851,10.0,6.0,3.0,10.0,No effect,Neither,7.199999999999999
+45,No,No,48.1127244327436,3.0,7.0,5.0,5.0,No effect,Neither,5.0
+46,No,Yes,13.521207387905987,8.0,7.0,4.0,3.0,Improve,Composer,6.35
+47,No,No,22.16908664911539,8.0,6.0,2.0,10.0,No effect,Neither,6.3
+48,No,No,26.493026279720088,6.0,4.0,2.0,3.0,Improve,Neither,4.199999999999999
+49,Yes,No,0.5493884960918851,7.0,0.0,0.0,2.0,Improve,Instrumentalist,2.65
+50,Yes,No,0.5493884960918851,10.0,1.0,0.0,0.0,Improve,Instrumentalist,3.85
+51,Yes,No,0.5493884960918851,8.0,7.0,0.0,5.0,Improve,Instrumentalist,5.75
+52,Yes,No,4.8733281266965855,3.0,2.0,6.0,7.0,Improve,Instrumentalist,3.6500000000000004
+53,No,No,4.8733281266965855,5.0,5.0,3.0,1.0,No effect,Neither,4.199999999999999
+54,No,No,17.84514701851069,10.0,10.0,3.0,1.0,Worsen,Neither,7.699999999999999
+55,No,No,22.16908664911539,5.0,4.0,10.0,2.0,Improve,Neither,5.3500000000000005
+56,No,No,9.197267757301288,0.0,0.0,8.0,0.0,No effect,Neither,1.6
+57,No,No,13.521207387905987,8.0,8.0,5.0,10.0,Improve,Neither,7.6
+58,Yes,Yes,9.197267757301288,10.0,7.0,8.0,0.0,Improve,Both,7.549999999999999
+59,Yes,Yes,4.8733281266965855,7.0,3.0,1.0,1.0,Improve,Both,3.8
+60,No,No,9.197267757301288,8.0,7.0,4.0,0.0,Improve,Neither,6.05
+61,Yes,Yes,4.8733281266965855,6.0,3.0,1.0,1.0,Improve,Both,3.4499999999999997
+62,No,No,-1.6125813192104659,7.0,7.0,0.0,1.0,No effect,Neither,4.999999999999999
+63,Yes,Yes,17.84514701851069,7.0,7.0,8.0,4.0,Improve,Both,6.9
+64,No,No,17.84514701851069,4.0,1.0,0.0,0.0,Improve,Neither,1.75
+65,No,No,39.46484517153419,7.0,2.0,1.0,5.0,Improve,Neither,3.8499999999999996
+66,No,No,4.8733281266965855,9.0,0.0,5.0,10.0,Improve,Neither,5.15
+67,No,No,13.521207387905987,2.0,7.0,1.0,1.0,Improve,Neither,3.4499999999999997
+68,Yes,Yes,17.84514701851069,10.0,8.0,7.0,0.0,Improve,Both,7.7
+69,No,No,9.197267757301288,3.0,0.0,0.0,0.0,Improve,Neither,1.0499999999999998
+70,No,No,4.8733281266965855,7.0,8.0,5.0,1.0,No effect,Neither,6.35
+71,Yes,Yes,7.035297941998937,2.0,1.0,0.0,0.0,Improve,Both,1.0499999999999998
+72,No,No,9.197267757301288,5.0,4.0,0.0,1.0,Improve,Neither,3.25
+73,No,No,0.5493884960918851,9.0,10.0,6.0,10.0,No effect,Neither,8.850000000000001
+74,Yes,No,26.493026279720088,2.0,0.0,0.0,0.0,Improve,Instrumentalist,0.7
+75,No,No,0.5493884960918851,3.0,2.0,0.0,0.0,No effect,Neither,1.7499999999999998
+76,No,No,9.197267757301288,2.0,0.0,7.0,0.0,No effect,Neither,2.1
+77,Yes,No,17.84514701851069,7.0,6.0,6.0,2.0,No effect,Instrumentalist,5.949999999999999
+78,Yes,Yes,22.16908664911539,5.0,4.0,8.0,3.0,No effect,Both,5.05
+79,No,No,13.521207387905987,4.0,6.0,5.0,3.0,Improve,Neither,4.8
+80,No,No,0.5493884960918851,6.0,2.0,3.0,1.0,Improve,Neither,3.5
+81,No,No,13.521207387905987,8.0,2.0,1.0,6.0,Improve,Neither,4.300000000000001
+82,No,No,39.46484517153419,9.0,6.0,0.0,6.0,Improve,Neither,5.85
+83,No,Yes,9.197267757301288,0.0,3.0,7.0,0.0,Improve,Composer,2.45
+84,No,No,4.8733281266965855,8.0,9.0,6.0,2.0,Improve,Neither,7.35
+85,No,No,13.521207387905987,4.0,1.0,1.0,1.0,Improve,Neither,2.05
+86,No,No,30.816965910324797,8.0,7.0,5.0,0.0,Improve,Neither,6.25
+87,Yes,Yes,4.8733281266965855,3.0,4.0,6.0,1.0,Improve,Both,3.75
+88,Yes,No,-1.6125813192104659,1.0,1.0,3.0,1.0,Improve,Instrumentalist,1.4000000000000001
+89,No,No,17.84514701851069,10.0,8.0,6.0,7.0,No effect,Neither,8.2
+90,No,No,0.5493884960918851,6.0,6.0,2.0,0.0,No effect,Neither,4.6
+91,No,No,9.197267757301288,6.0,7.0,0.0,0.0,Improve,Neither,4.549999999999999
+92,Yes,No,4.8733281266965855,8.0,4.0,10.0,0.0,No effect,Instrumentalist,6.199999999999999
+93,No,No,9.197267757301288,9.0,7.0,6.0,2.0,No effect,Neither,7.0
+94,Yes,No,4.8733281266965855,7.0,4.0,6.0,5.0,Improve,Instrumentalist,5.55
+95,No,No,13.521207387905987,6.0,7.0,0.0,0.0,No effect,Neither,4.549999999999999
+96,No,No,4.8733281266965855,6.0,3.0,0.0,1.0,Improve,Neither,3.2499999999999996
+97,No,No,9.197267757301288,7.0,5.0,5.0,3.0,Improve,Neither,5.499999999999999
+98,No,No,13.521207387905987,7.0,10.0,5.0,0.0,Improve,Neither,6.949999999999999
+99,Yes,No,4.8733281266965855,8.0,6.0,0.0,0.0,Improve,Instrumentalist,4.8999999999999995
+100,No,No,30.816965910324797,4.0,3.0,0.0,0.0,Improve,Neither,2.4499999999999997
+101,No,No,13.521207387905987,7.0,6.0,7.0,5.0,Improve,Neither,6.449999999999999
+102,Yes,No,4.8733281266965855,7.0,3.0,2.0,3.0,Improve,Instrumentalist,4.199999999999999
+103,No,Yes,0.5493884960918851,2.0,7.0,5.0,0.0,Improve,Composer,4.1499999999999995
+104,No,No,9.197267757301288,7.0,8.0,6.0,5.0,Improve,Neither,6.95
+105,No,No,-1.6125813192104659,4.0,7.0,1.0,0.0,Improve,Neither,4.05
+106,No,No,9.197267757301288,5.0,2.0,8.0,6.0,Improve,Neither,4.65
+107,Yes,Yes,4.8733281266965855,10.0,7.0,4.0,2.0,Improve,Both,6.949999999999999
+108,No,No,0.5493884960918851,6.0,5.0,0.0,0.0,No effect,Neither,3.8499999999999996
+109,No,No,17.84514701851069,7.0,2.0,3.0,1.0,Improve,Neither,3.8499999999999996
+110,Yes,Yes,39.46484517153419,4.0,7.0,7.0,3.0,Improve,Both,5.55
+111,Yes,Yes,13.521207387905987,4.0,5.0,6.0,5.0,Improve,Both,4.85
+112,Yes,Yes,4.8733281266965855,7.0,10.0,5.0,6.0,Worsen,Both,7.549999999999999
+113,No,No,0.5493884960918851,6.0,4.0,5.0,0.0,Improve,Neither,4.5
+114,No,No,22.16908664911539,4.0,1.0,3.0,1.0,No effect,Neither,2.45
+115,Yes,No,0.5493884960918851,6.0,6.0,1.0,2.0,Improve,Instrumentalist,4.6
+116,No,No,22.16908664911539,10.0,8.0,7.0,1.0,Improve,Neither,7.8
+117,No,No,26.493026279720088,10.0,8.0,2.0,8.0,Improve,Neither,7.5
+118,No,No,0.5493884960918851,3.0,6.0,2.0,0.0,No effect,Neither,3.5499999999999994
+119,Yes,No,9.197267757301288,8.0,9.0,2.0,0.0,Improve,Instrumentalist,6.35
+120,Yes,No,4.8733281266965855,8.0,3.0,8.0,7.0,Improve,Instrumentalist,6.1499999999999995
+121,Yes,No,9.197267757301288,3.0,3.0,1.0,2.0,Improve,Instrumentalist,2.5
+122,No,No,2.7113583113942363,6.0,5.0,0.0,2.0,Improve,Neither,4.05
+123,No,No,13.521207387905987,3.0,8.0,0.0,0.0,Improve,Neither,3.8499999999999996
+124,No,No,4.8733281266965855,1.0,8.0,0.0,0.0,No effect,Neither,3.15
+125,No,No,39.46484517153419,5.0,6.0,6.0,3.0,Improve,Neither,5.35
+126,No,No,26.493026279720088,0.0,0.0,0.0,0.0,Improve,Neither,0.0
+127,No,No,0.5493884960918851,0.0,8.0,0.0,0.0,Improve,Neither,2.8
+128,No,No,4.8733281266965855,3.0,7.0,0.0,0.0,Improve,Neither,3.4999999999999996
+129,Yes,Yes,22.16908664911539,8.0,8.0,8.0,5.0,Improve,Both,7.699999999999999
+130,Yes,Yes,4.8733281266965855,5.0,2.0,3.0,4.0,Improve,Both,3.45
+131,Yes,No,9.197267757301288,8.0,8.0,3.0,0.0,Improve,Instrumentalist,6.199999999999999
+132,No,No,30.816965910324797,6.0,8.0,8.0,0.0,Improve,Neither,6.5
+133,No,No,9.197267757301288,6.0,8.0,6.0,0.0,Worsen,Neither,6.1
+134,Yes,Yes,9.197267757301288,6.0,6.0,7.0,5.0,Improve,Both,6.1
+135,No,No,9.197267757301288,9.0,10.0,3.0,0.0,No effect,Neither,7.25
+136,Yes,No,4.8733281266965855,7.0,7.0,5.0,0.0,Improve,Instrumentalist,5.8999999999999995
+137,No,No,13.521207387905987,6.0,8.0,1.0,6.0,Improve,Neither,5.699999999999999
+138,No,No,13.521207387905987,7.0,2.0,0.0,7.0,Improve,Neither,3.8499999999999996
+139,Yes,No,0.5493884960918851,6.0,9.0,9.0,0.0,Improve,Instrumentalist,7.05
+140,No,No,4.8733281266965855,1.0,1.0,4.0,1.0,No effect,Neither,1.6
+141,No,No,0.5493884960918851,8.0,8.0,2.0,0.0,Improve,Neither,6.0
+142,Yes,Yes,9.197267757301288,3.0,3.0,7.0,0.0,No effect,Both,3.5
+143,No,No,39.46484517153419,8.0,8.0,3.0,0.0,Improve,Neither,6.199999999999999
+144,No,Yes,0.5493884960918851,6.0,4.0,0.0,3.0,No effect,Composer,3.8
+145,No,No,9.197267757301288,1.0,0.0,0.0,0.0,Improve,Neither,0.35
+146,No,No,2.7113583113942363,5.0,5.0,4.0,4.0,Improve,Neither,4.7
+147,Yes,No,7.035297941998937,8.0,8.0,7.0,6.0,Improve,Instrumentalist,7.6
+148,No,No,4.8733281266965855,3.0,0.0,2.0,0.0,Improve,Neither,1.4499999999999997
+149,No,No,17.84514701851069,0.0,5.0,1.0,0.0,No effect,Neither,1.95
+150,No,No,4.8733281266965855,6.0,3.0,0.0,0.0,Improve,Neither,3.1499999999999995
+151,No,Yes,4.8733281266965855,1.0,7.0,5.0,1.0,Improve,Composer,3.9
+152,No,No,4.8733281266965855,5.0,6.0,0.0,1.0,No effect,Neither,3.9499999999999997
+153,Yes,Yes,17.84514701851069,9.0,4.0,0.0,3.0,Improve,Both,4.85
+154,No,No,4.8733281266965855,8.0,8.0,3.0,0.0,Improve,Neither,6.199999999999999
+155,Yes,No,4.8733281266965855,7.0,2.0,3.0,5.0,Improve,Instrumentalist,4.25
+156,No,No,4.8733281266965855,10.0,3.5,5.0,10.0,Improve,Neither,6.725
+157,No,No,0.5493884960918851,7.0,5.0,1.0,2.0,Improve,Neither,4.6
+158,Yes,No,13.521207387905987,6.0,8.0,9.0,5.0,Improve,Instrumentalist,7.199999999999999
+159,Yes,Yes,4.8733281266965855,7.0,4.0,10.0,2.0,Improve,Both,6.05
+160,No,No,4.8733281266965855,6.0,1.0,0.0,0.0,Improve,Neither,2.4499999999999997
+161,No,No,13.521207387905987,9.0,10.0,3.0,0.0,Improve,Neither,7.25
+162,Yes,No,0.5493884960918851,8.0,5.0,8.0,9.0,Improve,Instrumentalist,7.050000000000001
+163,No,No,17.84514701851069,9.0,9.0,9.0,3.0,No effect,Neither,8.4
+164,No,No,26.493026279720088,9.0,3.0,7.0,8.0,Improve,Neither,6.3999999999999995
+165,No,No,4.8733281266965855,10.0,8.0,6.0,2.0,Improve,Neither,7.7
+166,No,No,9.197267757301288,9.0,6.0,3.0,0.0,Improve,Neither,5.85
+167,No,No,4.8733281266965855,7.0,7.0,8.0,3.0,Improve,Neither,6.8
+168,No,Yes,9.197267757301288,9.0,10.0,4.0,0.0,Improve,Composer,7.45
+169,No,No,9.197267757301288,9.0,9.0,8.0,2.0,Improve,Neither,8.1
+170,Yes,Yes,17.84514701851069,10.0,9.0,8.0,8.0,Improve,Both,9.05
+171,No,Yes,22.16908664911539,6.0,5.0,6.0,8.0,Improve,Composer,5.85
+172,No,No,4.8733281266965855,8.0,6.0,10.0,3.0,Improve,Neither,7.199999999999999
+173,Yes,No,0.5493884960918851,4.0,2.0,1.0,3.0,Improve,Instrumentalist,2.5999999999999996
+174,No,No,0.5493884960918851,2.0,1.0,1.0,1.0,No effect,Neither,1.3499999999999999
+175,No,No,9.197267757301288,10.0,10.0,7.0,3.0,Improve,Neither,8.700000000000001
+176,No,No,9.197267757301288,8.0,9.0,0.0,0.0,Improve,Neither,5.949999999999999
+177,No,No,22.16908664911539,4.0,2.0,0.0,0.0,Improve,Neither,2.0999999999999996
+178,No,No,13.521207387905987,9.0,2.0,7.0,7.0,Improve,Neither,5.95
+179,No,No,4.8733281266965855,8.0,6.0,7.0,5.0,Improve,Neither,6.8
+180,Yes,No,4.8733281266965855,6.0,5.0,4.0,2.0,Improve,Instrumentalist,4.85
+181,No,No,9.197267757301288,8.0,5.0,2.0,3.0,Improve,Neither,5.25
+182,Yes,Yes,30.816965910324797,7.0,6.0,6.0,1.0,No effect,Both,5.849999999999999
+183,Yes,No,9.197267757301288,10.0,2.0,0.0,0.0,Improve,Instrumentalist,4.2
+184,No,No,4.8733281266965855,6.0,0.0,0.0,0.0,Improve,Neither,2.0999999999999996
+185,No,No,26.493026279720088,2.0,0.0,1.0,0.0,Improve,Neither,0.8999999999999999
+186,No,No,35.140905540929495,9.0,0.0,2.0,0.0,Improve,Neither,3.55
+187,No,No,4.8733281266965855,5.0,4.0,1.0,1.0,Improve,Neither,3.45
+188,No,No,0.5493884960918851,8.0,10.0,2.0,0.0,Improve,Neither,6.7
+189,No,No,4.8733281266965855,3.0,6.0,2.0,1.0,No effect,Neither,3.6499999999999995
+190,No,No,13.521207387905987,4.0,4.0,2.0,1.0,Improve,Neither,3.3
+191,Yes,No,4.8733281266965855,7.0,5.0,2.0,6.0,Improve,Instrumentalist,5.199999999999999
+192,No,No,22.16908664911539,3.0,2.0,0.0,0.0,No effect,Neither,1.7499999999999998
+193,Yes,Yes,13.521207387905987,9.0,9.0,5.0,1.0,Improve,Both,7.3999999999999995
+194,No,No,0.5493884960918851,3.0,10.0,4.0,1.0,No effect,Neither,5.449999999999999
+195,No,No,22.16908664911539,9.0,0.0,5.0,0.0,No effect,Neither,4.15
+196,No,Yes,17.84514701851069,0.0,9.0,4.0,0.0,Improve,Composer,3.95
+197,No,No,2.7113583113942363,2.0,2.0,2.0,1.0,No effect,Neither,1.9
+198,Yes,Yes,17.84514701851069,6.0,9.0,2.0,1.0,Improve,Both,5.75
+199,No,Yes,4.8733281266965855,6.0,4.0,1.0,0.0,Improve,Composer,3.6999999999999997
+200,Yes,No,13.521207387905987,8.0,9.0,4.0,0.0,Improve,Instrumentalist,6.749999999999999
+201,No,No,22.16908664911539,8.0,6.0,5.0,6.0,No effect,Neither,6.5
+202,No,No,0.5493884960918851,3.0,10.0,0.0,0.0,Worsen,Neither,4.55
+203,Yes,No,22.16908664911539,9.0,4.0,9.0,7.0,Improve,Instrumentalist,7.05
+204,Yes,No,13.521207387905987,7.0,9.0,2.0,8.0,Worsen,Instrumentalist,6.8
+205,No,No,4.8733281266965855,10.0,3.0,1.0,4.0,Improve,Neither,5.15
+206,Yes,Yes,4.8733281266965855,0.0,0.0,0.0,1.0,No effect,Both,0.1
+207,No,No,4.8733281266965855,9.0,6.0,1.0,7.0,No effect,Neither,6.15
+208,No,Yes,13.521207387905987,7.0,1.0,3.0,5.0,Improve,Composer,3.9
+209,Yes,No,4.8733281266965855,9.0,7.0,5.0,7.0,Improve,Instrumentalist,7.3
+210,No,No,22.16908664911539,3.0,1.0,2.0,7.0,Improve,Neither,2.5
+211,No,No,9.197267757301288,6.0,6.0,8.0,0.0,Improve,Neither,5.799999999999999
+212,No,No,17.84514701851069,10.0,6.0,0.0,4.0,Improve,Neither,6.0
+213,Yes,No,-1.6125813192104659,6.0,3.0,1.0,1.0,Improve,Instrumentalist,3.4499999999999997
+214,No,No,0.5493884960918851,3.0,3.0,0.0,7.0,No effect,Neither,2.8
+215,No,No,39.46484517153419,9.0,10.0,2.0,2.0,No effect,Neither,7.250000000000001
+216,No,No,4.8733281266965855,7.0,5.0,0.0,2.0,No effect,Neither,4.3999999999999995
+217,No,No,0.5493884960918851,9.0,9.0,6.0,4.0,Improve,Neither,7.9
+218,Yes,No,4.8733281266965855,5.0,7.0,7.0,2.0,Improve,Instrumentalist,5.8
+219,No,No,9.197267757301288,0.0,8.0,0.0,5.0,Improve,Neither,3.3
+220,No,No,9.197267757301288,8.0,4.0,3.0,4.0,Improve,Neither,5.199999999999999
+221,No,No,4.8733281266965855,7.0,2.0,0.0,7.0,No effect,Neither,3.8499999999999996
+222,Yes,No,0.5493884960918851,5.0,1.0,0.0,0.0,Improve,Instrumentalist,2.1
+223,No,Yes,0.5493884960918851,4.0,1.0,3.0,0.0,Improve,Composer,2.35
+224,No,No,0.5493884960918851,3.0,5.0,3.0,0.0,Improve,Neither,3.4
+225,Yes,No,17.84514701851069,2.0,2.0,0.0,6.0,Improve,Instrumentalist,2.0
+226,No,No,17.84514701851069,0.0,1.0,3.0,5.0,Improve,Neither,1.4500000000000002
+227,No,Yes,30.816965910324797,6.0,4.0,8.0,8.0,Improve,Composer,5.8999999999999995
+228,No,No,-0.747793393089525,5.0,6.0,8.0,2.0,Improve,Neither,5.6499999999999995
+229,No,No,9.197267757301288,6.0,6.0,2.0,6.0,No effect,Neither,5.199999999999999
+230,No,No,26.493026279720088,8.0,9.0,3.0,4.0,Improve,Neither,6.949999999999999
+231,Yes,Yes,2.7113583113942363,8.0,4.0,3.0,3.0,Worsen,Both,5.099999999999999
+232,Yes,Yes,13.521207387905987,8.0,6.0,5.0,7.0,Improve,Both,6.6
+233,No,No,13.521207387905987,8.0,8.0,7.0,7.0,Improve,Neither,7.7
+234,No,Yes,39.46484517153419,5.0,2.0,5.0,0.0,Improve,Composer,3.45
+235,Yes,Yes,4.8733281266965855,6.0,8.0,4.0,2.0,No effect,Both,5.8999999999999995
+236,No,No,22.16908664911539,8.0,8.0,7.0,1.0,Improve,Neither,7.1
+237,Yes,No,-1.6125813192104659,10.0,2.0,0.0,0.0,Improve,Instrumentalist,4.2
+238,Yes,Yes,4.8733281266965855,8.0,7.0,7.0,5.0,Improve,Both,7.15
+239,Yes,Yes,9.197267757301288,8.0,10.0,9.0,2.0,Improve,Both,8.299999999999999
+240,No,No,9.197267757301288,0.0,4.0,4.0,0.0,Improve,Neither,2.2
+241,No,No,0.5493884960918851,3.0,2.0,0.0,1.0,No effect,Neither,1.8499999999999999
+242,Yes,Yes,7.035297941998937,5.0,3.0,3.0,1.0,Improve,Both,3.5
+243,No,No,0.5493884960918851,8.0,9.0,6.0,1.0,Improve,Neither,7.249999999999999
+244,Yes,No,17.84514701851069,6.0,7.0,8.0,2.0,Improve,Instrumentalist,6.349999999999999
+245,Yes,No,9.197267757301288,7.0,4.0,7.0,0.0,Improve,Instrumentalist,5.25
+246,No,No,-1.6125813192104659,8.0,0.0,0.0,0.0,Improve,Neither,2.8
+247,Yes,Yes,30.816965910324797,8.0,9.0,2.0,5.0,No effect,Both,6.85
+248,Yes,Yes,9.197267757301288,10.0,10.0,4.0,0.0,Improve,Both,7.8
+249,No,No,9.197267757301288,8.0,8.0,3.0,3.0,Improve,Neither,6.499999999999999
+250,Yes,No,17.84514701851069,8.0,7.0,7.0,4.0,Improve,Instrumentalist,7.050000000000001
+251,No,Yes,2.7113583113942363,8.0,7.0,1.0,2.0,Improve,Composer,5.65
+252,No,No,0.5493884960918851,6.0,5.0,10.0,2.0,No effect,Neither,6.05
+253,Yes,No,4.8733281266965855,7.0,6.0,0.0,4.0,Improve,Instrumentalist,4.949999999999999
+254,No,No,0.5493884960918851,7.0,4.0,0.0,0.0,Improve,Neither,3.8499999999999996
+255,No,No,13.521207387905987,8.0,7.0,2.0,10.0,No effect,Neither,6.65
+256,No,No,0.5493884960918851,4.0,4.0,4.0,0.0,Improve,Neither,3.5999999999999996
+257,No,No,4.8733281266965855,0.0,0.0,2.0,0.0,No effect,Neither,0.4
+258,Yes,Yes,4.8733281266965855,6.0,4.0,0.0,1.0,Improve,Both,3.5999999999999996
+259,No,No,4.8733281266965855,4.0,7.0,0.0,0.0,Improve,Neither,3.8499999999999996
+260,No,No,0.5493884960918851,8.0,4.0,3.0,0.0,No effect,Neither,4.799999999999999
+261,No,No,22.16908664911539,5.0,5.0,3.0,3.0,Improve,Neither,4.3999999999999995
+262,No,No,4.8733281266965855,0.0,8.0,0.0,0.0,Improve,Neither,2.8
+263,Yes,No,13.521207387905987,7.0,4.0,6.0,1.0,Improve,Instrumentalist,5.1499999999999995
+264,No,No,2.7113583113942363,8.0,7.0,7.0,3.0,No effect,Neither,6.95
+265,No,No,9.197267757301288,9.0,8.0,6.0,2.0,Improve,Neither,7.35
+266,No,Yes,13.521207387905987,8.0,6.0,4.0,0.0,Improve,Composer,5.699999999999999
+267,No,No,39.46484517153419,7.0,2.0,0.0,8.0,Improve,Neither,3.9499999999999993
+268,No,No,9.197267757301288,7.0,6.0,4.0,2.0,Improve,Neither,5.549999999999999
+269,No,No,9.197267757301288,1.0,1.0,1.0,0.0,Improve,Neither,0.8999999999999999
+270,No,No,4.8733281266965855,1.0,1.0,3.0,0.0,Improve,Neither,1.3
+271,Yes,Yes,4.8733281266965855,2.0,7.0,1.0,2.0,Improve,Both,3.55
+272,No,No,9.197267757301288,6.0,2.0,3.0,1.0,No effect,Neither,3.5
+273,No,No,4.8733281266965855,7.0,7.0,3.0,2.0,No effect,Neither,5.7
+274,Yes,No,17.84514701851069,8.0,7.0,0.0,3.0,No effect,Instrumentalist,5.55
+275,No,No,22.16908664911539,8.0,3.0,5.0,2.0,Improve,Neither,5.05
+276,Yes,Yes,9.197267757301288,5.0,4.0,2.0,0.0,Improve,Both,3.55
+277,No,No,17.84514701851069,7.0,10.0,10.0,1.0,Improve,Neither,8.049999999999999
+278,No,No,17.84514701851069,7.0,6.0,8.0,4.0,Improve,Neither,6.549999999999999
+279,No,No,22.16908664911539,8.0,7.0,0.0,9.0,Improve,Neither,6.15
+280,No,No,22.16908664911539,10.0,7.0,3.0,3.0,No effect,Neither,6.849999999999999
+281,No,No,9.197267757301288,6.0,5.0,5.0,3.0,Improve,Neither,5.1499999999999995
+282,No,No,39.46484517153419,8.0,7.0,6.0,8.0,No effect,Neither,7.25
+283,No,No,4.8733281266965855,10.0,7.0,7.0,3.0,Worsen,Neither,7.6499999999999995
+284,Yes,No,9.197267757301288,8.0,2.0,2.0,8.0,No effect,Instrumentalist,4.7
+285,No,No,2.7113583113942363,3.0,7.0,4.0,0.0,Improve,Neither,4.3
+286,No,No,39.46484517153419,9.0,7.0,5.0,5.0,Improve,Neither,7.1
+287,Yes,Yes,9.197267757301288,10.0,7.0,0.0,10.0,Improve,Both,6.949999999999999
+288,No,No,7.035297941998937,8.0,0.0,0.0,3.0,Improve,Neither,3.0999999999999996
+289,No,No,9.197267757301288,6.0,0.0,3.0,0.0,Improve,Neither,2.6999999999999997
+290,Yes,No,-1.6125813192104659,7.0,9.0,4.0,6.0,Improve,Instrumentalist,7.0
+291,No,Yes,65.40848295516241,3.0,2.0,5.0,6.0,Improve,Composer,3.35
+292,Yes,No,22.16908664911539,4.0,2.0,0.0,0.0,Improve,Instrumentalist,2.0999999999999996
+293,No,No,9.197267757301288,4.0,2.0,0.0,0.0,Improve,Neither,2.0999999999999996
+294,No,No,-1.6125813192104659,5.0,3.0,1.0,0.0,No effect,Neither,3.0
+295,No,No,17.84514701851069,4.0,2.0,2.0,1.0,Improve,Neither,2.5999999999999996
+296,Yes,No,4.8733281266965855,4.0,0.0,6.0,5.0,No effect,Instrumentalist,3.1
+297,No,No,4.8733281266965855,7.0,6.0,3.0,1.0,Improve,Neither,5.249999999999998
+298,No,No,4.8733281266965855,7.0,8.0,6.0,2.0,Improve,Neither,6.65
+299,No,No,2.7113583113942363,3.0,4.0,1.0,1.0,Improve,Neither,2.75
+300,Yes,No,0.5493884960918851,9.0,7.0,2.0,1.0,Improve,Instrumentalist,6.1
+301,Yes,No,39.46484517153419,10.0,9.0,3.0,2.0,Improve,Instrumentalist,7.45
+302,Yes,Yes,61.08454332455771,8.0,10.0,9.0,2.0,Improve,Both,8.299999999999999
+303,No,No,-1.6125813192104659,8.0,9.0,6.0,4.0,Improve,Neither,7.55
+304,No,No,9.197267757301288,5.0,6.0,9.0,9.0,Improve,Neither,6.55
+305,No,No,13.521207387905987,3.0,2.0,1.0,6.0,Improve,Neither,2.55
+306,No,No,0.5493884960918851,7.0,9.0,1.0,2.0,Improve,Neither,6.0
+307,No,No,100.0,5.0,1.0,9.0,1.0,Improve,Neither,4.0
+308,No,No,0.5493884960918851,3.0,3.0,0.0,0.0,Improve,Neither,2.0999999999999996
+309,Yes,No,4.8733281266965855,8.0,2.0,1.0,1.0,Improve,Instrumentalist,3.8000000000000003
+310,No,No,9.197267757301288,4.0,0.0,0.0,0.0,Improve,Neither,1.4
+311,Yes,No,9.197267757301288,9.0,6.0,1.0,1.0,Improve,Instrumentalist,5.55
+312,No,No,4.8733281266965855,10.0,7.0,2.0,0.0,Improve,Neither,6.35
+313,No,No,26.493026279720088,8.0,7.0,7.0,4.0,Improve,Neither,7.050000000000001
+314,No,No,22.16908664911539,1.0,0.0,0.0,0.0,Improve,Neither,0.35
+315,No,No,9.197267757301288,5.0,7.0,1.0,4.0,Improve,Neither,4.8
+316,Yes,Yes,13.521207387905987,8.0,8.0,2.0,2.0,Improve,Both,6.2
+317,Yes,No,9.197267757301288,2.0,2.0,8.0,0.0,No effect,Instrumentalist,3.0
+318,Yes,No,4.8733281266965855,6.0,0.0,0.0,2.0,Improve,Instrumentalist,2.3
+319,No,No,9.197267757301288,2.0,0.0,1.0,0.0,Improve,Neither,0.8999999999999999
+320,No,No,4.8733281266965855,6.0,2.0,6.0,7.0,No effect,Neither,4.7
+321,No,No,4.8733281266965855,6.0,1.0,0.0,5.0,Improve,Neither,2.9499999999999997
+322,Yes,Yes,9.197267757301288,9.0,7.0,10.0,6.0,No effect,Both,8.2
+323,No,No,-3.7745511345128158,10.0,0.0,0.0,0.0,No effect,Neither,3.5
+324,Yes,No,0.5493884960918851,6.0,6.0,3.0,0.0,Improve,Instrumentalist,4.799999999999999
+325,No,No,4.8733281266965855,4.0,3.0,1.0,6.0,Improve,Neither,3.25
+326,Yes,No,4.8733281266965855,6.0,2.0,2.0,1.0,No effect,Instrumentalist,3.3
+327,No,No,17.84514701851069,7.0,4.0,5.0,6.0,Improve,Neither,5.449999999999999
+328,Yes,No,4.8733281266965855,7.0,5.0,3.0,2.0,Improve,Instrumentalist,4.999999999999999
+329,Yes,Yes,13.521207387905987,8.0,5.0,10.0,3.0,Improve,Both,6.85
+330,No,Yes,30.816965910324797,7.0,5.0,6.0,5.0,Improve,Composer,5.8999999999999995
+331,Yes,No,13.521207387905987,6.0,8.0,8.0,2.0,Improve,Instrumentalist,6.7
+332,Yes,No,4.8733281266965855,3.0,2.0,0.0,2.0,Improve,Instrumentalist,1.9499999999999997
+333,No,No,17.84514701851069,6.0,7.0,7.0,4.0,Improve,Neither,6.35
+334,No,No,4.8733281266965855,9.0,8.0,4.0,8.0,Improve,Neither,7.549999999999999
+335,No,No,4.8733281266965855,7.0,7.0,2.0,1.0,Improve,Neither,5.3999999999999995
+336,No,No,0.5493884960918851,4.0,3.0,4.0,5.0,Improve,Neither,3.75
+337,Yes,No,4.8733281266965855,0.0,5.0,7.0,0.0,No effect,Instrumentalist,3.1500000000000004
+338,Yes,No,0.5493884960918851,8.0,7.0,7.0,0.0,Improve,Instrumentalist,6.65
+339,No,No,56.760603693953,5.0,10.0,8.0,0.0,No effect,Neither,6.85
+340,Yes,Yes,9.197267757301288,9.0,6.0,8.0,5.0,Improve,Both,7.35
+341,Yes,Yes,4.8733281266965855,2.0,2.0,7.0,0.0,No effect,Both,2.8
+342,Yes,Yes,-1.6125813192104659,7.0,8.0,6.0,2.0,Improve,Both,6.65
+343,No,No,22.16908664911539,10.0,10.0,8.0,2.0,No effect,Neither,8.799999999999999
+344,Yes,No,0.5493884960918851,8.0,5.0,2.0,3.0,Improve,Instrumentalist,5.25
+345,Yes,Yes,13.521207387905987,1.0,1.0,2.0,0.0,Improve,Both,1.1
+346,Yes,Yes,9.197267757301288,9.0,10.0,10.0,3.0,No effect,Both,8.950000000000001
+347,Yes,Yes,48.1127244327436,9.0,4.0,4.0,4.0,Improve,Both,5.75
+348,Yes,No,9.197267757301288,8.0,2.0,4.0,0.0,No effect,Instrumentalist,4.3
+349,No,No,0.5493884960918851,1.0,1.0,5.0,1.0,Improve,Neither,1.8
+350,No,No,39.46484517153419,10.0,9.0,9.0,8.0,Improve,Neither,9.250000000000002
+351,Yes,No,17.84514701851069,3.0,0.0,2.0,3.0,Improve,Instrumentalist,1.7499999999999998
+352,Yes,No,-1.6125813192104659,4.0,0.0,4.0,0.0,Improve,Instrumentalist,2.2
+353,Yes,Yes,17.84514701851069,2.0,3.0,5.0,2.0,Improve,Both,2.95
+354,Yes,Yes,9.197267757301288,2.0,3.0,3.0,0.0,Improve,Both,2.3499999999999996
+355,No,No,4.8733281266965855,8.0,4.0,3.0,0.0,Improve,Neither,4.799999999999999
+356,Yes,No,13.521207387905987,8.0,8.0,9.0,3.0,Improve,Instrumentalist,7.699999999999999
+357,Yes,Yes,22.16908664911539,0.0,1.0,0.0,2.0,Improve,Both,0.55
+358,No,No,9.197267757301288,5.0,4.0,0.0,1.0,Improve,Neither,3.25
+359,No,No,13.521207387905987,7.5,5.0,7.0,8.5,Improve,Neither,6.625
+360,Yes,No,9.197267757301288,3.0,3.0,0.0,0.0,Improve,Instrumentalist,2.0999999999999996
+361,Yes,No,4.8733281266965855,7.0,5.0,3.0,1.0,Improve,Instrumentalist,4.899999999999999
+362,No,No,0.5493884960918851,6.0,4.0,1.0,1.0,Improve,Neither,3.8
+363,Yes,No,22.16908664911539,8.0,8.0,7.0,10.0,No effect,Instrumentalist,8.0
+364,No,No,35.140905540929495,10.0,8.0,9.0,5.0,Improve,Neither,8.6
+365,No,No,0.5493884960918851,3.0,0.0,2.0,0.0,Improve,Neither,1.4499999999999997
+366,No,No,0.5493884960918851,5.0,5.0,7.0,1.0,Worsen,Neither,5.0
+367,No,Yes,-1.6125813192104659,7.0,7.0,6.0,5.0,Improve,Composer,6.6
+368,No,No,0.5493884960918851,7.0,4.0,6.0,3.0,Improve,Neither,5.35
+369,No,No,22.16908664911539,4.0,0.0,0.0,2.0,Worsen,Neither,1.5999999999999999
+370,No,No,13.521207387905987,3.0,0.0,6.0,9.0,Improve,Neither,3.15
+371,No,No,13.521207387905987,10.0,6.0,8.0,0.0,Improve,Neither,7.199999999999999
+372,No,No,2.7113583113942363,7.0,5.0,1.0,2.0,No effect,Neither,4.6
+373,No,No,4.8733281266965855,7.0,7.0,0.0,4.0,No effect,Neither,5.3
+374,No,No,4.8733281266965855,6.0,0.0,0.0,0.0,Improve,Neither,2.0999999999999996
+375,No,No,9.197267757301288,7.0,6.0,7.0,9.0,Improve,Neither,6.85
+376,No,No,13.521207387905987,5.0,7.0,7.0,0.0,No effect,Neither,5.6
+377,No,No,4.8733281266965855,7.0,6.0,4.0,3.0,Improve,Neither,5.649999999999999
+378,No,No,4.8733281266965855,2.0,2.0,2.0,0.0,Improve,Neither,1.7999999999999998
+379,No,No,22.16908664911539,9.0,5.0,0.0,7.0,Improve,Neither,5.6000000000000005
+380,Yes,No,-3.7745511345128158,3.0,7.0,8.0,0.0,Worsen,Instrumentalist,5.1
+381,No,No,0.5493884960918851,4.0,5.0,9.0,1.0,Improve,Neither,5.05
+382,Yes,No,13.521207387905987,1.0,0.0,7.0,0.0,Improve,Instrumentalist,1.75
+383,Yes,Yes,4.8733281266965855,3.0,2.0,0.0,2.0,No effect,Both,1.9499999999999997
+384,No,No,9.197267757301288,1.0,6.0,1.0,2.0,Improve,Neither,2.85
+385,No,No,13.521207387905987,8.0,10.0,4.0,0.0,No effect,Neither,7.1
+386,No,No,4.8733281266965855,8.0,10.0,10.0,0.0,No effect,Neither,8.3
+387,No,No,9.197267757301288,3.0,0.0,8.0,1.0,No effect,Neither,2.75
+388,No,No,39.46484517153419,0.0,0.0,0.0,0.0,No effect,Neither,0.0
+389,No,No,39.46484517153419,8.0,8.0,5.0,0.0,Improve,Neither,6.6
+390,No,No,13.521207387905987,8.0,7.0,6.0,2.0,Improve,Neither,6.65
+391,No,No,9.197267757301288,6.0,5.0,4.0,0.0,No effect,Neither,4.6499999999999995
+392,No,No,4.8733281266965855,5.0,4.0,6.0,2.0,Improve,Neither,4.55
+393,Yes,No,0.5493884960918851,3.0,1.0,0.0,2.0,No effect,Instrumentalist,1.5999999999999999
+394,No,No,0.5493884960918851,5.0,6.0,3.0,1.0,Improve,Neither,4.549999999999999
+395,Yes,Yes,0.5493884960918851,0.0,0.0,2.0,1.0,Improve,Both,0.5
+396,No,No,13.521207387905987,7.0,6.0,7.0,4.0,Improve,Neither,6.35
+397,No,No,4.8733281266965855,8.0,5.0,6.0,1.0,Improve,Neither,5.85
+398,No,No,4.8733281266965855,4.0,4.0,2.0,0.0,Improve,Neither,3.1999999999999997
+399,Yes,Yes,4.8733281266965855,9.0,8.0,10.0,9.0,Improve,Both,8.85
+400,No,No,22.16908664911539,5.0,5.0,7.0,0.0,Improve,Neither,4.9
+401,No,No,9.197267757301288,4.0,6.0,8.0,1.0,Improve,Neither,5.199999999999999
+402,No,No,0.5493884960918851,4.0,8.0,5.0,0.0,Improve,Neither,5.199999999999999
+403,Yes,No,13.521207387905987,9.0,10.0,6.0,7.0,Improve,Instrumentalist,8.55
+404,No,No,-1.6125813192104659,3.0,2.0,2.0,2.0,Improve,Neither,2.35
+405,No,No,30.816965910324797,6.0,2.0,2.0,1.0,Improve,Neither,3.3
+406,No,No,61.08454332455771,2.0,0.0,3.0,0.0,No effect,Neither,1.3
+407,Yes,No,2.7113583113942363,10.0,8.0,0.0,4.0,Improve,Instrumentalist,6.7
+408,Yes,No,4.8733281266965855,4.0,4.0,2.0,2.0,Improve,Instrumentalist,3.4
+409,Yes,No,9.197267757301288,7.0,8.0,6.0,2.0,Improve,Instrumentalist,6.65
+410,No,No,0.5493884960918851,7.0,6.0,5.0,5.0,Improve,Neither,6.049999999999999
+411,No,Yes,0.5493884960918851,4.0,5.0,7.0,0.0,No effect,Composer,4.55
+412,No,No,17.84514701851069,10.0,7.0,0.0,0.0,Improve,Neither,5.949999999999999
+413,No,No,0.5493884960918851,4.0,2.0,1.0,0.0,Improve,Neither,2.3
+414,No,No,0.5493884960918851,7.0,6.0,2.0,3.0,Improve,Neither,5.249999999999999
+415,No,No,26.493026279720088,3.0,2.0,8.0,0.0,Improve,Neither,3.3499999999999996
+416,Yes,Yes,9.197267757301288,10.0,7.0,4.0,3.0,Improve,Both,7.049999999999999
+417,No,No,9.197267757301288,4.0,0.0,0.0,0.0,No effect,Neither,1.4
+418,No,No,26.493026279720088,7.0,7.0,0.0,0.0,Improve,Neither,4.8999999999999995
+419,No,No,30.816965910324797,6.0,7.0,4.0,1.0,Improve,Neither,5.449999999999998
+420,No,No,4.8733281266965855,7.0,6.0,2.0,7.0,Improve,Neither,5.6499999999999995
+421,No,No,4.8733281266965855,6.0,5.0,8.0,0.0,Improve,Neither,5.449999999999999
+422,No,No,4.8733281266965855,10.0,10.0,2.0,3.0,Improve,Neither,7.7
+423,No,No,4.8733281266965855,7.0,6.0,5.0,1.0,Improve,Neither,5.649999999999999
+424,No,No,13.521207387905987,3.0,0.0,0.0,0.0,Improve,Neither,1.0499999999999998
+425,No,No,13.521207387905987,7.0,6.0,6.0,5.0,Improve,Neither,6.249999999999999
+426,No,No,0.5493884960918851,3.0,2.0,5.0,0.0,No effect,Neither,2.75
+427,No,No,0.5493884960918851,5.0,1.0,1.0,1.0,Improve,Neither,2.4000000000000004
+428,No,No,17.84514701851069,1.0,2.0,1.0,0.0,No effect,Neither,1.2499999999999998
+429,No,No,30.816965910324797,2.0,1.0,2.0,2.0,Improve,Neither,1.6499999999999997
+430,No,No,0.5493884960918851,10.0,10.0,7.0,8.0,Improve,Neither,9.200000000000001
+431,No,No,30.816965910324797,7.0,2.0,1.0,6.0,Improve,Neither,3.9499999999999997
+432,No,No,30.816965910324797,6.0,4.0,1.0,0.0,Improve,Neither,3.6999999999999997
+433,No,No,0.5493884960918851,5.0,9.0,6.0,1.0,Improve,Neither,6.2
+434,Yes,No,0.5493884960918851,7.0,5.0,7.0,0.0,Improve,Instrumentalist,5.6
+435,No,No,30.816965910324797,7.0,6.0,7.0,4.0,Improve,Neither,6.35
+436,No,No,22.16908664911539,3.0,5.0,0.0,2.0,No effect,Neither,3.0
+437,Yes,Yes,9.197267757301288,8.0,8.0,5.0,2.0,Improve,Both,6.8
+438,Yes,No,13.521207387905987,8.0,7.0,10.0,6.0,Improve,Instrumentalist,7.85
+439,No,No,4.8733281266965855,2.0,4.0,5.0,2.0,Improve,Neither,3.3
+440,Yes,No,9.197267757301288,7.0,3.0,9.0,2.0,Improve,Instrumentalist,5.5
+441,No,No,4.8733281266965855,0.0,0.0,0.0,5.0,No effect,Neither,0.5
+442,No,No,0.5493884960918851,8.0,6.0,9.0,8.0,Improve,Neither,7.499999999999999
+443,No,No,0.5493884960918851,4.0,2.0,3.0,2.0,Improve,Neither,2.9
+444,Yes,No,4.8733281266965855,6.0,4.0,10.0,0.0,Improve,Instrumentalist,5.5
+445,No,No,26.493026279720088,8.0,8.0,10.0,0.0,Improve,Neither,7.6
+446,No,No,17.84514701851069,5.0,5.0,5.0,5.0,Improve,Neither,5.0
+447,No,No,9.197267757301288,10.0,8.0,6.0,2.0,No effect,Neither,7.7
+448,No,No,0.5493884960918851,0.0,0.0,7.0,0.0,Improve,Neither,1.4000000000000001
+449,Yes,Yes,22.16908664911539,8.0,8.0,10.0,0.0,Improve,Both,7.6
+450,Yes,Yes,9.197267757301288,7.0,8.0,4.0,10.0,Improve,Both,7.05
+451,Yes,No,13.521207387905987,3.0,5.0,4.0,0.0,Improve,Instrumentalist,3.5999999999999996
+452,Yes,No,4.8733281266965855,5.0,2.0,3.0,1.0,Improve,Instrumentalist,3.1500000000000004
+453,No,No,4.8733281266965855,6.0,3.0,4.0,2.0,Improve,Neither,4.1499999999999995
+454,Yes,Yes,0.5493884960918851,5.0,6.0,8.0,2.0,Improve,Both,5.6499999999999995
+455,No,No,9.197267757301288,8.0,4.0,7.0,5.0,Improve,Neither,6.1
+456,Yes,No,4.8733281266965855,8.0,3.0,1.0,3.0,Improve,Instrumentalist,4.35
+457,No,Yes,22.16908664911539,3.0,3.0,0.0,0.0,Improve,Composer,2.0999999999999996
+458,No,No,9.197267757301288,0.0,0.0,0.0,0.0,No effect,Neither,0.0
+459,No,No,9.197267757301288,5.0,4.0,2.0,0.0,No effect,Neither,3.55
+460,No,No,4.8733281266965855,2.0,4.0,0.0,0.0,Improve,Neither,2.0999999999999996
+461,No,No,9.197267757301288,4.0,0.0,7.0,0.0,No effect,Neither,2.8
+462,No,No,13.521207387905987,10.0,8.0,6.0,2.0,No effect,Neither,7.7
+463,Yes,No,17.84514701851069,8.0,7.0,2.0,1.0,Improve,Instrumentalist,5.75
+464,No,No,4.8733281266965855,3.0,3.0,0.0,3.0,Improve,Neither,2.3999999999999995
+465,No,No,26.493026279720088,10.0,10.0,8.0,10.0,Improve,Neither,9.6
+466,Yes,No,9.197267757301288,10.0,2.0,7.0,8.0,Improve,Instrumentalist,6.4
+467,Yes,Yes,9.197267757301288,9.0,6.0,8.0,5.0,Improve,Both,7.35
+468,No,No,13.521207387905987,6.0,4.0,1.0,6.0,Improve,Neither,4.3
+469,No,No,9.197267757301288,3.0,4.0,6.0,8.0,Improve,Neither,4.45
+470,No,No,0.5493884960918851,10.0,10.0,10.0,0.0,Improve,Neither,9.0
+471,No,No,26.493026279720088,4.0,8.0,8.0,4.0,No effect,Neither,6.199999999999999
+472,No,No,0.5493884960918851,3.0,0.0,0.0,0.0,Improve,Neither,1.0499999999999998
+473,No,No,13.521207387905987,1.0,0.0,0.0,0.0,Improve,Neither,0.35
+474,No,No,13.521207387905987,5.0,6.0,7.0,7.0,No effect,Neither,5.95
+475,Yes,No,13.521207387905987,3.0,0.0,3.0,4.0,Improve,Instrumentalist,2.05
+476,No,No,17.84514701851069,1.0,0.0,0.0,1.0,No effect,Neither,0.44999999999999996
+477,No,No,22.16908664911539,6.0,6.0,0.0,0.0,Improve,Neither,4.199999999999999
+478,No,No,0.5493884960918851,6.0,4.0,0.0,0.0,Improve,Neither,3.4999999999999996
+479,No,No,9.197267757301288,2.0,6.0,3.0,0.0,Worsen,Neither,3.4
+480,No,No,0.5493884960918851,8.0,3.0,3.0,3.0,Improve,Neither,4.749999999999999
+481,No,No,30.816965910324797,8.0,10.0,7.0,3.0,No effect,Neither,8.0
+482,Yes,No,0.5493884960918851,1.0,0.0,0.0,1.0,Improve,Instrumentalist,0.44999999999999996
+483,Yes,Yes,30.816965910324797,8.0,6.0,6.0,8.0,Improve,Both,6.8999999999999995
+484,No,No,0.5493884960918851,6.0,3.0,1.0,7.0,Improve,Neither,4.05
+485,Yes,No,0.5493884960918851,2.0,0.0,3.0,0.0,Improve,Instrumentalist,1.3
+486,Yes,Yes,39.46484517153419,0.0,0.0,0.0,0.0,No effect,Both,0.0
+487,Yes,Yes,39.46484517153419,10.0,10.0,6.0,6.0,Improve,Both,8.799999999999999
+488,No,No,17.84514701851069,3.0,0.0,0.0,1.0,Improve,Neither,1.15
+489,No,No,39.46484517153419,7.0,9.0,10.0,0.0,Improve,Neither,7.6
+490,Yes,No,4.8733281266965855,8.0,7.0,6.0,2.0,Improve,Instrumentalist,6.65
+491,No,No,4.8733281266965855,10.0,7.0,9.0,3.0,No effect,Neither,8.049999999999999
+492,No,No,9.197267757301288,6.0,0.0,0.0,0.0,Improve,Neither,2.0999999999999996
+493,Yes,Yes,30.816965910324797,3.0,0.0,2.0,2.0,Improve,Both,1.6499999999999997
+494,No,No,30.816965910324797,6.0,5.0,9.0,8.0,Improve,Neither,6.449999999999999
+495,No,No,30.816965910324797,7.0,6.0,5.0,8.0,Improve,Neither,6.349999999999999
+496,Yes,No,30.816965910324797,10.0,7.0,8.0,6.0,Improve,Instrumentalist,8.149999999999999
+497,Yes,No,48.1127244327436,0.0,3.0,9.0,5.0,No effect,Instrumentalist,3.3499999999999996
+498,No,No,22.16908664911539,0.0,2.0,1.0,5.0,Improve,Neither,1.4
+499,Yes,No,13.521207387905987,2.0,0.0,0.0,0.0,No effect,Instrumentalist,0.7
+500,No,No,30.816965910324797,2.0,2.0,4.0,0.0,No effect,Neither,2.2
+501,No,No,4.8733281266965855,5.0,6.0,3.0,4.0,No effect,Neither,4.85
+502,No,No,0.5493884960918851,0.0,0.0,1.0,0.0,No effect,Neither,0.2
+503,Yes,No,4.8733281266965855,5.0,4.0,3.0,7.0,Improve,Instrumentalist,4.45
+504,Yes,No,9.197267757301288,2.0,7.0,0.0,0.0,Improve,Instrumentalist,3.1499999999999995
+505,No,No,4.8733281266965855,3.0,3.0,1.0,8.0,No effect,Neither,3.0999999999999996
+506,No,No,48.1127244327436,7.0,10.0,4.0,7.0,Worsen,Neither,7.449999999999999
+507,No,No,0.5493884960918851,3.0,2.0,3.0,0.0,Improve,Neither,2.3499999999999996
+508,No,No,0.5493884960918851,5.0,1.0,1.0,9.0,Improve,Neither,3.2
+509,No,No,9.197267757301288,8.0,9.0,4.0,10.0,Improve,Neither,7.749999999999999
+510,No,No,4.8733281266965855,4.0,8.0,0.0,0.0,Improve,Neither,4.199999999999999
+511,No,No,4.8733281266965855,7.0,9.0,7.0,0.0,Improve,Neither,7.0
+512,Yes,No,9.197267757301288,1.0,5.0,6.0,4.0,No effect,Instrumentalist,3.7
+513,No,No,0.5493884960918851,3.0,2.0,1.0,0.0,No effect,Neither,1.9499999999999997
+514,Yes,Yes,9.197267757301288,6.0,8.0,0.0,0.0,Improve,Both,4.8999999999999995
+515,No,No,9.197267757301288,6.0,3.0,6.0,0.0,Improve,Neither,4.35
+516,Yes,Yes,17.84514701851069,7.0,4.0,8.0,0.0,Improve,Both,5.449999999999999
+517,No,No,30.816965910324797,2.0,6.0,9.0,1.0,No effect,Neither,4.699999999999999
+518,No,No,13.521207387905987,8.0,5.0,3.0,8.0,Improve,Neither,5.95
+519,No,No,9.197267757301288,7.0,5.0,3.0,3.0,Improve,Neither,5.099999999999999
+520,No,No,13.521207387905987,4.0,8.0,2.0,3.0,Improve,Neither,4.8999999999999995
+521,Yes,No,0.5493884960918851,3.0,0.0,0.0,5.0,Improve,Instrumentalist,1.5499999999999998
+522,No,No,13.521207387905987,10.0,7.0,3.0,2.0,Improve,Neither,6.749999999999999
+523,No,No,0.5493884960918851,10.0,4.0,8.0,0.0,Improve,Neither,6.5
+524,No,No,22.16908664911539,8.0,7.0,7.0,3.0,Improve,Neither,6.95
+525,No,No,4.8733281266965855,10.0,5.0,2.0,8.0,Improve,Neither,6.45
+526,Yes,No,13.521207387905987,5.0,2.0,1.0,6.0,Improve,Instrumentalist,3.2500000000000004
+527,Yes,Yes,30.816965910324797,4.0,8.0,9.0,1.0,Improve,Both,6.099999999999999
+528,No,No,4.8733281266965855,7.0,8.0,5.0,3.0,Improve,Neither,6.55
+529,No,No,4.8733281266965855,2.0,2.0,0.0,3.0,No effect,Neither,1.7
+530,No,Yes,39.46484517153419,10.0,3.0,0.0,4.0,Improve,Composer,4.95
+531,No,No,-3.7745511345128158,10.0,10.0,10.0,9.0,Improve,Neither,9.9
+532,No,No,22.16908664911539,3.0,7.0,7.0,4.0,No effect,Neither,5.3
+533,No,No,9.197267757301288,7.0,5.0,7.0,7.0,Improve,Neither,6.3
+534,No,No,4.8733281266965855,7.0,4.0,8.0,8.0,Improve,Neither,6.249999999999999
+535,Yes,No,-2.6935662268616407,7.0,9.0,4.0,5.0,Improve,Instrumentalist,6.8999999999999995
+536,No,No,13.521207387905987,4.0,7.0,1.0,3.0,Improve,Neither,4.35
+537,No,No,4.8733281266965855,5.0,9.0,9.0,6.0,Improve,Neither,7.300000000000001
+538,No,No,4.8733281266965855,5.0,4.0,10.0,7.0,No effect,Neither,5.8500000000000005
+539,No,No,9.197267757301288,7.0,2.0,0.0,1.0,Improve,Neither,3.2499999999999996
+540,No,No,22.16908664911539,8.0,6.0,0.0,2.0,Improve,Neither,5.1
+541,No,No,9.197267757301288,1.0,3.0,10.0,0.0,No effect,Neither,3.4
+542,No,No,4.8733281266965855,8.0,10.0,10.0,2.0,Worsen,Neither,8.5
+543,Yes,No,17.84514701851069,4.0,7.0,6.0,0.0,No effect,Instrumentalist,5.05
+544,No,No,13.521207387905987,9.0,6.0,3.0,0.0,No effect,Neither,5.85
+545,No,No,13.521207387905987,10.0,7.0,4.0,4.0,Improve,Neither,7.1499999999999995
+546,Yes,Yes,48.1127244327436,7.0,10.0,0.0,8.0,Improve,Both,6.749999999999999
+547,No,No,-1.6125813192104659,10.0,2.0,1.0,10.0,Worsen,Neither,5.4
+548,No,No,0.5493884960918851,2.0,1.0,2.0,2.0,Improve,Neither,1.6499999999999997
+549,No,No,9.197267757301288,3.0,10.0,0.0,0.0,No effect,Neither,4.55
+550,No,No,48.1127244327436,7.0,10.0,2.0,0.0,Improve,Neither,6.35
+551,Yes,Yes,13.521207387905987,4.0,2.0,0.0,0.0,Improve,Both,2.0999999999999996
+552,No,No,9.197267757301288,4.0,2.0,5.0,3.0,Improve,Neither,3.3999999999999995
+553,No,No,0.5493884960918851,6.0,8.0,7.0,0.0,Improve,Neither,6.3
+554,No,No,13.521207387905987,8.0,6.0,4.0,0.0,Improve,Neither,5.699999999999999
+555,Yes,Yes,4.8733281266965855,2.0,2.0,0.0,0.0,No effect,Both,1.4
+556,No,No,9.197267757301288,8.0,7.0,9.0,3.0,Improve,Neither,7.35
+557,No,No,4.8733281266965855,6.0,6.0,3.0,6.0,Improve,Neither,5.399999999999999
+558,No,No,0.5493884960918851,8.0,7.0,1.0,1.0,No effect,Neither,5.55
+559,No,No,4.8733281266965855,6.0,2.0,4.0,3.0,Improve,Neither,3.8999999999999995
+560,Yes,Yes,43.7887848021389,5.0,6.0,6.0,0.0,Improve,Both,5.05
+561,Yes,Yes,39.46484517153419,6.0,10.0,8.0,1.0,Improve,Both,7.299999999999999
+562,Yes,No,17.84514701851069,7.0,3.0,9.0,7.0,Improve,Instrumentalist,6.0
+563,Yes,No,2.7113583113942363,4.0,6.0,0.0,0.0,No effect,Instrumentalist,3.4999999999999996
+564,No,No,4.8733281266965855,9.0,4.0,0.0,1.0,Improve,Neither,4.6499999999999995
+565,No,No,9.197267757301288,9.0,7.0,7.0,5.0,Improve,Neither,7.5
+566,No,No,9.197267757301288,1.0,0.0,1.0,0.0,Improve,Neither,0.55
+567,No,No,13.521207387905987,8.0,7.0,2.0,6.0,Improve,Neither,6.25
+568,No,No,0.5493884960918851,5.0,1.0,4.0,0.0,Improve,Neither,2.9000000000000004
+569,Yes,No,17.84514701851069,10.0,6.0,0.0,0.0,Improve,Instrumentalist,5.6
+570,No,No,4.8733281266965855,7.0,5.0,5.0,5.0,Improve,Neither,5.699999999999999
+571,No,No,0.5493884960918851,2.0,0.0,0.0,5.0,No effect,Neither,1.2
+572,Yes,No,0.5493884960918851,7.0,0.0,0.0,0.0,No effect,Instrumentalist,2.4499999999999997
+573,No,No,22.16908664911539,4.0,1.0,1.0,0.0,Improve,Neither,1.95
+574,No,No,9.197267757301288,3.0,8.0,0.0,2.0,Improve,Neither,4.05
+575,No,No,13.521207387905987,7.0,0.0,2.0,2.0,Improve,Neither,3.05
+576,No,No,13.521207387905987,10.0,8.0,10.0,0.0,Improve,Neither,8.3
+577,Yes,Yes,0.5493884960918851,7.0,1.0,1.0,1.0,Improve,Both,3.1
+578,Yes,No,4.8733281266965855,5.0,9.0,1.0,7.0,No effect,Instrumentalist,5.800000000000001
+579,Yes,Yes,100.0,0.0,0.0,0.0,0.0,No effect,Both,0.0
+580,Yes,Yes,17.84514701851069,10.0,6.0,3.0,8.0,Improve,Both,6.999999999999999
+581,Yes,No,9.197267757301288,7.0,3.5,3.5,5.5,Improve,Instrumentalist,4.925
+582,Yes,Yes,13.521207387905987,2.0,0.0,0.0,2.0,Improve,Both,0.8999999999999999
+583,No,No,35.140905540929495,10.0,10.0,10.0,8.0,Improve,Neither,9.8
+584,Yes,No,0.5493884960918851,9.0,7.0,8.0,4.0,Improve,Instrumentalist,7.6
+585,No,No,4.8733281266965855,6.0,4.0,5.0,0.0,Improve,Neither,4.5
+586,No,No,2.7113583113942363,8.0,5.0,9.0,4.0,Improve,Neither,6.75
+587,Yes,No,4.8733281266965855,3.0,7.0,0.0,0.0,Improve,Instrumentalist,3.4999999999999996
+588,Yes,No,13.521207387905987,9.0,1.0,0.0,9.0,Improve,Instrumentalist,4.4
+589,No,No,0.5493884960918851,4.0,1.0,1.0,6.0,Improve,Neither,2.55
+590,No,No,9.197267757301288,6.0,5.0,3.0,1.0,No effect,Neither,4.549999999999999
+591,Yes,Yes,13.521207387905987,7.0,8.0,6.0,5.0,Improve,Both,6.95
+592,Yes,Yes,30.816965910324797,8.0,9.0,5.0,10.0,Improve,Both,7.949999999999999
+593,No,No,17.84514701851069,8.0,6.0,7.0,0.0,Improve,Neither,6.3
+594,No,No,30.816965910324797,5.0,2.0,4.0,7.0,No effect,Neither,3.95
+595,No,No,0.5493884960918851,9.0,3.0,2.0,0.0,No effect,Neither,4.6
+596,Yes,Yes,13.521207387905987,4.0,6.0,3.0,4.0,Improve,Both,4.5
+597,No,No,0.5493884960918851,9.0,8.0,4.0,0.0,Improve,Neither,6.749999999999999
+598,Yes,No,0.5493884960918851,8.0,3.0,9.0,2.0,No effect,Instrumentalist,5.85
+599,No,No,9.197267757301288,10.0,10.0,6.0,8.0,Improve,Neither,9.0
+600,No,No,17.84514701851069,7.0,7.0,5.0,5.0,Improve,Neither,6.3999999999999995
+601,Yes,No,17.84514701851069,10.0,8.0,1.0,0.0,Improve,Instrumentalist,6.5
+602,No,No,13.521207387905987,8.0,6.0,2.0,0.0,Improve,Neither,5.3
+603,No,No,22.16908664911539,10.0,7.0,6.0,10.0,Improve,Neither,8.149999999999999
+604,No,No,22.16908664911539,6.0,6.0,8.0,0.0,Improve,Neither,5.799999999999999
+605,No,No,0.5493884960918851,10.0,10.0,8.0,4.0,Worsen,Neither,9.0
+606,No,No,74.05636221637181,9.0,8.0,5.0,10.0,Improve,Neither,7.949999999999999
+607,No,No,0.5493884960918851,0.0,0.0,0.0,0.0,No effect,Neither,0.0
+608,Yes,No,26.493026279720088,7.0,3.0,1.0,2.0,Improve,Instrumentalist,3.9
+609,No,No,-1.6125813192104659,6.0,2.0,2.0,0.0,Improve,Neither,3.1999999999999997
+610,No,No,4.8733281266965855,7.0,6.0,4.0,6.0,Improve,Neither,5.949999999999999
+611,Yes,No,4.8733281266965855,7.0,6.0,0.0,9.0,Improve,Instrumentalist,5.449999999999999
+612,Yes,No,0.5493884960918851,3.0,2.0,2.0,5.0,Improve,Instrumentalist,2.65
+613,No,Yes,22.16908664911539,2.0,2.0,2.0,2.0,Improve,Composer,1.9999999999999998
+614,Yes,No,17.84514701851069,2.0,3.0,2.0,1.0,Improve,Instrumentalist,2.25
+615,No,No,4.8733281266965855,2.0,2.0,2.0,5.0,Improve,Neither,2.3
