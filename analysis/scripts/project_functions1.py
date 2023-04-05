@@ -1,7 +1,32 @@
 import pandas as pd
 #wrapping it in a function
-def load_and_process(url_or_path_to_csv_file):
 
+def type_of_music(x):
+    '''
+    Decides what type of music the responder participated in. If they were a composer, instrumentalist, both, or neither
+    '''
+    if (x['Instrumentalist']=="Yes") & (x['Composer']=="Yes"):
+        return "Both"
+    elif x['Instrumentalist']=="Yes": 
+        return "Instrumentalist"  
+    elif x['Composer']=="Yes":
+        return "Composer"
+    else:
+        return "Neither"
+    
+def load_and_process(url_or_path_to_csv_file):
+    def type_of_music(x):
+        '''
+        Decides what type of music the responder participated in. If they were a composer, instrumentalist, both, or neither
+        '''
+        if (x['Instrumentalist']=="Yes") & (x['Composer']=="Yes"):
+            return "Both"
+        elif x['Instrumentalist']=="Yes": 
+            return "Instrumentalist"  
+        elif x['Composer']=="Yes":
+            return "Composer"
+        else:
+            return "Neither"
     # Method Chain 1 (Load data and deal with missing data)
 
     df1 = (
