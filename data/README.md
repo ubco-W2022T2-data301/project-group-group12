@@ -1,5 +1,8 @@
 # Data
 
-This directory contains the raw and the processed dataset files (Music Therapy and Mental Health Survey Results).
+This directory contains the raw and the processed dataset files. 
 
-Also contains the second dataset file (Young_People_Survey).
+The raw folder directory includes the following datasets:
+- Music Therapy and Mental Health Survey Results
+- Young People Survey
+- Student Mental Health
