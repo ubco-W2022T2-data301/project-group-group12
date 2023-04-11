@@ -20,6 +20,16 @@ Given the increasing advocacy towards mental health and mental health support, w
 ## Question 1 + Results
 **What is the relationship between the active participation of music in one's lifestyle (composing, playing an instrument, listening to music on a greater than average amount, or neither) in relation to the severity of mental health disorders among these individuals? How do these factors influence how they percieve the effect of music?**
 
+Graph 1: Effects of Music Participation on Mental Health.
+![graph 1](images/analysis1graph1.png)
+
+Graph 2: Overall mental health based on hours of music listened to per day.
+![graph 2](images/analysis1graph2.png)
+
+Graph 3: Type of Music Participation and percieved effects of music.
+![graph 3](images/analysis1graph3.png)
+
+
 Based on the graphs demonstrated above, there is no correlation between those who participate in different types of music and their reported severity in their overall mental health. This is shown in the violin chart, where the data is pretty much centered around the 4-7 range in terms of overall mental health score for each group of individuals. In addition, there is also no correlation between the amount of music listened to per day and the overall mental health of an individual. This can be seen in the hex-plot graph, where the overall mental health is pretty much evenly distributed for each hour of music listened to per day. Despite this, it can be seen that the type of music participation can affect how the music effects on mental health is percieved. Those who are composers tend to report that music improved their mental health moreso compared to those who did not participate in music composing or playing. However, it can be seen in the heat map that all three groups percieve music to have a positive effect on their mental health in general.
 
 ## Question 2 + Results
