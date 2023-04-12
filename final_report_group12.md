@@ -47,8 +47,8 @@ Graph 2 also demonstrates that there is no correlation between overall mental he
 <br>
 
 Graph 3: Type of Music Participation and percieved effects of music.
-
 <br>
+
 ![graph 3](images/analysis1graph3.png)
 
 <br>
