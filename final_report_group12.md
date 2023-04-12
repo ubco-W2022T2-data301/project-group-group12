@@ -55,14 +55,13 @@ To go more in depth, I wanted to see the relationship between each genre and men
     - Jazz requires a lot of different instruments such as trumpet which can be disturbing for those trying to sleep. Similar to EDM, it does make sense why Jazz might lead to bad sleep.
 3. EDM and Anxiety (negative relationship)
     - This is the first negative relationship meaning EDM reduces anxiety? It's certainly interesting but I suppose going to places like clubs and parties where EDM is most used could help people forget their troubles for a little bit
-4. Rock and Depression (positive relationship)
-    - I can't really see an exact reason for this but perhaps
-5. Classial and Insomnia (positive relationship)
 
 ##### Graph 3: Average EDM Frequency by Insomnia
 
 ![graph 3](images/analysis2graph3.png)
+Through graph 2, I started going more in depth with the EDM and Insomnia relationship. I found there was a direct connection between the two by making a line chart on Tableau. I studied alchol and smoking consumptions levels and determined those two factors were not necessarily affecting EDM and Insomnia. This was because alchol and smoking levels were increasing as age increased while insomnia levels decrease, suggesting there wasn't a strong enough connection between acohol/amoking and insomnia. 
 
+While EDM likely isn't the only reason behind insomnia, I think it's fair to assume it plays a role based on the research. However, additional research would be required to determine the exact percentage of indluence. 
 
 ## Question 3 + Results (Zainab Mohammad)
 
