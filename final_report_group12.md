@@ -20,8 +20,12 @@ Given the increasing advocacy towards mental health and mental health support, w
 ## Question 1 + Results (Alyssa Kong)
 **What is the relationship between the active participation of music in one's lifestyle (composing, playing an instrument, listening to music on a greater than average amount, or neither) in relation to the severity of mental health disorders among these individuals? How do these factors influence how they percieve the effect of music?**
 
+To answer this question, I grouped individuals into four groups: composers, instrumentalists, both, or neither. I then created an "Overall Mental Health" score based on the four components of anxiety, depression, OCD and insomnia. Anxiety and depression was 35% of this score, insomnia was 20% and OCD was 10%. The higher the score reflected more degrees of anxiety, depression, insomnia, and OCD.
+
 Graph 1: Effects of Music Participation on Mental Health.
 ![graph 1](images/analysis1graph1.png)
+
+As seen in Graph 1, there is no strong correlation demonstrated between different types of music participation and overall mental health scores. 
 
 Graph 2: Overall mental health based on hours of music listened to per day.
 ![graph 2](images/analysis1graph2.png)
