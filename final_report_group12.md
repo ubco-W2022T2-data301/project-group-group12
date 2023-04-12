@@ -36,7 +36,7 @@ Based on the graphs demonstrated above, there is no correlation between those wh
 
 **Is there a correlation between the frequency of how often individuals between the ages of 15-30 listen to their favourite music genre, and if those habits have any underlying effects on mental health conditions? Are there external factors impacting greater insomnia levels for people who listen to more EDM?**
 
-##### Graph 1: Mental Health Score for Each Genre
+### Graph 1: Mental Health Score for Each Genre
 
 ![graph 1](images/analysis2graph1.png)
 
@@ -44,7 +44,7 @@ In my dataset, I made a column titled "Mental Health Score" which found the aver
 
 Obviously these numbers don't paint the full picture but it's a good starting point to see if specific genres have different effects on the mind. I also understood there are many factors affecting these results, therefore, I did more research to answer these questions.
 
-##### Graph 2: Correlation Between Frequency of Music Genres and Mental Health Conditions  
+### Graph 2: Correlation Between Frequency of Music Genres and Mental Health Conditions  
 
 ![graph 2](images/analysis2graph2.png)
 
@@ -56,9 +56,10 @@ To go more in depth, I wanted to see the relationship between each genre and men
 3. EDM and Anxiety (negative relationship)
     - This is the first negative relationship meaning EDM reduces anxiety? It's certainly interesting but I suppose going to places like clubs and parties where EDM is most used could help people forget their troubles for a little bit
 
-##### Graph 3: Average EDM Frequency by Insomnia
+### Graph 3: Average EDM Frequency by Insomnia
 
 ![graph 3](images/analysis2graph3.png)
+
 Through graph 2, I started going more in depth with the EDM and Insomnia relationship. I found there was a direct connection between the two by making a line chart on Tableau. I studied alchol and smoking consumptions levels and determined those two factors were not necessarily affecting EDM and Insomnia. This was because alchol and smoking levels were increasing as age increased while insomnia levels decrease, suggesting there wasn't a strong enough connection between acohol/amoking and insomnia. 
 
 While EDM likely isn't the only reason behind insomnia, I think it's fair to assume it plays a role based on the research. However, additional research would be required to determine the exact percentage of indluence. 
