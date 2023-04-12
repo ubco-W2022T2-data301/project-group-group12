@@ -20,6 +20,8 @@ Given the increasing advocacy towards mental health and mental health support, w
 <br>
 
 I conducted an initial analysis on the distribution of anxiety and depression scores for those who identified as composers, instrumentalists, both or neither. The graph demonstrates that the group that did not participate in either composing or instrument playing was very concentrated towards the higher ends of the spectrum for both anxiety and depression. A similar concentration is observed for other groups, but they are not as severe. 
+<br>
+
 ![graph 1](images/analysis1eda2.png)
 <br>
 
@@ -29,17 +31,24 @@ I was also interested in the distribution of mental health disorders across the 
 **What is the relationship between the active participation of music in one's lifestyle (composing, playing an instrument, listening to music on a greater than average amount, or neither) in relation to the severity of mental health disorders among these individuals? How do these factors influence how they percieve the effect of music?**
 
 To answer this question, I grouped individuals into four groups: composers, instrumentalists, both, or neither. I then created an "Overall Mental Health" score based on the four components of anxiety, depression, OCD and insomnia. Anxiety and depression was 35% of this score, insomnia was 20% and OCD was 10%. The higher the score reflected more degrees of anxiety, depression, insomnia, and OCD.
+<br>
 
 Graph 1: Effects of Music Participation on Mental Health.
+
 ![graph 1](images/analysis1graph1.png)
 
 As seen in Graph 1, there is no strong correlation demonstrated between different types of music participation and overall mental health scores. All four categories had a concentration of overall mental health scores at around the 4-6 range. It should be noted on this graph that the composer group had lower data points than the other groups.
+<br>
 
-Graph 2: Overall mental health based on hours of music listened to per day.
-![graph 2](images/analysis1graph2.png)
+Graph 2: Overall mental health based on hours of music listened to per day. 
+![graph 2](images/analysis1graph2.png)<br>
 
 Graph 2 also demonstrates that there is no correlation between overall mental health scores and amount of time spent listening to music. Hours of day spent listening to music was calculated based on a standardized percentage, based on the maximum value, standard deviation, and the mean of the dataset. The percentage of hours per day spent listening to music centers at around 0%-20%, which translates to about 1-4 hours per day. The overall mental health, however, is evenly distributed therefore no strong relationship is demonstrated.
+<br>
+
 Graph 3: Type of Music Participation and percieved effects of music.
+
+<br>
 ![graph 3](images/analysis1graph3.png)
 
 <br>
