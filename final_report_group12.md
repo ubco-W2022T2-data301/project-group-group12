@@ -67,3 +67,77 @@ While EDM likely isn't the only reason behind insomnia, I think it's fair to ass
 
 
 ## Summary/Conclusion
+
+
+
+
+# Work in progress
+
+## **Zainab Mohammad** 
+---
+
+During EDA, I made the overall mental health plots. explain why I kept outliers, and why I made individual plots for each mental health condition instead of keeping it as one. 
+
+### Research Question 1:
+
+**Do either an individual’s age or the amount of music they listen to have an effect on their mental health; which one has a stronger correlation with which mental health problem?**
+
+(Use tableau plots bc more concise)
+
+<img src ="images/name.png" width="750px" class="center">
+<br>
+As visualized in Figure #, ___ 
+
+<img src ="images/name.png" width="750px" class="center">
+<br>
+As visualized in Figure #+1, ___ 
+
+
+Now that we know this, a sub-question I want to explore is:
+
+**Sub-question: How much of the day do most individuals usually spend listening to music- what is the “mode” value of this aspect?**
+
+Maybe use the tableau plot. Could also use IQR range?
+ 
+<img src ="images/name.png" width="750px" class="center">
+<br>
+As visualized in Figure #+2, ___ 
+
+This is relatively low so that’s good! I also want to explore one more sub-question: 
+
+Of the four mental health conditions (anxiety, depression, OCD, and insomnia), which one is the most prevalent?
+
+(Show the box plot)
+
+<img src ="images/name.png" width="750px" class="center">
+<br>
+As visualized in Figure #+3, ___ 
+
+
+
+Based on our earlier conclusion that the quantity of music listening and mental health problems have a positive correlation. Based on these previous questions, it can be seen that overall, people rank their mental health problems quite high on the scale, especially their anxiety and depression. Thus, it suggests that even though a lot of people are listening to music for only around 8.3% (and __) of their days, they should try to further lessen this number as this may help bring down their mental health problems. 
+
+
+Ok now. The first set of research questions yielded very interesting results. Since depression and anxiety are the two most prevalent mental health conditions based on the box plot, and we learned that younger populations tend to suffer more, i thought i’d explore to see what other factors may be contributors. Young populations often include students, so I found a dataset on student mental health. This dataset correlates anxiety and depression presence to year level and CGPA. I wanted to learn if either of these factors possibly contribute to anxiety and depression:
+
+### Research Question #2:
+
+**What correlation do the academic factors of "Year level" and "CGPA" (cumulative GPA) have with depression and anxiety?**
+
+Include the 4 bar plots from analysis file to show this for the 2x2 conditions 
+
+
+(explanation of plots from analysis file)
+
+
+### Research Question #3:
+
+**Does the choice of primary streaming service of music have a correlation with mental health?**
+
+Use Tableau tables to show what the highest and lowest levels of problems are in which users (average-based)
+
+Use plots from analysis file (heatmaps) to show the modes? Like “for anxiety the mode falls at 7 for all service-users but for depression, the mode is about 7 for all but 3 for pandora!”
+
+
+In conlusion, the datasets have yielded lots of fascinating trends. ___ (summarize)
+Correlation does not imply causation. Also having more participants will allow for more accurate results. 
