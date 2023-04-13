@@ -1,14 +1,3 @@
-Here's the "rubric":
-
-- Here are the **suggested sections** of your Final Report:
-    - **Introduction**: A short paragraph introducing your project to the audience and a motivation for why this project is important. It's fine to say your group has an interest in this topic and were keen to explore it more.
-    - **Exploratory Data Analysis**: A summary of the **highlights** of your EDA, where you can show some visualizations of the exploratory data analysis your group did.
-    - **Question 1 + Results**: Clearly state your research question, and include 2-3 visualizations that helped you answer your research question. You can create multi-panel figures, but each of your visualizations must speak directly to your research question, and any insights you were able to get from it should be clearly articulated in the figure caption/description.
-    - **Question 2 + Results**: Same as above.
-    - **Question 3 + Results**: Same as above.
-    - **Summary/Conclusion**: A brief paragraph that highlights your key results and what you learned from doing this project.
-
-
 ## Introduction
 
 Given the increasing advocacy towards mental health and mental health support, we primarily aimed to explore how music may impact mental wellbeing, considering the influence of diverse music genres, amount of music listening, and extent of involvement with music. Eventually, we decided to explore the correlation of some additional factors to mental health as well, to further enrich our project. Utilizing our findings, we have produced detailed, comprehensive data visualizations that will aid the general public in understanding the influence of music and additional factors on their mental health.  
@@ -72,7 +61,9 @@ In Figure 3, all four groups of music participation demonstrated that it is most
 
 ## Question 2 + Results (Haider Mohammad)
 
-**Is there a correlation between the frequency of how often individuals between the ages of 15-30 listen to their favourite music genre, and if those habits have any underlying effects on mental health conditions? Are there external factors impacting greater insomnia levels for people who listen to more EDM?**
+**How do people's favourite genres differ, and do those differing preferences have any correlations with mental health conditions?** 
+
+**Sub-question: **Which specific genres lead to more mental health conditions?**
 
 Figure 4: Mental Health Score for Each Genre
 
@@ -86,21 +77,23 @@ Figure 5: Correlation Between Frequency of Music Genres and Mental Health Condit
 
 ![graph 2](images/analysis2graph2.png)
 
-To go more in depth, I wanted to see the relationship between each genre and mental health condition, instead of an average of mental health. This would allow me to see some genuine patterns worth studying. Based on my results, I found the following correlations interesting along with my initial thoughts:
-1. EDM and Insomnia (positive relationship)
-    - This is by far the strongest correlation at 0.21. Electronic Dance Music (EDM) is intended for large crowds of dancers which is far from ideal for sleeping. Listening to EDM before sleeping would make it hard to sleep.
-2. Jazz and Insomnia (positive relationship)
-    - Jazz requires a lot of different instruments such as trumpet which can be disturbing for those trying to sleep. Similar to EDM, it does make sense why Jazz might lead to bad sleep.
-3. EDM and Anxiety (negative relationship)
-    - This is the first negative relationship meaning EDM reduces anxiety? It's certainly interesting but I suppose going to places like clubs and parties where EDM is most used could help people forget their troubles for a little bit
+I wanted to see if listening to specific genres would affect mental health conditions. I used this to go further into each mental health condition. I compared the frequency of music to each mental health condition: 
+- Music frequency and anxiety had a negative relationship suggesting that perhaps music acts as an outlet for people dealing with stress and anxiety. 
+- Music frequency and depression had a positive relationship suggesting that more music leads to depression. However, I think it's possible that people who are already dealing with depression tend to be affected by this more because music is isolating them further. 
+- Music frequency and insomnia had the strongest correlation where more music led to more insomnia. I will go into this further, however, this made sense because music, especially the genres being tested in this ananlysis are not calming and won't be the best for trying to sleep. 
 
-Figure 6: Average EDM Frequency by Insomnia
+Figure 6: Heatmap Looking at the Correlation Between Specific Music Genres and Mental Health Conditions
 
 ![graph 3](images/analysis2graph3.png)
 
-Through figure 2, I started going more in depth with the EDM and Insomnia relationship. I found there was a direct connection between the two by making a line chart on Tableau. I studied alchol and smoking consumptions levels and determined those two factors were not necessarily affecting EDM and Insomnia. This was because alchol and smoking levels were increasing as age increased while insomnia levels decrease, suggesting there wasn't a strong enough connection between acohol/amoking and insomnia. 
+**Anxiety:**
+- Anxiety had a negative relationship with music frequency. The heatmap sugegsts that EDM and Rap are the biggest factors behind these results. Classical, Folk and Country are also affecting the negative results albeit, to a lesser extent. With EDM and Rap, they are some of the most popular genres in the world and many people listen to these genres to get away from their struggles. Both are used at parties, clubs, etc. which are often considered social places that allow people to spend time with people.
 
-While EDM likely isn't the only reason behind insomnia, I think it's fair to assume it plays a role based on the research. However, additional research would be required to determine the exact percentage of indluence. 
+**Depression:**
+- Depression had a positive relationship with music frequency. Most of the genres have a slightly positive relationship. The one outlier is Rock music with a score of 0.13. Rock music often has dark lyrics and talks about topics like breakups, betrayal, loss. Rock music is also very aggressive so perhaps these factors affect the brain negatively.
+
+**Insomnia:**
+- Insomnia had the strongest correlation with the leading genres being EDM, Jass, Classical and Rap. Even among these genres, EDM stands out quite a bit which makes it the most appealing. Loud, dance music is often used at parties and clubs which often go late into the night. Being one of the most popular genres, it makes sense that extensive use of loud, disruptive music would affect our sleep. Rap and Jazz also match this since they often have a lot of beats, sounds and instruments. Classical music however is a surprise and would need additional research.
 
 To see my [entire analysis](https://github.com/ubco-W2022T2-data301/project-group-group12/blob/main/analysis/analysis2Haider.ipynb), you can access my full work.
 
@@ -144,6 +137,8 @@ In conlusion, our chosen datasets yielded lots of fascinating trends.
 
 Based on the first question, the data visualizations demonstrated the relationship between active participation in one's lifestyle in relation to the severity in mental health disorders is variable based on the different components of mental health. Graph 1 demonstrated there is no correlation between those who participated in different music activities and the severity in their overall calculated mental health. In the violin chart, the data is pretty much centered around the 4-7 range in terms of overall mental health score for each group of individuals. As such, when all factors such as anxiety, depression, insomnia, and OCD are considered; there is no relationship between music activity participation and mental health. However, Graph 2 demonstrated that when the mental health scores are separated into different components such as anxiety and depression, there are groups with higher degrees of severity compared to others. Anxiety and depression was the highest among those who were neither composers nor instrumentalists. However, the composing group had higher degrees of insomnia compared to other groups. In addition, it can be seen that the type of music participation can affect how people believe music effects mental health. Those who are composers tend to report that music improved their mental health moreso compared to those who did not participate in music composing or instrument playing. However, Graph 3 demonstrates that all three groups percieve music to have a positive effect on their mental health in general. Ultimately, these graphs do not show causation however, so it cannot be determined which variable is caused or influenced by another or if there is merely a correlation in different groups due to lifestyle factors.
 
+Based on analysis 2, specific music genres have different affects on mental health conditions. People whose favourite genre was Jazz, Rock or EDM ended up having a higher mental health score, suggesting that these genres genres could be affecting individuals negatively. To go further, it was found that listening to music had different effects on each mental health condition. Music frequency had a negative correlation with anxiety and upon further analysis, it was determined that EDM and Rap were the principal causes behind this, suggesting they help people escape their struggles with anxiety. Depression had a positive relationship with music frequency suggesting that listening to music increases people's depression. Upon further research, the one outlier was Rock which was solely affecting these results. While Rock may not be starting depression, it could be increasing depression for people already dealing with those types of issues. Lastly, insomnia had a very strong, positive relationship with music frequency. Additonal research outlined EDM, Rap and Jazz as the three genres affecting insomnia the most. While there could be additonal factors affecting these results, it's clear that certain genres affect mental health conditions differently than others, whether it's positively or negatively.
+
 There is a positive correlation between daily music listening and mental health conditions, and negative correlation between age and mental health conditions. This implies that younger individuals who listen to more music every day likely have much worse mental health than older individuals who listen to minimal music in a day; younger individuals may have worse mental health due to academic reasons, like a lower CGPA and higher year of study. Lastly, it was found that Spotify and Apple Music users are likely to have higher levels of depression and Pandora users are likely to have lower levels of depression, compared to all other streaming services users; in contrast, for anxiety, insomnia, and OCD, the severity of each mental health condition was generally similar in all users regardless of which streaming service was used. 
 
 In closing, the idea of "correlation does not imply causation" should be revisited- just because we witnessed correlation between various variables through this project does not imply causation, so further research should be conducted before these results can be further published. It should also be noted that repeating these surveys may also be worthwhile as that will increase the sample size, allowing for more accurate results. 
@@ -157,7 +152,6 @@ In closing, the idea of "correlation does not imply causation" should be revisit
 
 
 
-During EDA, I made the overall mental health plots. explain why I kept outliers, and why I made individual plots for each mental health condition instead of keeping it as one. 
 
 
 
@@ -170,8 +164,6 @@ During EDA, I made the overall mental health plots. explain why I kept outliers,
 
 
 
-
-The first set of research questions yielded very interesting results. Since depression and anxiety are the two most prevalent mental health conditions based on the box plot, and we learned that younger populations tend to suffer more, i thought i’d explore to see what other factors may be contributors. Young populations often include students, so I found a dataset on student mental health. This dataset correlates anxiety and depression presence to year level and CGPA. I wanted to learn if either of these factors possibly contribute to anxiety and depression:
 
 
 
