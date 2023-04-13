@@ -88,6 +88,8 @@ Through figure 2, I started going more in depth with the EDM and Insomnia relati
 
 While EDM likely isn't the only reason behind insomnia, I think it's fair to assume it plays a role based on the research. However, additional research would be required to determine the exact percentage of indluence. 
 
+To see my [entire analysis](https://github.com/ubco-W2022T2-data301/project-group-group12/blob/main/analysis/analysis2Haider.ipynb), you can access my full work.
+
 ## Question 3 + Results (Zainab Mohammad)
 
 **Do either the amount of daily music listening or age have an effect on an individual's mental health, and if so, what are the correlation patterns?**
