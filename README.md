@@ -1,7 +1,5 @@
 # Group 12 - Music Therapy And Mental Health
 
-- Your title can change over time.
-
 
 ## Milestone 2
 
