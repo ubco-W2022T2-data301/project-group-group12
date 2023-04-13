@@ -16,8 +16,6 @@ With such a rich and comprehensive dataset, we believe building a user-facing Da
 
 ## Milestone 1
 
-Details for Milestone are available on Canvas (left sidebar, Course Project).
-
 ## Describe your topic/interest in about 150-200 words
 
 Given the increasing advocacy towards mental health and mental health support, we aim to explore how music may impact mental wellbeing, considering the perspectives of diverse age groups and how influential music has been in their daily lifestyle. Utilizing our findings, we hope to produce detailed, thoroughly developed, and comprehensive data visualizations that can aid the general public in understanding the influence of music on their mental health. As a dedicated team of students who have experienced our own mental hurdles, our team intends to use this project to provide a greater understanding of mental health with respect to music. 
