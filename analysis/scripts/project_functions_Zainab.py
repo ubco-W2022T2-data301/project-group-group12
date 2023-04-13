@@ -69,14 +69,6 @@ def load_datasetsmh(url_or_path_to_csv_file):
 
 
 
-# Function for melting the processed second dataset, using method chaining, and saving it to processed data directory:
-
-
-def dff(dataset):
-            
-        ddd = pd.to_csv('../data/processed/analysisZainabdataset2.csv', index=False)
-    return ddd
-
 
 # Function for the depression column, to be used when the categorical values are not ideal and numerical values are desired instead:
 
