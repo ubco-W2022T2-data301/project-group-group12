@@ -97,21 +97,23 @@ While EDM likely isn't the only reason behind insomnia, I think it's fair to ass
 As visualized in Figure 1, there are two lineplots. The one on the left plots the average ranking of the four mental health conditions against the percentage of day spent listening to music. For all four conditions, a positive correlation is seen, such that as the percentage of music listening in a day increases, the overall average ranking of each of the mental health conditions also increases. This positive correlation can be identified due to the plotted trendlines (dashed gray lines), which increase in the upwards direction for all four of the subplots. Next, the lineplot on the right plots average ranking of the four mental health conditions against age. For all four conditions, the respective trendlines go in the downwards direction as age increases, which suggests a negative correlation between average mental health problems and age. This means that as age increases, the overall average ranking of each of the mental health conditions decrease, such that older individuals experience less mental health problems. Since younger populations experience more mental health problems, an additional dataset was explored which correlated academics (specifically a student's GPA and year of study) to mental health; analysis and visualizations for that can be found in the [analysis file](analysis/analysisZainab.ipynb). 
 
 
-**Sub-question: Does the choice of primary streaming service of music have a correlation with mental health?**
+**Sub-question: Does the choice of primary streaming service (for listening to music) have a correlation with mental health?**
 
-<img src ="images/analysis3graph2.png" class="center"><br>
+<img src ="images/analysis3graph3.png" class="center"><br>
 
 After discovering the correlation of music listening and mental health conditions, I was curious to explore another aspect of music. I decided to examine if the music streaming service that an individual chooses to use also has an effect on the four different mental health conditions or not. I chose to evaluate the mode values of the rankings since this would indicate what the most common ranking for a mental health condition was for different primary streaming service users. For this purpose, heatmaps seemed logical, as are visualized in Figure 2. Scales are provided for each heatmap, to their right.
 <br>
-The heatmap at the top left is for anxiety, and it showed the mode rating of anxiety to be around 7 (either 6, 7, or 8) for all the various streaming service users. The heatmap on the bottom left is for insomnia, and it showed the mode rating of insomnia to be around 1 (either 0, 1, or 2) for all the various streaming service users. The heatmap on the bottom right is for OCD, and it showed the mode rating of OCD to be 0 for all the various streaming service users. These three heatmaps all indicate the same results, that the mental health conditions anxiety, insomnia, and OCD do not have a strong correlation to the choice of streaming service. 
-<br>
-The notable heatmap is the top right one, which is for depression. The mode value of rated depression was a 6 by Spotify users, a 0 by Pandora users, a 2 by YouTube Music users, a 5 by Apple Music users, a 2 by users not using any streaming service, and 0 and 6 (bimodal) by users using other streaming services. Most of the mode values were on the lower end of the range, but both Spotify users and Apple Music users had relatively higher mode values, indicating that Spotify and Apple Music users tend to have higher depression levels than all other music listeners. Also, Pandora had the lowest mode value of 0, suggesting Pandora users experience the least amount of depression. 
 
-<img src ="images/analysis3graph3.png" class="center">
+The heatmap at the top left is for anxiety, and it showed the mode rating of anxiety to be around 7 (either 6, 7, or 8) for all the various streaming service users. The heatmap on the bottom left is for insomnia, and it showed the mode rating of insomnia to be around 1 (either 0, 1, or 2) for all the various streaming service users. The heatmap on the bottom right is for OCD, and it showed the mode rating of OCD to be 0 for all the various streaming service users. These three heatmaps all indicate the same results, that **the mental health conditions anxiety, insomnia, and OCD do not have a strong correlation to the choice of streaming service.** 
 <br>
 
-Figure 3 was created to prove the findings concluded from Figure 2. The barplot has the average values of the various streaming service options plotted against the rating of depression (on a scale out of 10), and indeed, it can be seen that Spotify and Apple Music both have relatively higher averages of over 5, whereas all other averages are around 4 or less. Pandora clearly has the lowest average, indicating that Pandora users are indeed the least depressed.
+The notable heatmap is the top right one, which is for depression. The mode value of rated depression was a 6 by Spotify users, a 0 by Pandora users, a 2 by YouTube Music users, a 5 by Apple Music users, a 2 by users not using any streaming service, and 0 and 6 (bimodal) by users using other streaming services. Most of the mode values were on the lower end of the range, but both Spotify users and Apple Music users had relatively higher mode values, indicating that **Spotify and Apple Music users tend to have higher depression levels than all other music listeners**. Also, Pandora had the lowest mode value of 0, suggesting **Pandora users experience the least amount of depression.** 
 
+
+<img src ="images/analysis3graph4.png" class="center">
+<br>
+
+Figure 3 was created to prove the findings concluded from Figure 2. The barplot has the average values of the various streaming service options plotted against the rating of depression (on a scale out of 10), and indeed, it can be seen that **Spotify and Apple Music users both have relatively higher average depression scores of over 5, whereas all other averages are around 4 or less. Pandora clearly has the lowest average, indicating that Pandora users are indeed the least depressed.
 
 
 ## Summary/Conclusion
@@ -130,7 +132,7 @@ In closing, the idea of "correlation does not imply causation" should be revisit
 
 
 
-
+Further detail on Zainab's analysis and conclusions can be found [here](analysis/analysisZainab.ipynb).
 
 
 
