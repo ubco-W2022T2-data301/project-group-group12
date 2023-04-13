@@ -42,7 +42,6 @@ What is your CGPA?,Your current year of Study,Question,Mental Health Problem:
 3.00 - 3.49,year 3,Do you have Anxiety?,Yes
 3.50 - 4.00,year 4,Do you have Anxiety?,No
 3.00 - 3.49,year 2,Do you have Anxiety?,No
-0 - 1.99,year 1,Do you have Anxiety?,No
 3.50 - 4.00,year 2,Do you have Anxiety?,No
 3.50 - 4.00,year 1,Do you have Anxiety?,Yes
 3.50 - 4.00,year 1,Do you have Anxiety?,Yes
@@ -143,7 +142,6 @@ What is your CGPA?,Your current year of Study,Question,Mental Health Problem:
 3.00 - 3.49,year 3,Do you have Depression?,No
 3.50 - 4.00,year 4,Do you have Depression?,No
 3.00 - 3.49,year 2,Do you have Depression?,Yes
-0 - 1.99,year 1,Do you have Depression?,No
 3.50 - 4.00,year 2,Do you have Depression?,No
 3.50 - 4.00,year 1,Do you have Depression?,No
 3.50 - 4.00,year 1,Do you have Depression?,No

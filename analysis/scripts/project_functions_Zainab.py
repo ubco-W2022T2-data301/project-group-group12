@@ -57,7 +57,7 @@ def load_and_process(url_or_path_to_csv_file):
 def load_datasetsmh(url_or_path_to_csv_file):
 
     dataset_smh = pd.read_csv('../data/raw/Student_mental_health.csv') \
-                .drop(columns=['Timestamp', 'Choose your gender', 'Age', 'What is your course?', 'Marital status', 'Do you have Panic attack?', 'Did you seek any specialist for a treatment?']) \
+                .drop(columns=['Timestamp', 'Choose your gender', 'What is your course?', 'Marital status', 'Do you have Panic attack?', 'Did you seek any specialist for a treatment?']) \
                 .dropna() \
                 .assign(**{'Your current year of Study': lambda x: x['Your current year of Study'].str.lower(),
                           'What is your CGPA?': lambda x: x['What is your CGPA?'].str.strip()})
@@ -68,14 +68,6 @@ def load_datasetsmh(url_or_path_to_csv_file):
 
 
 
-
-# Function for melting the processed second dataset, using method chaining, and saving it to processed data directory:
-
-
-def dff(dataset):
-            
-        ddd = pd.to_csv('../data/processed/analysisZainabdataset2.csv', index=False)
-    return ddd
 
 
 # Function for the depression column, to be used when the categorical values are not ideal and numerical values are desired instead:

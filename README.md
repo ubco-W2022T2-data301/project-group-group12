@@ -1,7 +1,5 @@
 # Group 12 - Music Therapy And Mental Health
 
-- Your title can change over time.
-
 
 ## Milestone 2
 
@@ -17,8 +15,6 @@ With such a rich and comprehensive dataset, we believe building a user-facing Da
 
 
 ## Milestone 1
-
-Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your topic/interest in about 150-200 words
 
@@ -40,13 +36,6 @@ Our dataset analyzes the influence of music on mental health by collecting a mag
 
 ## Images
 
-{You should use this area to add a screenshot of an interesting plot, or of your dashboard}
-
 <img src ="images/test.png" width="100px">
-
-## References
-
-{Add your stuff here}
-
 
 
