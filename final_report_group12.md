@@ -25,7 +25,7 @@ I conducted an initial analysis on the distribution of anxiety and depression sc
 ![graph 1](images/analysis1eda2.png)
 <br>
 
-I was also interested in the distribution of mental health disorders across the various components of anxiety, depression, insomnia, and OCD. Based on this figure, it can be observed that anxiety was more severe on average of around 6, whereas OCD was the least severe of around 2.
+We were interested in the distribution of the four mental health conditions, anxiety, depression, insomnia, and OCD. Based on this figure, we could learn that overall, anxiety was more severe at an average of around 6, whereas OCD was the least severe at an average of around 2.
 
 ## Question 1 + Results (Alyssa Kong)
 **What is the relationship between the active participation of music in one's lifestyle (composing, playing an instrument, listening to music on a greater than average amount, or neither) in relation to the severity of mental health disorders among these individuals? How do these factors influence how they percieve the effect of music?**
@@ -90,41 +90,57 @@ While EDM likely isn't the only reason behind insomnia, I think it's fair to ass
 
 ## Question 3 + Results (Zainab Mohammad)
 
+**Do either the amount of daily music listening or age have an effect on an individual's mental health, and if so, what are the correlation patterns?**
 
-## Summary/Conclusion
+<img src ="images/analysis3graph1.png" class="center"><br>
 
-
-
-
-
-### Work in progress
-
-## **Zainab Mohammad** 
----
-
-During EDA, I made the overall mental health plots. explain why I kept outliers, and why I made individual plots for each mental health condition instead of keeping it as one. 
-
-### Research Question 1:
-
-**Do either the amount of music listening or age have an effect on an individual's mental health, and if so, what are the correlation patterns?**
-
-<img src ="images/analysis3graph1.png" class="center">
-<br>
-
-As visualized in Figure 1, there are two lineplots. The one on the left plots the average ranking of the four mental health conditions against the percentage of day spent listening to music. For all four conditions, a positive correlation is seen, such that as the percentage of music listening in a day increases, the overall average ranking of each of the mental health conditions also increases. This positive correlation can be identified due to the plotted trendlines (dashed gray lines), which increase in the upwards direction for all four of the subplots. Next, the lineplot on the right plots average ranking of the four mental health conditions against age. For all four conditions, the trendlines go in the downwards direction as age increases, which suggests a negative correlation between average mental health problems and age. This means that as age increases, the overall average ranking of each of the mental health conditions decrease, such that older individuals experience less mental health problems. Since younger populations experience more mental health problems, an additional dataset was explored which correlated academics (specifically a student's GPA and year of study) to mental health; data for that can be found in the [analysis file](analysis/analysisZainab.ipynb). 
+As visualized in Figure 1, there are two lineplots. The one on the left plots the average ranking of the four mental health conditions against the percentage of day spent listening to music. For all four conditions, a positive correlation is seen, such that as the percentage of music listening in a day increases, the overall average ranking of each of the mental health conditions also increases. This positive correlation can be identified due to the plotted trendlines (dashed gray lines), which increase in the upwards direction for all four of the subplots. Next, the lineplot on the right plots average ranking of the four mental health conditions against age. For all four conditions, the respective trendlines go in the downwards direction as age increases, which suggests a negative correlation between average mental health problems and age. This means that as age increases, the overall average ranking of each of the mental health conditions decrease, such that older individuals experience less mental health problems. Since younger populations experience more mental health problems, an additional dataset was explored which correlated academics (specifically a student's GPA and year of study) to mental health; analysis and visualizations for that can be found in the [analysis file](analysis/analysisZainab.ipynb). 
 
 
 **Sub-question: Does the choice of primary streaming service of music have a correlation with mental health?**
 
-<img src ="images/analysis3graph2.png" class="center">
-<br>
+<img src ="images/analysis3graph2.png" class="center"><br>
 
-After discovering the correlation of music listening and mental health conditions, I was curious to explore another aspect of music. I decided to examine if the music streaming service that an individual chooses to use also has an effect on the four different mental health conditions or not. I chose to evaluate the mode values of the rankings since this would indicate what the most common ranking for a mental health condition was for different primary streaming service users. For this purpose, heatmaps seemed logical, as are visualized in Figure 2. The heatmap at the top left is for anxiety, and it showed the mode rating of anxiety to be around 7 (either 6, 7, or 8) for all the various streaming service users. The heatmap on the bottom left is for insomnia, and it showed the mode rating of insomnia to be around 1 (either 0, 1, or 2) for all the various streaming service users. The heatmap on the bottom right is for OCD, and it showed the mode rating of OCD to be 0 for all the various streaming service users. These three heatmaps all indicate the same results, that the mental health conditions anxiety, insomnia, and OCD do not have a strong correlation to the choice of streaming service. The notable heatmap is the top right one, which is for depression. The mode value of rated depression was a 6 by Spotify users, a 0 by Pandora users, a 2 by YouTube Music users, a 5 by Apple Music users, a 2 by users not using any streaming service, and a 0 by users using other streaming services. Most of the mode values were on the lower end of the range, but both Spotify users and Apple Music users had relatively higher mode values, indicating that Spotify and Apple Music users tend to have higher depression levels than all other music listeners. Also, Pandora had the lowest mode value of 0, suggesting Pandora users experience the least amount of depression. 
+After discovering the correlation of music listening and mental health conditions, I was curious to explore another aspect of music. I decided to examine if the music streaming service that an individual chooses to use also has an effect on the four different mental health conditions or not. I chose to evaluate the mode values of the rankings since this would indicate what the most common ranking for a mental health condition was for different primary streaming service users. For this purpose, heatmaps seemed logical, as are visualized in Figure 2. Scales are provided for each heatmap, to their right.
+<br>
+The heatmap at the top left is for anxiety, and it showed the mode rating of anxiety to be around 7 (either 6, 7, or 8) for all the various streaming service users. The heatmap on the bottom left is for insomnia, and it showed the mode rating of insomnia to be around 1 (either 0, 1, or 2) for all the various streaming service users. The heatmap on the bottom right is for OCD, and it showed the mode rating of OCD to be 0 for all the various streaming service users. These three heatmaps all indicate the same results, that the mental health conditions anxiety, insomnia, and OCD do not have a strong correlation to the choice of streaming service. 
+<br>
+The notable heatmap is the top right one, which is for depression. The mode value of rated depression was a 6 by Spotify users, a 0 by Pandora users, a 2 by YouTube Music users, a 5 by Apple Music users, a 2 by users not using any streaming service, and 0 and 6 (bimodal) by users using other streaming services. Most of the mode values were on the lower end of the range, but both Spotify users and Apple Music users had relatively higher mode values, indicating that Spotify and Apple Music users tend to have higher depression levels than all other music listeners. Also, Pandora had the lowest mode value of 0, suggesting Pandora users experience the least amount of depression. 
 
 <img src ="images/analysis3graph3.png" class="center">
 <br>
 
 Figure 3 was created to prove the findings concluded from Figure 2. The barplot has the average values of the various streaming service options plotted against the rating of depression (on a scale out of 10), and indeed, it can be seen that Spotify and Apple Music both have relatively higher averages of over 5, whereas all other averages are around 4 or less. Pandora clearly has the lowest average, indicating that Pandora users are indeed the least depressed.
+
+
+
+## Summary/Conclusion
+
+In conlusion, our chosen datasets yielded lots of fascinating trends. 
+
+Alyssa and haider summarize their results:
+
+There is a positive correlation between daily music listening and mental health conditions, and negative correlation between age and mental health conditions. This implies that younger individuals who listen to more music every day likely have much worse mental health than older individuals who listen to minimal music in a day; younger individuals may have worse mental health due to academic reasons, like a lower CGPA and higher year of study. Lastly, it was found that Spotify and Apple Music users are likely to have higher levels of depression and Pandora users are likely to have lower levels of depression, compared to all other streaming services users; in contrast, for anxiety, insomnia, and OCD, the severity of each mental health condition was generally similar in all users regardless of which streaming service was used. 
+
+In closing, the idea of "correlation does not imply causation" should be revisited- just because we witnessed correlation between various variables through this project does not imply causation, so further research should be conducted before these results can be further published. It should also be noted that repeating these surveys may also be worthwhile as that will increase the sample size, allowing for more accurate results. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+During EDA, I made the overall mental health plots. explain why I kept outliers, and why I made individual plots for each mental health condition instead of keeping it as one. 
+
+
+
+
 
 
 
@@ -138,14 +154,6 @@ Based on our earlier conclusion that the quantity of music listening and mental 
 
 Ok now. The first set of research questions yielded very interesting results. Since depression and anxiety are the two most prevalent mental health conditions based on the box plot, and we learned that younger populations tend to suffer more, i thought i’d explore to see what other factors may be contributors. Young populations often include students, so I found a dataset on student mental health. This dataset correlates anxiety and depression presence to year level and CGPA. I wanted to learn if either of these factors possibly contribute to anxiety and depression:
 
-### Research Question #2:
-
-**What correlation do the academic factors of "Year level" and "CGPA" (cumulative GPA) have with depression and anxiety?**
-
-Include the 4 bar plots from analysis file to show this for the 2x2 conditions 
-
-
-(explanation of plots from analysis file)
 
 
 
@@ -153,5 +161,4 @@ Include the 4 bar plots from analysis file to show this for the 2x2 conditions
 
 
 
-In conlusion, the datasets have yielded lots of fascinating trends. ___ (summarize)
-Correlation does not imply causation. Also having more participants will allow for more accurate results. 
+
