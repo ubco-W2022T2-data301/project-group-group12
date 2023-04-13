@@ -40,9 +40,4 @@ Our dataset analyzes the influence of music on mental health by collecting a mag
 
 <img src ="images/test.png" width="100px">
 
-## References
-
-{Add your stuff here}
-
-
 
