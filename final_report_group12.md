@@ -31,16 +31,20 @@ We were interested in the distribution of the four mental health conditions, anx
 ![EDA figure 3](images/analysisEDA3graph1.png)
 <br>
 
-Since one of our interests lay within exploring how the daily amount of music varies and affects mental health, we plotted a countplot to gain a better understanding of how much music individuals from the first study tend to listen to, and if there are any outliers. The mode value is at around 10% of the day, and overall, it can be seen that most participants listen to music for only ~0-40% of their day. While there are outliers- some people reported listening to music for 100% of their day, all datapoints will be kept as they may allow for better, more accurate trend observations. 
+Since one of our interests lay within exploring how the daily amount of music varies and affects mental health, we plotted a displot to gain a better understanding of how much music individuals from the first study tend to listen to, and if there are any outliers. The mode value is at around 10% of the day, and overall, it can be seen that most participants listen to music for only ~0-40% of their day. While there are outliers- some people reported listening to music for 100% of their day, all datapoints will be kept as they may allow for better, more accurate trend observations. 
 <br>
 
 ![EDA figure 4](images/analysisEDA3graph2.png)
 <br>
 
-Another interest is within exploring how age affects mental health, so we plotted a simple countplot to gain a better understanding of the age range of the participants of the first study. Overall, it can be seen that most participants were aged around 20, although the total range spans from around 10 to almost 90. While there are outliers, all datapoints will be kept since there was no limit to which age groups could partake in this survey. A wider range will likely allow for more thorough results.
+Another interest is within exploring how age affects mental health, so we plotted a simple displot to gain a better understanding of the age range of the participants of the first study. Overall, it can be seen that most participants were aged around 20, although the total range spans from around 10 to almost 90. While there are outliers, all datapoints will be kept since there was no limit to which age groups could partake in this survey. A wider range will likely allow for more thorough results.
 <br>
 
-For the second dataset on Student Mental Health, 
+![EDA figure 5](images/analysisEDA3graph5.png)
+<br>
+
+For the second dataset on Student Mental Health, all the overlapping columns were kept (overlapping with initial dataset), and the Age column was visualized by a countplot to understand the age range of participants in this study (it was geared towards university students). The countplot above shows the mode value (highest value) is 18, and the next two highest values are 19 and 24 (both have similar counts). The other three ages were 20, 21, and 22 year olds, but their participation was lower. The range is only from 18-24, so overall, since all participants are younger individuals, I think this dataset will be appropriate to study the effects of academics on "younger individuals".  
+<br>
 
 
 ## Question 1 + Results (Alyssa Kong)
