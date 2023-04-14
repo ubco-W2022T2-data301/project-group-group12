@@ -1,0 +1,726 @@
+,Instrumentalist,Composer,Anxiety,Depression,Insomnia,OCD,Music effects
+2,No,No,7.0,7.0,10.0,2.0,No effect
+3,No,Yes,9.0,7.0,3.0,3.0,Improve
+4,No,No,7.0,2.0,5.0,9.0,Improve
+5,Yes,Yes,8.0,8.0,7.0,7.0,Improve
+6,Yes,No,4.0,8.0,6.0,0.0,Improve
+7,No,No,5.0,3.0,5.0,3.0,Improve
+8,No,No,2.0,0.0,0.0,0.0,Improve
+9,No,No,2.0,2.0,5.0,1.0,Improve
+10,Yes,No,7.0,7.0,4.0,7.0,No effect
+11,No,No,1.0,0.0,0.0,1.0,Improve
+12,No,No,9.0,3.0,2.0,7.0,Improve
+13,No,No,2.0,1.0,2.0,0.0,Improve
+14,Yes,No,6.0,4.0,7.0,0.0,Improve
+15,No,No,7.0,5.0,4.0,1.0,Worsen
+16,No,No,8.0,8.0,4.0,3.0,Improve
+17,No,Yes,5.0,7.0,10.0,0.0,Improve
+18,No,No,7.0,5.0,0.0,3.0,Improve
+19,No,No,7.0,3.0,0.0,2.0,Improve
+20,No,No,6.0,9.0,3.0,0.0,Improve
+21,No,No,10.0,10.0,2.0,4.0,Improve
+22,No,No,6.0,7.0,5.0,4.0,Improve
+23,No,No,3.0,3.0,8.0,6.0,No effect
+24,Yes,Yes,10.0,6.0,8.0,10.0,Improve
+25,No,No,7.0,4.0,2.0,5.0,Improve
+26,Yes,Yes,8.0,6.0,10.0,5.0,Improve
+27,Yes,Yes,3.0,2.0,1.0,2.0,Improve
+28,Yes,No,6.0,6.0,4.0,5.0,Improve
+29,No,No,8.0,2.0,1.0,5.0,Improve
+30,Yes,No,7.0,7.0,2.0,0.0,Improve
+31,No,No,4.0,4.0,4.0,3.0,No effect
+32,Yes,No,9.0,8.0,2.0,3.0,Improve
+33,No,No,5.0,6.0,6.0,1.0,Improve
+34,No,No,0.0,0.0,0.0,0.0,No effect
+35,Yes,No,3.0,2.0,1.0,1.0,Improve
+36,No,No,6.0,8.0,0.0,2.0,Improve
+37,No,No,2.0,0.0,4.0,0.0,No effect
+38,No,No,9.0,8.0,1.0,0.0,No effect
+39,No,No,7.0,2.0,8.0,6.0,Improve
+40,Yes,Yes,4.0,2.0,3.0,4.0,Improve
+41,Yes,No,7.0,6.0,5.0,0.0,Improve
+42,No,No,3.0,2.0,10.0,0.0,No effect
+43,No,No,6.0,6.0,8.0,2.0,Improve
+44,No,No,1.0,0.0,8.0,2.0,No effect
+45,Yes,Yes,7.0,3.0,1.0,5.0,Improve
+46,Yes,Yes,8.0,9.0,3.0,0.0,No effect
+47,No,No,9.0,6.0,4.0,3.0,Improve
+48,No,Yes,7.0,9.0,5.0,0.0,Improve
+49,No,No,7.0,4.0,2.0,4.0,No effect
+50,Yes,No,0.0,0.0,0.0,0.0,Improve
+51,No,No,7.0,8.0,7.0,5.0,Improve
+52,No,No,10.0,6.0,3.0,10.0,No effect
+53,No,No,3.0,7.0,5.0,5.0,No effect
+54,No,Yes,8.0,7.0,4.0,3.0,Improve
+55,Yes,No,0.0,0.0,1.0,3.0,Improve
+56,No,No,8.0,6.0,2.0,10.0,No effect
+57,No,No,9.0,0.0,10.0,0.0,No effect
+58,No,No,6.0,4.0,2.0,3.0,Improve
+59,Yes,No,7.0,0.0,0.0,2.0,Improve
+60,Yes,No,10.0,1.0,0.0,0.0,Improve
+61,Yes,No,8.0,7.0,0.0,5.0,Improve
+62,Yes,No,3.0,2.0,6.0,7.0,Improve
+63,No,No,5.0,5.0,3.0,1.0,No effect
+64,No,No,10.0,10.0,3.0,1.0,Worsen
+65,No,No,5.0,4.0,10.0,2.0,Improve
+66,No,No,0.0,0.0,8.0,0.0,No effect
+67,No,No,8.0,8.0,5.0,10.0,Improve
+68,Yes,Yes,10.0,7.0,8.0,0.0,Improve
+69,Yes,Yes,7.0,3.0,1.0,1.0,Improve
+70,No,No,8.0,7.0,4.0,0.0,Improve
+71,No,No,10.0,2.0,0.0,5.0,No effect
+72,No,No,9.0,8.0,1.0,2.0,Improve
+73,Yes,Yes,6.0,3.0,1.0,1.0,Improve
+74,No,No,7.0,7.0,0.0,1.0,No effect
+75,Yes,Yes,7.0,7.0,8.0,4.0,Improve
+76,No,No,4.0,1.0,0.0,0.0,Improve
+77,No,No,7.0,2.0,1.0,5.0,Improve
+78,No,No,9.0,0.0,5.0,10.0,Improve
+79,No,No,2.0,7.0,1.0,1.0,Improve
+80,Yes,Yes,10.0,8.0,7.0,0.0,Improve
+81,No,No,3.0,0.0,0.0,0.0,Improve
+82,No,No,7.0,8.0,5.0,1.0,No effect
+83,Yes,Yes,2.0,1.0,0.0,0.0,Improve
+84,No,No,5.0,4.0,0.0,1.0,Improve
+85,No,No,9.0,10.0,6.0,10.0,No effect
+86,Yes,No,2.0,0.0,0.0,0.0,Improve
+87,No,No,5.0,2.0,5.0,1.0,Improve
+88,No,No,3.0,2.0,0.0,0.0,No effect
+89,No,No,2.0,0.0,7.0,0.0,No effect
+90,Yes,No,7.0,6.0,6.0,2.0,No effect
+91,Yes,Yes,5.0,4.0,8.0,3.0,No effect
+92,No,No,4.0,6.0,5.0,3.0,Improve
+93,No,No,6.0,2.0,3.0,1.0,Improve
+94,No,No,8.0,2.0,1.0,6.0,Improve
+95,No,No,9.0,6.0,0.0,6.0,Improve
+96,No,Yes,0.0,3.0,7.0,0.0,Improve
+97,No,No,8.0,9.0,6.0,2.0,Improve
+98,No,No,4.0,1.0,1.0,1.0,Improve
+99,No,No,8.0,7.0,5.0,0.0,Improve
+100,Yes,Yes,3.0,4.0,6.0,1.0,Improve
+101,Yes,No,1.0,1.0,3.0,1.0,Improve
+102,No,No,10.0,8.0,6.0,7.0,No effect
+103,No,No,6.0,6.0,2.0,0.0,No effect
+104,No,No,6.0,7.0,0.0,0.0,Improve
+105,Yes,No,8.0,4.0,10.0,0.0,No effect
+106,No,No,9.0,7.0,6.0,2.0,No effect
+107,Yes,No,7.0,4.0,6.0,5.0,Improve
+108,No,No,6.0,7.0,0.0,0.0,No effect
+109,No,Yes,10.0,0.0,10.0,10.0,Improve
+110,No,No,6.0,3.0,0.0,1.0,Improve
+111,No,No,7.0,5.0,5.0,3.0,Improve
+112,No,No,7.0,10.0,5.0,0.0,Improve
+113,Yes,No,8.0,6.0,0.0,0.0,Improve
+114,No,No,4.0,3.0,0.0,0.0,Improve
+115,No,No,7.0,6.0,7.0,5.0,Improve
+116,Yes,No,7.0,3.0,2.0,3.0,Improve
+117,No,Yes,2.0,7.0,5.0,0.0,Improve
+118,No,No,7.0,8.0,6.0,5.0,Improve
+119,No,No,4.0,7.0,1.0,0.0,Improve
+120,No,No,7.0,8.0,5.0,1.0,No effect
+121,No,No,5.0,2.0,8.0,6.0,Improve
+122,Yes,Yes,10.0,7.0,4.0,2.0,Improve
+123,No,No,6.0,5.0,0.0,0.0,No effect
+124,No,No,7.0,2.0,3.0,1.0,Improve
+125,Yes,Yes,4.0,7.0,7.0,3.0,Improve
+126,Yes,Yes,4.0,5.0,6.0,5.0,Improve
+127,Yes,Yes,7.0,10.0,5.0,6.0,Worsen
+128,No,No,6.0,4.0,5.0,0.0,Improve
+129,No,No,4.0,1.0,3.0,1.0,No effect
+130,Yes,No,6.0,6.0,1.0,2.0,Improve
+131,No,No,10.0,8.0,7.0,1.0,Improve
+132,No,No,10.0,8.0,2.0,8.0,Improve
+133,No,No,3.0,6.0,2.0,0.0,No effect
+134,Yes,No,8.0,9.0,2.0,0.0,Improve
+135,Yes,No,8.0,3.0,8.0,7.0,Improve
+136,Yes,No,3.0,3.0,1.0,2.0,Improve
+137,Yes,No,6.0,5.0,2.0,0.0,Improve
+138,No,Yes,0.0,0.0,4.0,0.0,No effect
+139,No,No,6.0,5.0,0.0,2.0,Improve
+140,No,No,3.0,8.0,0.0,0.0,Improve
+141,No,No,1.0,8.0,0.0,0.0,No effect
+142,No,No,5.0,6.0,6.0,3.0,Improve
+143,No,No,0.0,0.0,0.0,0.0,Improve
+144,No,No,0.0,8.0,0.0,0.0,Improve
+145,No,No,3.0,7.0,0.0,0.0,Improve
+146,Yes,Yes,8.0,8.0,8.0,5.0,Improve
+147,Yes,Yes,5.0,2.0,3.0,4.0,Improve
+148,Yes,No,8.0,8.0,3.0,0.0,Improve
+149,No,No,6.0,8.0,8.0,0.0,Improve
+150,No,No,6.0,8.0,6.0,0.0,Worsen
+151,Yes,Yes,6.0,6.0,7.0,5.0,Improve
+152,No,No,9.0,10.0,3.0,0.0,No effect
+153,Yes,No,7.0,7.0,5.0,0.0,Improve
+154,No,No,10.0,7.0,2.0,8.0,No effect
+155,Yes,No,1.0,3.0,0.0,6.0,No effect
+156,Yes,No,5.0,3.0,2.0,1.0,Improve
+157,No,No,6.0,8.0,1.0,6.0,Improve
+158,No,No,7.0,2.0,0.0,7.0,Improve
+159,Yes,No,6.0,9.0,9.0,0.0,Improve
+160,No,No,1.0,1.0,4.0,1.0,No effect
+162,No,No,8.0,8.0,2.0,0.0,Improve
+163,Yes,Yes,3.0,3.0,7.0,0.0,No effect
+164,No,No,8.0,8.0,3.0,0.0,Improve
+165,No,Yes,6.0,4.0,0.0,3.0,No effect
+166,No,No,1.0,0.0,0.0,0.0,Improve
+167,No,No,5.0,5.0,4.0,4.0,Improve
+169,Yes,No,8.0,8.0,7.0,6.0,Improve
+170,No,No,3.0,0.0,2.0,0.0,Improve
+171,No,No,0.0,5.0,1.0,0.0,No effect
+172,No,No,6.0,3.0,0.0,0.0,Improve
+173,No,Yes,1.0,7.0,5.0,1.0,Improve
+174,Yes,Yes,4.0,2.0,1.0,1.0,No effect
+175,No,No,5.0,6.0,0.0,1.0,No effect
+176,No,No,1.0,0.0,0.0,0.0,No effect
+177,No,No,8.0,6.0,5.0,2.0,Improve
+178,Yes,Yes,9.0,4.0,0.0,3.0,Improve
+179,No,No,4.0,6.0,6.0,4.0,Improve
+180,No,No,7.0,3.0,1.0,5.0,Improve
+181,No,No,10.0,3.0,1.0,0.0,No effect
+182,No,No,8.0,8.0,3.0,0.0,Improve
+183,No,No,7.0,6.0,5.0,4.0,Improve
+184,Yes,No,7.0,2.0,3.0,5.0,Improve
+185,No,No,10.0,3.5,5.0,10.0,Improve
+186,No,No,7.0,5.0,1.0,2.0,Improve
+187,Yes,No,6.0,8.0,9.0,5.0,Improve
+188,No,No,2.0,9.0,2.0,1.0,No effect
+189,Yes,Yes,7.0,4.0,10.0,2.0,Improve
+190,Yes,No,7.0,5.0,6.0,0.0,Improve
+191,No,No,6.0,1.0,0.0,0.0,Improve
+192,Yes,No,3.0,6.0,1.0,1.0,Improve
+193,No,No,9.0,10.0,3.0,0.0,Improve
+194,Yes,No,8.0,5.0,8.0,9.0,Improve
+195,No,No,8.0,7.0,7.0,3.0,Improve
+196,No,No,9.0,9.0,9.0,3.0,No effect
+197,No,No,9.0,8.0,9.0,7.0,Improve
+198,No,No,9.0,3.0,7.0,8.0,Improve
+199,No,No,10.0,8.0,6.0,2.0,Improve
+200,No,No,9.0,6.0,3.0,0.0,Improve
+201,No,No,7.0,7.0,8.0,3.0,Improve
+202,No,Yes,9.0,10.0,4.0,0.0,Improve
+203,No,No,9.0,9.0,8.0,2.0,Improve
+204,No,No,9.0,10.0,3.0,9.0,Improve
+205,Yes,Yes,10.0,9.0,8.0,8.0,Improve
+206,No,Yes,6.0,5.0,6.0,8.0,Improve
+207,No,No,8.0,6.0,10.0,3.0,Improve
+208,No,No,8.0,3.0,6.0,4.0,Improve
+209,Yes,No,4.0,2.0,1.0,3.0,Improve
+210,No,No,2.0,1.0,1.0,1.0,No effect
+211,No,No,10.0,10.0,7.0,3.0,Improve
+212,No,No,8.0,9.0,0.0,0.0,Improve
+213,No,No,4.0,9.0,6.0,2.0,No effect
+214,No,No,4.0,2.0,0.0,0.0,Improve
+215,No,No,9.0,2.0,7.0,7.0,Improve
+216,No,No,8.0,6.0,7.0,5.0,Improve
+217,Yes,No,6.0,5.0,4.0,2.0,Improve
+218,No,No,8.0,5.0,2.0,3.0,Improve
+219,Yes,Yes,7.0,6.0,6.0,1.0,No effect
+220,Yes,No,10.0,2.0,0.0,0.0,Improve
+221,No,No,6.0,0.0,0.0,0.0,Improve
+222,No,No,2.0,0.0,1.0,0.0,Improve
+224,No,No,9.0,0.0,2.0,0.0,Improve
+225,No,No,5.0,4.0,1.0,1.0,Improve
+226,No,No,8.0,4.0,0.0,1.0,Improve
+227,No,No,8.0,10.0,2.0,0.0,Improve
+228,No,No,3.0,6.0,2.0,1.0,No effect
+229,No,No,4.0,4.0,2.0,1.0,Improve
+230,Yes,No,7.0,5.0,2.0,6.0,Improve
+231,No,No,3.0,2.0,0.0,0.0,No effect
+232,Yes,Yes,9.0,9.0,5.0,1.0,Improve
+233,No,No,3.0,10.0,4.0,1.0,No effect
+234,No,No,9.0,0.0,5.0,0.0,No effect
+235,Yes,No,7.0,6.0,6.0,5.0,Improve
+236,No,Yes,0.0,9.0,4.0,0.0,Improve
+237,No,No,2.0,2.0,2.0,1.0,No effect
+238,Yes,Yes,6.0,9.0,2.0,1.0,Improve
+239,No,Yes,6.0,4.0,1.0,0.0,Improve
+240,Yes,No,8.0,9.0,4.0,0.0,Improve
+241,Yes,Yes,6.0,7.0,4.0,3.0,Improve
+242,Yes,Yes,7.0,2.0,2.0,0.0,Improve
+243,No,No,8.0,6.0,5.0,6.0,No effect
+244,No,No,3.0,10.0,0.0,0.0,Worsen
+245,Yes,No,9.0,4.0,9.0,7.0,Improve
+246,Yes,No,7.0,9.0,2.0,8.0,Worsen
+247,No,No,10.0,3.0,1.0,4.0,Improve
+248,Yes,Yes,0.0,0.0,0.0,1.0,No effect
+249,No,No,9.0,6.0,1.0,7.0,No effect
+250,No,Yes,7.0,1.0,3.0,5.0,Improve
+251,Yes,No,9.0,7.0,5.0,7.0,Improve
+252,No,No,3.0,1.0,2.0,7.0,Improve
+253,No,No,6.0,6.0,8.0,0.0,Improve
+254,No,No,10.0,6.0,0.0,4.0,Improve
+255,Yes,No,6.0,3.0,1.0,1.0,Improve
+256,No,No,3.0,3.0,0.0,7.0,No effect
+257,No,No,9.0,10.0,2.0,2.0,No effect
+258,No,No,7.0,5.0,0.0,2.0,No effect
+259,No,No,3.0,0.0,4.0,4.0,No effect
+260,No,No,9.0,9.0,6.0,4.0,Improve
+261,Yes,No,5.0,7.0,7.0,2.0,Improve
+262,No,No,0.0,8.0,0.0,5.0,Improve
+263,No,No,8.0,4.0,3.0,4.0,Improve
+264,No,No,7.0,2.0,0.0,7.0,No effect
+265,No,No,9.0,9.0,6.0,9.0,No effect
+266,Yes,No,5.0,7.0,5.0,4.0,Improve
+267,Yes,No,5.0,1.0,0.0,0.0,Improve
+268,No,Yes,4.0,1.0,3.0,0.0,Improve
+269,No,No,3.0,5.0,3.0,0.0,Improve
+270,Yes,No,2.0,2.0,0.0,6.0,Improve
+271,No,No,0.0,1.0,3.0,5.0,Improve
+272,No,No,7.0,8.0,6.0,2.0,Improve
+273,No,Yes,6.0,4.0,8.0,8.0,Improve
+274,No,No,5.0,6.0,8.0,2.0,Improve
+275,No,No,6.0,6.0,2.0,6.0,No effect
+276,No,No,8.0,9.0,3.0,4.0,Improve
+277,Yes,Yes,8.0,4.0,3.0,3.0,Worsen
+278,Yes,Yes,8.0,6.0,5.0,7.0,Improve
+279,No,No,8.0,8.0,7.0,7.0,Improve
+280,No,Yes,5.0,2.0,5.0,0.0,Improve
+281,Yes,Yes,6.0,8.0,4.0,2.0,No effect
+282,No,No,7.0,5.0,2.0,1.0,No effect
+283,No,No,8.0,8.0,7.0,1.0,Improve
+284,Yes,No,10.0,2.0,0.0,0.0,Improve
+285,Yes,Yes,8.0,7.0,7.0,5.0,Improve
+286,No,No,8.0,8.0,8.0,6.0,Improve
+287,Yes,Yes,8.0,10.0,9.0,2.0,Improve
+288,No,No,6.0,1.0,8.0,4.0,No effect
+289,No,No,0.0,4.0,4.0,0.0,Improve
+290,No,No,8.0,10.0,10.0,8.0,No effect
+291,No,No,3.0,2.0,0.0,1.0,No effect
+292,Yes,Yes,5.0,3.0,3.0,1.0,Improve
+293,No,No,8.0,9.0,6.0,1.0,Improve
+294,Yes,No,10.0,3.0,0.0,10.0,No effect
+295,Yes,No,6.0,7.0,8.0,2.0,Improve
+296,Yes,No,7.0,4.0,7.0,0.0,Improve
+297,Yes,No,9.0,8.0,6.0,2.0,Improve
+298,No,No,8.0,0.0,0.0,0.0,Improve
+299,Yes,Yes,8.0,9.0,2.0,5.0,No effect
+300,No,No,7.0,2.0,3.0,0.0,Improve
+301,Yes,Yes,10.0,10.0,4.0,0.0,Improve
+302,No,No,8.0,8.0,3.0,3.0,Improve
+303,Yes,No,8.0,7.0,7.0,4.0,Improve
+304,No,Yes,8.0,7.0,1.0,2.0,Improve
+305,No,No,6.0,5.0,10.0,2.0,No effect
+306,Yes,No,7.0,6.0,0.0,4.0,Improve
+307,No,No,7.0,4.0,0.0,0.0,Improve
+308,No,No,8.0,7.0,2.0,10.0,No effect
+309,No,No,4.0,4.0,4.0,0.0,Improve
+310,No,No,0.0,0.0,2.0,0.0,No effect
+311,Yes,Yes,6.0,4.0,0.0,1.0,Improve
+312,No,No,4.0,7.0,0.0,0.0,Improve
+313,No,No,8.0,4.0,3.0,0.0,No effect
+314,No,No,5.0,5.0,3.0,3.0,Improve
+315,No,No,0.0,8.0,0.0,0.0,Improve
+316,Yes,No,7.0,4.0,6.0,1.0,Improve
+317,No,No,8.0,7.0,7.0,3.0,No effect
+318,No,No,9.0,8.0,6.0,2.0,Improve
+319,No,Yes,8.0,6.0,4.0,0.0,Improve
+320,No,No,7.0,2.0,0.0,8.0,Improve
+321,No,No,6.0,7.0,7.0,7.0,No effect
+322,No,No,7.0,6.0,4.0,2.0,Improve
+323,No,No,1.0,1.0,1.0,0.0,Improve
+324,No,No,1.0,1.0,3.0,0.0,Improve
+325,Yes,Yes,2.0,7.0,1.0,2.0,Improve
+326,No,No,6.0,2.0,3.0,1.0,No effect
+327,No,No,7.0,7.0,3.0,2.0,No effect
+328,Yes,No,8.0,7.0,0.0,3.0,No effect
+329,No,No,8.0,3.0,5.0,2.0,Improve
+330,Yes,Yes,5.0,4.0,2.0,0.0,Improve
+331,No,No,7.0,10.0,10.0,1.0,Improve
+332,No,No,7.0,6.0,8.0,4.0,Improve
+333,No,No,8.0,7.0,0.0,9.0,Improve
+334,No,No,10.0,7.0,3.0,3.0,No effect
+335,No,No,6.0,5.0,5.0,3.0,Improve
+336,No,No,8.0,7.0,6.0,8.0,No effect
+337,No,No,10.0,7.0,7.0,3.0,Worsen
+339,Yes,No,8.0,2.0,2.0,8.0,No effect
+340,No,No,3.0,7.0,4.0,0.0,Improve
+341,No,No,9.0,7.0,5.0,5.0,Improve
+342,No,No,5.0,3.0,0.0,0.0,Improve
+343,Yes,Yes,10.0,7.0,0.0,10.0,Improve
+344,No,No,8.0,0.0,0.0,3.0,Improve
+345,No,No,6.0,0.0,3.0,0.0,Improve
+346,Yes,No,7.0,9.0,4.0,6.0,Improve
+347,No,Yes,3.0,2.0,5.0,6.0,Improve
+348,Yes,No,4.0,2.0,0.0,0.0,Improve
+349,No,No,4.0,2.0,0.0,0.0,Improve
+350,No,No,5.0,3.0,1.0,0.0,No effect
+351,No,No,4.0,2.0,2.0,1.0,Improve
+352,Yes,No,4.0,0.0,6.0,5.0,No effect
+353,No,No,7.0,6.0,3.0,1.0,Improve
+354,No,No,7.0,8.0,6.0,2.0,Improve
+355,No,No,3.0,4.0,1.0,1.0,Improve
+356,Yes,No,9.0,7.0,2.0,1.0,Improve
+357,Yes,No,10.0,9.0,3.0,2.0,Improve
+358,No,No,9.0,9.0,7.0,3.0,Improve
+359,Yes,Yes,8.0,10.0,9.0,2.0,Improve
+360,No,No,8.0,9.0,6.0,4.0,Improve
+361,No,No,5.0,6.0,9.0,9.0,Improve
+362,No,No,9.0,3.0,7.0,2.0,Improve
+363,No,No,3.0,2.0,1.0,6.0,Improve
+364,No,No,7.0,7.0,4.0,0.0,Improve
+365,No,No,7.0,9.0,1.0,2.0,Improve
+366,No,No,5.0,1.0,9.0,1.0,Improve
+367,No,No,3.0,3.0,0.0,0.0,Improve
+368,Yes,No,8.0,7.0,5.0,4.0,Improve
+369,Yes,No,8.0,2.0,1.0,1.0,Improve
+370,No,No,4.0,0.0,0.0,0.0,Improve
+371,Yes,No,9.0,6.0,1.0,1.0,Improve
+372,No,No,10.0,7.0,2.0,0.0,Improve
+373,No,No,8.0,7.0,7.0,4.0,Improve
+374,No,No,1.0,0.0,0.0,0.0,Improve
+375,No,No,5.0,7.0,1.0,4.0,Improve
+376,No,Yes,7.0,6.0,9.0,2.0,Improve
+377,Yes,Yes,8.0,8.0,2.0,2.0,Improve
+378,Yes,No,2.0,2.0,8.0,0.0,No effect
+379,Yes,No,6.0,0.0,0.0,2.0,Improve
+380,No,No,2.0,0.0,1.0,0.0,Improve
+381,No,No,6.0,2.0,6.0,7.0,No effect
+382,No,No,6.0,1.0,0.0,5.0,Improve
+383,Yes,No,7.0,6.0,4.0,0.0,Improve
+384,Yes,Yes,0.0,0.0,3.0,0.0,Improve
+385,Yes,Yes,9.0,7.0,10.0,6.0,No effect
+386,No,No,10.0,0.0,0.0,0.0,No effect
+387,Yes,No,6.0,6.0,3.0,0.0,Improve
+388,No,No,4.0,3.0,1.0,6.0,Improve
+389,Yes,No,6.0,2.0,2.0,1.0,No effect
+390,No,No,2.0,2.0,3.0,2.0,Improve
+391,No,No,7.0,4.0,5.0,6.0,Improve
+392,Yes,No,7.0,5.0,3.0,2.0,Improve
+393,Yes,Yes,8.0,5.0,10.0,3.0,Improve
+394,No,Yes,7.0,5.0,6.0,5.0,Improve
+395,Yes,No,6.0,8.0,8.0,2.0,Improve
+396,Yes,No,1.0,2.0,4.0,3.0,Improve
+397,Yes,No,3.0,2.0,0.0,2.0,Improve
+398,No,No,6.0,7.0,7.0,4.0,Improve
+399,Yes,No,6.0,7.0,2.0,0.0,No effect
+400,No,No,9.0,8.0,4.0,8.0,Improve
+401,No,No,7.0,7.0,2.0,1.0,Improve
+402,Yes,No,1.0,0.0,1.0,0.0,Improve
+403,No,No,4.0,3.0,4.0,5.0,Improve
+404,No,No,2.0,0.0,0.0,0.0,Improve
+405,Yes,No,0.0,5.0,7.0,0.0,No effect
+406,Yes,No,8.0,7.0,7.0,0.0,Improve
+407,No,No,5.0,10.0,8.0,0.0,No effect
+409,Yes,Yes,9.0,6.0,8.0,5.0,Improve
+410,Yes,Yes,2.0,2.0,7.0,0.0,No effect
+411,Yes,Yes,7.0,8.0,6.0,2.0,Improve
+412,No,No,10.0,10.0,8.0,2.0,No effect
+413,Yes,No,8.0,5.0,2.0,3.0,Improve
+414,Yes,No,7.0,8.0,2.0,5.0,Improve
+415,Yes,Yes,1.0,1.0,2.0,0.0,Improve
+416,Yes,Yes,9.0,10.0,10.0,3.0,No effect
+417,Yes,Yes,9.0,4.0,4.0,4.0,Improve
+418,Yes,No,8.0,2.0,4.0,0.0,No effect
+419,No,No,1.0,1.0,5.0,1.0,Improve
+420,No,No,10.0,9.0,9.0,8.0,Improve
+421,Yes,No,3.0,0.0,2.0,3.0,Improve
+422,Yes,No,4.0,0.0,4.0,0.0,Improve
+423,Yes,Yes,2.0,3.0,5.0,2.0,Improve
+424,Yes,Yes,2.0,3.0,3.0,0.0,Improve
+425,No,No,8.0,4.0,3.0,0.0,Improve
+426,No,No,10.0,10.0,10.0,7.0,Improve
+427,Yes,No,8.0,8.0,9.0,3.0,Improve
+428,Yes,Yes,0.0,1.0,0.0,2.0,Improve
+429,No,No,5.0,4.0,0.0,1.0,Improve
+430,No,No,7.5,5.0,7.0,8.5,Improve
+431,Yes,No,3.0,3.0,0.0,0.0,Improve
+432,Yes,No,7.0,5.0,3.0,1.0,Improve
+433,Yes,Yes,8.0,0.0,1.0,6.0,Improve
+434,No,No,6.0,4.0,1.0,1.0,Improve
+435,Yes,No,8.0,8.0,7.0,10.0,No effect
+436,No,No,10.0,8.0,9.0,5.0,Improve
+437,No,No,3.0,0.0,2.0,0.0,Improve
+438,No,No,5.0,5.0,7.0,1.0,Worsen
+439,No,Yes,7.0,7.0,6.0,5.0,Improve
+440,No,No,7.0,4.0,6.0,3.0,Improve
+442,No,No,4.0,0.0,0.0,2.0,Worsen
+443,No,No,3.0,0.0,6.0,9.0,Improve
+444,No,Yes,5.0,1.0,6.0,0.0,Improve
+445,No,No,10.0,6.0,8.0,0.0,Improve
+446,No,No,7.0,5.0,1.0,2.0,No effect
+447,No,No,7.0,7.0,0.0,4.0,No effect
+448,No,No,6.0,0.0,0.0,0.0,Improve
+449,No,No,6.0,2.0,3.0,2.0,Improve
+450,No,No,7.0,6.0,7.0,9.0,Improve
+451,No,No,5.0,7.0,7.0,0.0,No effect
+452,No,No,7.0,6.0,4.0,3.0,Improve
+453,No,No,2.0,2.0,2.0,0.0,Improve
+454,No,No,9.0,5.0,0.0,7.0,Improve
+455,Yes,No,3.0,7.0,8.0,0.0,Worsen
+456,No,No,4.0,5.0,9.0,1.0,Improve
+457,Yes,No,1.0,0.0,7.0,0.0,Improve
+458,Yes,Yes,3.0,2.0,0.0,2.0,No effect
+459,No,No,1.0,6.0,1.0,2.0,Improve
+460,No,No,8.0,10.0,4.0,0.0,No effect
+461,No,No,8.0,10.0,10.0,0.0,No effect
+462,No,No,3.0,0.0,8.0,1.0,No effect
+463,No,No,3.0,4.0,1.0,0.0,Improve
+464,No,No,2.0,1.0,2.0,2.0,Improve
+465,No,No,0.0,0.0,0.0,0.0,No effect
+466,No,No,8.0,8.0,5.0,0.0,Improve
+467,No,No,1.0,1.0,1.0,0.0,No effect
+468,No,No,8.0,7.0,6.0,2.0,Improve
+469,No,No,6.0,5.0,4.0,0.0,No effect
+470,No,No,5.0,4.0,6.0,2.0,Improve
+471,Yes,No,3.0,1.0,0.0,2.0,No effect
+472,Yes,No,4.0,8.0,2.0,2.0,Improve
+473,No,No,5.0,6.0,3.0,1.0,Improve
+474,Yes,Yes,0.0,0.0,2.0,1.0,Improve
+475,No,No,7.0,6.0,7.0,4.0,Improve
+476,No,No,8.0,5.0,6.0,1.0,Improve
+477,No,No,4.0,4.0,2.0,0.0,Improve
+478,Yes,Yes,9.0,8.0,10.0,9.0,Improve
+479,No,No,5.0,5.0,7.0,0.0,Improve
+480,No,No,4.0,6.0,8.0,1.0,Improve
+481,No,No,4.0,8.0,5.0,0.0,Improve
+482,Yes,No,9.0,10.0,6.0,7.0,Improve
+483,No,No,3.0,2.0,2.0,2.0,Improve
+484,No,No,6.0,2.0,2.0,1.0,Improve
+485,No,No,2.0,0.0,3.0,0.0,No effect
+486,Yes,No,10.0,8.0,0.0,4.0,Improve
+487,Yes,No,4.0,4.0,2.0,2.0,Improve
+488,Yes,No,7.0,8.0,6.0,2.0,Improve
+489,No,No,7.0,6.0,5.0,5.0,Improve
+490,No,No,1.0,0.0,0.0,0.0,Improve
+491,Yes,Yes,6.0,2.0,8.0,0.0,Improve
+492,No,Yes,4.0,5.0,7.0,0.0,No effect
+493,No,No,10.0,7.0,0.0,0.0,Improve
+494,No,No,4.0,2.0,1.0,0.0,Improve
+495,No,No,7.0,6.0,2.0,3.0,Improve
+496,No,No,3.0,2.0,8.0,0.0,Improve
+497,Yes,Yes,10.0,7.0,4.0,3.0,Improve
+498,No,No,4.0,0.0,0.0,0.0,No effect
+499,No,No,7.0,7.0,0.0,0.0,Improve
+500,No,No,6.0,7.0,4.0,1.0,Improve
+501,No,No,7.0,6.0,2.0,7.0,Improve
+502,No,No,6.0,5.0,8.0,0.0,Improve
+503,No,No,10.0,10.0,2.0,3.0,Improve
+504,No,No,7.0,6.0,5.0,1.0,Improve
+505,No,No,3.0,0.0,0.0,0.0,Improve
+506,No,No,8.0,2.0,1.0,0.0,No effect
+507,No,No,7.0,6.0,6.0,5.0,Improve
+508,No,No,3.0,2.0,5.0,0.0,No effect
+509,No,No,8.0,2.0,1.0,0.0,Improve
+510,No,No,7.0,7.0,2.0,4.0,Improve
+511,No,No,5.0,1.0,1.0,1.0,Improve
+512,No,No,1.0,2.0,1.0,0.0,No effect
+513,No,No,2.0,1.0,2.0,2.0,Improve
+514,No,No,5.0,2.0,4.0,0.0,Improve
+515,No,No,7.0,2.0,1.0,0.0,Improve
+516,No,No,10.0,10.0,7.0,8.0,Improve
+517,No,No,7.0,2.0,1.0,6.0,Improve
+518,No,No,6.0,4.0,1.0,0.0,Improve
+519,No,No,5.0,9.0,6.0,1.0,Improve
+520,Yes,No,7.0,5.0,7.0,0.0,Improve
+521,No,No,7.0,6.0,7.0,4.0,Improve
+522,No,No,0.0,0.0,0.0,0.0,Improve
+523,No,No,3.0,5.0,0.0,2.0,No effect
+524,Yes,Yes,8.0,8.0,5.0,2.0,Improve
+525,Yes,No,8.0,7.0,10.0,6.0,Improve
+526,No,No,2.0,4.0,5.0,2.0,Improve
+527,Yes,No,7.0,3.0,9.0,2.0,Improve
+528,No,Yes,8.0,7.0,4.0,4.0,Improve
+529,No,No,0.0,0.0,0.0,5.0,No effect
+530,No,No,8.0,6.0,9.0,8.0,Improve
+531,No,No,4.0,2.0,3.0,2.0,Improve
+533,Yes,No,6.0,4.0,10.0,0.0,Improve
+534,No,No,8.0,8.0,10.0,0.0,Improve
+535,No,No,5.0,5.0,5.0,5.0,Improve
+536,No,No,10.0,8.0,6.0,2.0,No effect
+537,No,No,0.0,0.0,7.0,0.0,Improve
+538,Yes,Yes,8.0,8.0,10.0,0.0,Improve
+539,No,No,8.0,2.0,0.0,0.0,No effect
+540,Yes,Yes,7.0,8.0,4.0,10.0,Improve
+541,No,No,0.0,2.0,0.0,1.0,Improve
+542,Yes,No,3.0,5.0,4.0,0.0,Improve
+543,Yes,No,5.0,2.0,3.0,1.0,Improve
+544,No,No,6.0,1.0,0.0,0.0,Improve
+545,No,No,6.0,3.0,4.0,2.0,Improve
+546,Yes,Yes,5.0,6.0,8.0,2.0,Improve
+547,No,No,8.0,4.0,7.0,5.0,Improve
+548,No,No,1.0,1.0,2.0,3.0,Improve
+549,Yes,No,8.0,3.0,1.0,3.0,Improve
+550,No,Yes,3.0,3.0,0.0,0.0,Improve
+551,No,No,0.0,0.0,0.0,0.0,No effect
+552,No,No,5.0,4.0,2.0,0.0,No effect
+553,No,No,2.0,4.0,0.0,0.0,Improve
+554,No,No,4.0,6.0,0.0,2.0,Improve
+555,No,Yes,5.0,7.0,2.0,0.0,Improve
+556,No,No,4.0,0.0,7.0,0.0,No effect
+557,No,No,10.0,8.0,6.0,2.0,No effect
+558,Yes,Yes,3.0,3.0,1.0,0.0,Improve
+559,Yes,No,8.0,7.0,2.0,1.0,Improve
+560,No,No,3.0,3.0,0.0,3.0,Improve
+562,No,No,10.0,10.0,8.0,10.0,Improve
+563,Yes,No,10.0,2.0,7.0,8.0,Improve
+564,Yes,Yes,9.0,6.0,8.0,5.0,Improve
+565,No,No,6.0,4.0,1.0,6.0,Improve
+566,No,No,3.0,4.0,6.0,8.0,Improve
+567,No,No,10.0,10.0,10.0,0.0,Improve
+568,No,No,4.0,8.0,8.0,4.0,No effect
+569,No,No,3.0,0.0,0.0,0.0,Improve
+570,No,No,1.0,0.0,0.0,0.0,Improve
+571,No,No,5.0,6.0,7.0,7.0,No effect
+573,No,No,10.0,8.0,8.0,9.0,Improve
+574,Yes,No,3.0,0.0,3.0,4.0,Improve
+575,No,No,1.0,0.0,0.0,1.0,No effect
+576,No,No,6.0,6.0,0.0,0.0,Improve
+577,No,No,4.0,3.0,4.0,0.0,Improve
+578,No,No,6.0,4.0,0.0,0.0,Improve
+579,No,No,2.0,6.0,3.0,0.0,Worsen
+580,No,No,8.0,3.0,3.0,3.0,Improve
+581,No,No,8.0,10.0,7.0,3.0,No effect
+582,Yes,No,1.0,0.0,0.0,1.0,Improve
+583,Yes,Yes,8.0,6.0,6.0,8.0,Improve
+584,No,No,6.0,3.0,1.0,7.0,Improve
+585,Yes,No,2.0,0.0,3.0,0.0,Improve
+586,Yes,Yes,0.0,0.0,0.0,0.0,No effect
+587,Yes,Yes,10.0,10.0,6.0,6.0,Improve
+588,No,No,3.0,0.0,0.0,1.0,Improve
+589,No,No,7.0,9.0,10.0,0.0,Improve
+590,Yes,No,8.0,7.0,6.0,2.0,Improve
+591,No,No,2.0,0.0,10.0,10.0,Improve
+592,No,No,10.0,7.0,9.0,3.0,No effect
+593,No,No,6.0,0.0,0.0,0.0,Improve
+594,Yes,Yes,3.0,0.0,2.0,2.0,Improve
+595,No,No,6.0,5.0,9.0,8.0,Improve
+596,No,No,7.0,6.0,5.0,8.0,Improve
+597,Yes,No,10.0,7.0,8.0,6.0,Improve
+598,Yes,No,0.0,3.0,9.0,5.0,No effect
+599,No,No,0.0,2.0,1.0,5.0,Improve
+600,Yes,No,2.0,0.0,0.0,0.0,No effect
+601,No,No,2.0,2.0,4.0,0.0,No effect
+602,No,No,5.0,6.0,3.0,4.0,No effect
+603,No,No,0.0,0.0,1.0,0.0,No effect
+604,Yes,No,5.0,4.0,3.0,7.0,Improve
+605,Yes,No,2.0,7.0,0.0,0.0,Improve
+606,No,No,0.0,6.0,0.0,4.0,Improve
+607,No,No,0.0,0.0,0.0,0.0,Improve
+608,Yes,Yes,7.0,5.0,1.0,3.0,Improve
+609,Yes,No,7.0,5.0,3.0,1.0,No effect
+610,No,No,3.0,3.0,1.0,8.0,No effect
+611,No,No,7.0,10.0,4.0,7.0,Worsen
+612,No,No,3.0,2.0,3.0,0.0,Improve
+613,No,No,5.0,1.0,1.0,9.0,Improve
+614,No,No,8.0,9.0,4.0,10.0,Improve
+615,No,No,4.0,8.0,0.0,0.0,Improve
+616,No,No,7.0,9.0,7.0,0.0,Improve
+617,Yes,No,1.0,5.0,6.0,4.0,No effect
+618,No,No,3.0,2.0,1.0,0.0,No effect
+619,Yes,Yes,6.0,8.0,0.0,0.0,Improve
+620,No,No,6.0,3.0,6.0,0.0,Improve
+621,Yes,Yes,7.0,4.0,8.0,0.0,Improve
+622,No,No,2.0,6.0,9.0,1.0,No effect
+623,No,No,8.0,5.0,3.0,8.0,Improve
+624,No,Yes,3.0,3.0,0.0,0.0,Improve
+625,No,No,7.0,5.0,3.0,3.0,Improve
+626,No,No,4.0,8.0,2.0,3.0,Improve
+627,Yes,No,3.0,0.0,0.0,5.0,Improve
+628,No,No,10.0,7.0,3.0,2.0,Improve
+629,No,No,10.0,4.0,8.0,0.0,Improve
+630,Yes,No,2.0,2.0,0.0,0.0,Improve
+631,No,No,8.0,7.0,7.0,3.0,Improve
+632,No,No,10.0,5.0,2.0,8.0,Improve
+633,No,No,9.0,10.0,10.0,6.0,No effect
+634,Yes,No,5.0,2.0,1.0,6.0,Improve
+635,Yes,Yes,4.0,8.0,9.0,1.0,Improve
+636,No,No,7.0,8.0,5.0,3.0,Improve
+637,No,No,2.0,2.0,0.0,3.0,No effect
+638,No,Yes,10.0,3.0,0.0,4.0,Improve
+639,No,No,10.0,10.0,10.0,9.0,Improve
+640,No,No,3.0,7.0,7.0,4.0,No effect
+641,No,No,7.0,5.0,7.0,7.0,Improve
+642,No,No,7.0,4.0,8.0,8.0,Improve
+643,Yes,No,7.0,9.0,4.0,5.0,Improve
+644,No,No,4.0,7.0,1.0,3.0,Improve
+645,No,No,5.0,9.0,9.0,6.0,Improve
+646,No,No,5.0,4.0,10.0,7.0,No effect
+647,No,No,7.0,2.0,0.0,1.0,Improve
+648,No,No,8.0,6.0,0.0,2.0,Improve
+649,No,No,1.0,3.0,10.0,0.0,No effect
+650,No,No,8.0,10.0,10.0,2.0,Worsen
+651,Yes,No,4.0,7.0,6.0,0.0,No effect
+652,No,No,9.0,6.0,3.0,0.0,No effect
+653,No,No,10.0,7.0,4.0,4.0,Improve
+654,No,No,1.0,2.0,2.0,0.0,No effect
+655,Yes,Yes,7.0,10.0,0.0,8.0,Improve
+656,No,No,10.0,2.0,1.0,10.0,Worsen
+657,No,No,2.0,1.0,2.0,2.0,Improve
+658,No,No,3.0,10.0,0.0,0.0,No effect
+659,No,No,7.0,10.0,2.0,0.0,Improve
+660,Yes,Yes,4.0,2.0,0.0,0.0,Improve
+661,No,No,4.0,2.0,5.0,3.0,Improve
+662,No,No,6.0,8.0,7.0,0.0,Improve
+663,No,No,8.0,6.0,4.0,0.0,Improve
+664,Yes,Yes,2.0,2.0,0.0,0.0,No effect
+665,No,No,8.0,7.0,9.0,3.0,Improve
+666,Yes,No,4.0,3.0,5.0,0.0,No effect
+667,No,No,6.0,1.0,0.0,4.0,No effect
+668,No,No,6.0,6.0,3.0,6.0,Improve
+669,No,No,8.0,7.0,1.0,1.0,No effect
+670,No,No,5.0,3.0,4.0,1.0,Improve
+671,No,No,6.0,2.0,4.0,3.0,Improve
+672,Yes,Yes,5.0,6.0,6.0,0.0,Improve
+673,Yes,Yes,6.0,10.0,8.0,1.0,Improve
+674,Yes,No,7.0,3.0,9.0,7.0,Improve
+675,Yes,No,4.0,6.0,0.0,0.0,No effect
+676,No,No,9.0,4.0,0.0,1.0,Improve
+677,No,No,9.0,7.0,7.0,5.0,Improve
+678,No,Yes,5.0,10.0,2.0,7.0,No effect
+679,No,No,1.0,0.0,1.0,0.0,Improve
+680,No,No,8.0,7.0,2.0,6.0,Improve
+681,No,No,5.0,1.0,4.0,0.0,Improve
+682,Yes,No,10.0,6.0,0.0,0.0,Improve
+683,No,No,7.0,5.0,5.0,5.0,Improve
+684,No,No,3.0,1.0,0.0,3.0,Improve
+685,No,No,5.0,8.0,7.0,4.0,Improve
+686,No,No,2.0,0.0,0.0,5.0,No effect
+687,Yes,No,7.0,0.0,0.0,0.0,No effect
+688,No,No,8.0,0.0,0.0,2.0,No effect
+689,No,No,4.0,1.0,1.0,0.0,Improve
+690,No,No,3.0,8.0,0.0,2.0,Improve
+691,No,No,7.0,0.0,2.0,2.0,Improve
+692,No,No,10.0,8.0,10.0,0.0,Improve
+693,Yes,Yes,7.0,1.0,1.0,1.0,Improve
+694,Yes,No,5.0,9.0,1.0,7.0,No effect
+695,Yes,Yes,0.0,0.0,0.0,0.0,No effect
+696,Yes,Yes,10.0,6.0,3.0,8.0,Improve
+697,Yes,No,7.0,3.5,3.5,5.5,Improve
+698,Yes,Yes,2.0,0.0,0.0,2.0,Improve
+699,No,No,10.0,10.0,10.0,8.0,Improve
+700,No,No,8.0,9.0,6.0,5.0,Worsen
+701,Yes,No,9.0,7.0,8.0,4.0,Improve
+702,No,No,6.0,4.0,5.0,0.0,Improve
+703,No,No,8.0,5.0,9.0,4.0,Improve
+704,Yes,No,3.0,7.0,0.0,0.0,Improve
+705,Yes,No,9.0,1.0,0.0,9.0,Improve
+706,Yes,No,8.0,6.0,1.0,4.0,Improve
+707,No,No,4.0,1.0,1.0,6.0,Improve
+708,No,No,6.0,5.0,3.0,1.0,No effect
+709,Yes,Yes,7.0,8.0,6.0,5.0,Improve
+710,Yes,Yes,8.0,9.0,5.0,10.0,Improve
+711,No,No,8.0,6.0,7.0,0.0,Improve
+712,No,No,10.0,5.0,2.0,0.0,Improve
+713,No,No,5.0,2.0,4.0,7.0,No effect
+714,No,No,9.0,3.0,2.0,0.0,No effect
+715,Yes,Yes,4.0,6.0,3.0,4.0,Improve
+716,No,No,9.0,8.0,4.0,0.0,Improve
+717,No,No,5.0,7.0,10.0,2.0,No effect
+718,Yes,No,8.0,3.0,9.0,2.0,No effect
+719,No,No,10.0,10.0,6.0,8.0,Improve
+720,No,No,7.0,7.0,5.0,5.0,Improve
+721,Yes,No,10.0,8.0,1.0,0.0,Improve
+722,No,No,8.0,6.0,2.0,0.0,Improve
+723,No,No,10.0,7.0,6.0,10.0,Improve
+724,No,No,6.0,6.0,8.0,0.0,Improve
+725,No,No,10.0,10.0,8.0,4.0,Worsen
+726,No,No,9.0,8.0,5.0,10.0,Improve
+727,No,No,0.0,0.0,0.0,0.0,No effect
+728,Yes,No,7.0,3.0,1.0,2.0,Improve
+729,No,No,6.0,2.0,2.0,0.0,Improve
+730,No,No,7.0,6.0,4.0,6.0,Improve
+731,Yes,No,7.0,6.0,0.0,9.0,Improve
+732,Yes,No,3.0,2.0,2.0,5.0,Improve
+733,No,Yes,2.0,2.0,2.0,2.0,Improve
+734,Yes,No,2.0,3.0,2.0,1.0,Improve
+735,No,No,2.0,2.0,2.0,5.0,Improve
